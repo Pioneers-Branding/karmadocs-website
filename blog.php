@@ -22,7 +22,7 @@ function blog_page_url($page, $cat) {
     $q = [];
     if ($cat !== '')  { $q['cat'] = $cat; }
     if ($page > 1)    { $q['paged'] = $page; }
-    return url('/blog.php' . ($q ? '?' . http_build_query($q) : ''));
+    return url('/blog' . ($q ? '?' . http_build_query($q) : ''));
 }
 
 require_once __DIR__ . '/includes/header.php';
@@ -79,7 +79,7 @@ require_once __DIR__ . '/includes/header.php';
                 <article class="bg-white rounded-2xl shadow-lg hover:shadow-xl transition-all duration-300 overflow-hidden group flex flex-col h-full border border-gray-100">
                     <!-- Image -->
                     <div class="relative h-64 overflow-hidden">
-                        <a href="<?php echo url('/single-blog.php?slug=' . $post['slug']); ?>" class="block h-full w-full">
+                        <a href="<?php echo url('/blog/' . $post['slug']); ?>" class="block h-full w-full">
                             <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" width="1600" height="900" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                             <div class="absolute inset-0 bg-brand-purple/20 group-hover:bg-transparent transition-colors duration-300"></div>
                         </a>
@@ -102,7 +102,7 @@ require_once __DIR__ . '/includes/header.php';
                         </div>
 
                         <h3 class="text-xl font-bold font-sans text-gray-900 mb-4 leading-tight group-hover:text-brand-purple transition-colors">
-                            <a href="<?php echo url('/single-blog.php?slug=' . $post['slug']); ?>"><?php echo htmlspecialchars($post['title']); ?></a>
+                            <a href="<?php echo url('/blog/' . $post['slug']); ?>"><?php echo htmlspecialchars($post['title']); ?></a>
                         </h3>
 
                         <p class="text-gray-600 font-light leading-relaxed mb-6 line-clamp-3">
@@ -110,7 +110,7 @@ require_once __DIR__ . '/includes/header.php';
                         </p>
 
                         <div class="mt-auto pt-6 border-t border-gray-100 flex items-center justify-between">
-                            <a href="<?php echo url('/single-blog.php?slug=' . $post['slug']); ?>" class="inline-flex items-center text-sm font-bold text-brand-purple uppercase tracking-wider hover:text-brand-orange transition-colors group-hover:translate-x-1 duration-300">
+                            <a href="<?php echo url('/blog/' . $post['slug']); ?>" class="inline-flex items-center text-sm font-bold text-brand-purple uppercase tracking-wider hover:text-brand-orange transition-colors group-hover:translate-x-1 duration-300">
                                 Read More <i class="fas fa-arrow-right ml-2 text-xs"></i>
                             </a>
                         </div>

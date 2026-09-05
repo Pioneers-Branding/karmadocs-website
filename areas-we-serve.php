@@ -3,53 +3,42 @@ $page_key = 'areas-we-serve';
 require_once __DIR__ . '/includes/header.php';
 ?>
 <style>
-        :root {
-            --brand-purple: #603177;
-            --brand-orange: #F48F12;
-            --brand-dark: #1a0f3c;
-            --brand-gray: #f9fafb;
-        }
-
-        * { margin:0; padding:0; box-sizing:border-box; }
-        body { font-family: 'Inter', sans-serif; background: #fff; color: var(--brand-dark); line-height: 1.6; }
-
-        .hero {
-            padding: 120px 20px;
-            background: linear-gradient(135deg, #1a0f3c 0%, var(--brand-purple) 100%);
+        .aws-hero {
+            padding: 120px 20px 80px;
+            background: linear-gradient(135deg, #1a0f3c 0%, #603177 100%);
             color: white;
             text-align: center;
             position: relative;
             overflow: hidden;
         }
 
-        .hero h1 { font-size: 64px; font-weight: 900; letter-spacing: -2px; margin-bottom: 20px; }
-        .hero p { font-size: 22px; opacity: 0.9; max-width: 800px; margin: 0 auto; }
+        .aws-hero h1 { font-size: 48px; font-weight: 900; letter-spacing: -1px; margin-bottom: 20px; }
+        .aws-hero p { font-size: 20px; opacity: 0.9; max-width: 800px; margin: 0 auto; }
 
-        .container {
-            max-width: 1400px;
-            margin: 80px auto;
-            padding: 0 40px;
+        @media (min-width: 768px) {
+            .aws-hero h1 { font-size: 64px; letter-spacing: -2px; }
+            .aws-hero p { font-size: 22px; }
         }
 
-        .grid-header {
+        .aws-grid-header {
             display: flex;
             align-items: center;
             gap: 20px;
             margin-bottom: 50px;
         }
-        .grid-header h2 { font-size: 32px; font-weight: 800; color: var(--brand-purple); }
-        .grid-header .line { flex-grow: 1; height: 1px; background: #eee; }
+        .aws-grid-header h2 { font-size: 32px; font-weight: 800; color: #603177; }
+        .aws-grid-header .line { flex-grow: 1; height: 1px; background: #eee; }
 
-        .location-grid {
+        .aws-location-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
             gap: 15px;
         }
 
-        .loc-link {
+        .aws-loc-link {
             display: block;
             padding: 15px 20px;
-            background: var(--brand-gray);
+            background: #f9fafb;
             border: 1px solid #eee;
             border-radius: 12px;
             text-decoration: none;
@@ -59,39 +48,31 @@ require_once __DIR__ . '/includes/header.php';
             transition: all 0.2s ease;
         }
 
-        .loc-link:hover {
+        .aws-loc-link:hover {
             background: white;
-            border-color: var(--brand-orange);
-            color: var(--brand-orange);
+            border-color: #F48F12;
+            color: #F48F12;
             transform: translateY(-3px);
             box-shadow: 0 10px 20px rgba(244,143,18,0.1);
         }
-
-        footer {
-            padding: 60px 20px;
-            background: var(--brand-dark);
-            color: white;
-            text-align: center;
-            margin-top: 100px;
-        }
     </style>
-<main id="main" class="site-main" role="main">
+<main id="main" class="site-main pt-20" role="main">
 
 
-<section class="hero">
+<section class="aws-hero">
     <div style="position: absolute; top:0; left:0; right:0; bottom:0; background-image: radial-gradient(rgba(255,255,255,0.05) 1px, transparent 1px); background-size: 30px 30px; opacity: 0.3;"></div>
     <h1>Areas We Serve</h1>
     <p>Providing expert psychiatric clinical excellence to over 495 communities across California.</p>
 </section>
 
-<div class="container">
-    <div class="grid-header">
+<div class="max-w-7xl mx-auto px-4 py-16">
+    <div class="aws-grid-header">
         <h2>Clinical Network</h2>
         <div class="line"></div>
         <span style="color: #999; font-weight: 700;">495 Locations</span>
     </div>
 
-    <div class="location-grid">
+    <div class="aws-location-grid">
         <a href='<?php echo url("/psychiatrist-near-4s-ranch/"); ?>' class='loc-link'>4S Ranch</a>
 <a href='<?php echo url("/psychiatrist-near-agoura-hills/"); ?>' class='loc-link'>Agoura Hills</a>
 <a href='<?php echo url("/psychiatrist-near-aguanga/"); ?>' class='loc-link'>Aguanga</a>

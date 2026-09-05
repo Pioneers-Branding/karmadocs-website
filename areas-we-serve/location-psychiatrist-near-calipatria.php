@@ -149,7 +149,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
         <div style="max-width: 1100px; margin: 0 auto; position: relative; z-index: 10;">
             <div class="lux-animate"
                 style="display: inline-block; background: rgba(244, 143, 18, 0.15); backdrop-filter: blur(15px); color: var(--brand-orange); padding: 12px 35px; border-radius: 100px; text-transform: uppercase; font-size: 14px; font-weight: 800; letter-spacing: 4px; margin-bottom: 40px; border: 1px solid rgba(244, 143, 18, 0.3);">
-                <a href='https://karmadocs.com/'
+                <a href='<?php echo url('/'); ?>'
                     style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma Doctors &
                     Associates</a>
             </div>
@@ -161,7 +161,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                 Access world-class psychiatric care in Calipatria. We bring our signature data-driven mental health
                 protocols from the Coachella Valley to your doorstep.</p>
             <div class="lux-animate" style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap;">
-                <a href="https://karmadocs.com/contact/"
+                <a href="<?php echo url('/contact'); ?>"
                     style="background: var(--brand-orange); color: white; padding: 25px 65px; border-radius: 100px; text-decoration: none; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; font-size: 15px; box-shadow: 0 20px 50px rgba(244, 143, 18, 0.4); transition: transform 0.3s ease;">
                     Book Appointment
                 </a>
@@ -272,7 +272,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     Find the light again. Our advanced therapies help you break free from the cycle of depression and
                     rediscover joy in life.
                 </p>
-                <a href="https://karmadocs.com/depression/"
+                <a href="<?php echo url('/depression'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -285,7 +285,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     peace
                     of mind.
                 </p>
-                <a href="https://karmadocs.com/anxiety/"
+                <a href="<?php echo url('/anxiety'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -298,7 +298,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     trauma
                     and reclaim your life.
                 </p>
-                <a href="https://karmadocs.com/ptsd/"
+                <a href="<?php echo url('/ptsd'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -310,7 +310,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     It's not just a childhood phase. Unlock your potential with our comprehensive testing and management
                     strategies for adult ADHD.
                 </p>
-                <a href="https://karmadocs.com/adhd/"
+                <a href="<?php echo url('/adhd'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -322,7 +322,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                 <p style="color: #6B7280; font-size: 17px; line-height: 1.8; margin-bottom: 30px;">
                     Stabilize your mood and reclaim your life. Comprehensive care for Bipolar I, II, and Cyclothymia.
                 </p>
-                <a href="https://karmadocs.com/bipolar/"
+                <a href="<?php echo url('/bipolar'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -333,7 +333,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                 <p style="color: #6B7280; font-size: 17px; line-height: 1.8; margin-bottom: 30px;">
                     Reclaim your time and peace of mind. Evidence-based treatment including ERP and TMS therapy.
                 </p>
-                <a href="https://karmadocs.com/ocd/"
+                <a href="<?php echo url('/ocd'); ?>"
                     style="font-weight: 900; color: var(--brand-purple); text-decoration: none; text-transform: uppercase; font-size: 13px; letter-spacing: 2.5px; border-bottom: 2px solid var(--brand-purple); padding-bottom: 5px;">Learn
                     More +</a>
             </div>
@@ -471,7 +471,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
             style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 80px; align-items: center;">
             <div>
                 <img src="<?php echo url(''); ?>/assets/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
-                    alt="Dr. Keerthy Sunder, MD — Founder, <a href='https://karmadocs.com/' style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma Doctors & Associates</a>"
+                    alt="Dr. Keerthy Sunder, MD — Founder, <a href='<?php echo url('/'); ?>' style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma Doctors & Associates</a>"
                     style="width: 100%; height: auto; border-radius: 40px; display: block; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" />
             </div>
             <div>
@@ -517,7 +517,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                         Years Experience</span>
                 </div>
 
-                <a href="https://karmadocs.com/about-us/"
+                <a href="<?php echo url('/about'); ?>"
                     style="display: inline-block; background: var(--brand-purple); color: white; padding: 20px 50px; border-radius: 100px; text-decoration: none; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; font-size: 14px; box-shadow: 0 15px 40px rgba(96, 49, 119, 0.3); transition: transform 0.3s ease;">
                     Learn More About Dr. Sunder
                 </a>
@@ -576,7 +576,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     <p style="color: rgba(255,255,255,0.7); font-size: 15px; line-height: 1.8; margin-bottom: 20px;">
                         FDA-cleared, drug-free magnetic stimulation personalized to your brain map for lasting relief.
                     </p>
-                    <a href="https://karmadocs.com/tms-therapy/"
+                    <a href="<?php echo url('/tms'); ?>"
                         style="color: var(--brand-orange); font-weight: 800; text-decoration: none; font-size: 13px; text-transform: uppercase; letter-spacing: 2px;">Learn
                         More →</a>
                 </div>
@@ -590,7 +590,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     <p style="color: rgba(255,255,255,0.7); font-size: 15px; line-height: 1.8; margin-bottom: 20px;">
                         Metabolic-aware prescribing with ongoing monitoring to optimize effectiveness and minimize side
                         effects.</p>
-                    <a href="https://karmadocs.com/medication-management/"
+                    <a href="<?php echo url('/medication-management'); ?>"
                         style="color: var(--brand-orange); font-weight: 800; text-decoration: none; font-size: 13px; text-transform: uppercase; letter-spacing: 2px;">Learn
                         More →</a>
                 </div>
@@ -604,7 +604,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     <p style="color: rgba(255,255,255,0.7); font-size: 15px; line-height: 1.8; margin-bottom: 20px;">
                         Advanced neuroimaging that reveals your brain's unique patterns, guiding precision treatment
                         decisions.</p>
-                    <a href="https://karmadocs.com/qeeg-brain-mapping/"
+                    <a href="<?php echo url('/tms'); ?>"
                         style="color: var(--brand-orange); font-weight: 800; text-decoration: none; font-size: 13px; text-transform: uppercase; letter-spacing: 2px;">Learn
                         More →</a>
                 </div>
@@ -618,7 +618,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     <p style="color: rgba(255,255,255,0.7); font-size: 15px; line-height: 1.8; margin-bottom: 20px;">
                         Combining nutrition, mindfulness, and clinical interventions for holistic mental health
                         transformation.</p>
-                    <a href="https://karmadocs.com/about-us/"
+                    <a href="<?php echo url('/about'); ?>"
                         style="color: var(--brand-orange); font-weight: 800; text-decoration: none; font-size: 13px; text-transform: uppercase; letter-spacing: 2px;">Learn
                         More →</a>
                 </div>
@@ -1018,7 +1018,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                     <details class="faq-item">
                         <summary>Do you accept insurance for psychiatric services?</summary>
                         <div class="faq-answer">
-                            <p>Yes, <a href='https://karmadocs.com/'
+                            <p>Yes, <a href='<?php echo url('/'); ?>'
                                     style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma
                                     Doctors & Associates</a> accepts most major insurance plans. We recommend contacting
                                 our
@@ -1145,7 +1145,7 @@ Meta Description: Searching for a top-rated psychiatrist near Calipatria, CA? Ka
                 </p>
 
                 <div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px;">
-                    <a href="https://karmadocs.com/contact/"
+                    <a href="<?php echo url('/contact'); ?>"
                         style="background: var(--brand-orange); color: white; padding: 22px 55px; border-radius: 100px; text-decoration: none; font-weight: 900; text-transform: uppercase; letter-spacing: 2px; font-size: 14px; box-shadow: 0 15px 40px rgba(244, 143, 18, 0.4); transition: transform 0.3s ease;">
                         Book Your Evaluation
                     </a>

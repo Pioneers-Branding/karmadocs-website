@@ -21,7 +21,7 @@ if ($post === null) {
             <p class="text-gray-500 mb-10">
                 That article may have been moved or renamed. Browse our latest mental health articles instead.
             </p>
-            <a href="<?php echo url('/blog.php'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
+            <a href="<?php echo url('/blog'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
                 <i class="fas fa-arrow-left mr-2"></i> Back to All Articles
             </a>
         </div>
@@ -107,7 +107,7 @@ require_once __DIR__ . '/includes/header.php';
                 </h2>
                 <div class="grid gap-6 md:grid-cols-3">
                     <?php foreach ($related as $rel): ?>
-                        <a href="<?php echo url('/single-blog.php?slug=' . $rel['slug']); ?>"
+                        <a href="<?php echo url('/blog/' . $rel['slug']); ?>"
                            class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-shadow border border-gray-100 flex flex-col">
                             <div class="h-40 overflow-hidden">
                                 <img src="<?php echo url($rel['image']); ?>" alt="<?php echo htmlspecialchars($rel['title']); ?>"
@@ -128,7 +128,7 @@ require_once __DIR__ . '/includes/header.php';
 
         <!-- Back to Blog Button -->
         <div class="max-w-3xl mx-auto mt-12 text-center">
-            <a href="<?php echo url('/blog.php'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
+            <a href="<?php echo url('/blog'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
                 <i class="fas fa-arrow-left mr-2"></i> Back to All Articles
             </a>
         </div>
