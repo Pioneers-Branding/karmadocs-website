@@ -260,3 +260,42 @@ h6,
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* ---------------------------------------------------------------
+   Blog article tables
+   Migrated WordPress tables are wider than the article column on
+   phones. Without this the whole page scrolls sideways. The figure
+   scrolls instead, so the table keeps its normal table layout.
+   --------------------------------------------------------------- */
+.prose .wp-block-table {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.prose .wp-block-table > table {
+  min-width: 32rem;   /* keep columns readable rather than crushing them */
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* Faint edge hint so it is obvious the table can be scrolled */
+@media (max-width: 640px) {
+  .prose .wp-block-table {
+    background:
+      linear-gradient(to right, #fff 30%, rgba(255, 255, 255, 0)) left center,
+      linear-gradient(to left, #fff 30%, rgba(255, 255, 255, 0)) right center;
+    background-size: 2.5rem 100%, 2.5rem 100%;
+    background-repeat: no-repeat;
+    background-attachment: local, local;
+  }
+}
+
+/* Long unbroken strings (raw URLs pasted as link text) must not widen the page */
+.prose {
+  overflow-wrap: break-word;
+}
+
+.prose a {
+  overflow-wrap: anywhere;
+}

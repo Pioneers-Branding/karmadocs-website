@@ -77,7 +77,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <b>Major depressive disorder (or more “typical” depression) is more like atypical depression than not. </b><span style="font-weight: 400;">They share most of their characteristics. To understand the core differences between Major Depressive Disorder and atypical depression, refer to the chart below:</span>
 
 &nbsp;
-<table>
+<figure class="wp-block-table"><table>
 <thead>
 <tr>
 <th><span style="font-weight: 400;">Symptom</span></th>
@@ -132,7 +132,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <td><span style="font-weight: 400;">Yes</span></td>
 </tr>
 </tbody>
-</table>
+</table></figure>
 &nbsp;
 
 <span style="font-weight: 400;">Since atypical depression is a sub-category within major depressive disorder, they have a lot in common. But keep in mind that </span><b>you don’t have to have every single one of these symptoms for months before getting help. </b><span style="font-weight: 400;">You only need two of the extra atypical symptoms to qualify as atypically depressed. If you’ve felt sad or empty for two weeks or more, it’s not too early to speak with a </span><a href="https://karmadocs.com/post/therapists-near-me-how-to-choose-the-right-mental-health-professional"><span style="font-weight: 400;">professional</span></a><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> </span>
