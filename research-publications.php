@@ -7,10 +7,10 @@ require_once __DIR__ . '/includes/header.php';
     <main class="">
 
         <!-- Exquisite Hero Section -->
-        <section class="relative bg-purple-300 flex items-center overflow-hidden py-20 lg:py-0 min-h-[600px] lg:h-[70vh]">
+        <section class="relative bg-gradient-to-br from-purple-50 via-white to-gray-50 flex items-center overflow-hidden py-20 lg:py-0 min-h-[600px] lg:h-[70vh]">
             <!-- Right Side Background Image -->
             <div class="absolute top-0 right-0 w-full lg:w-1/2 h-full hidden lg:block z-0" style="
-                      background-image: url('<?php echo url(''); ?>/assets/insurances/tms-research.webp');
+                      background-image: url('<?php echo url('/assets/insurances/tms-research.webp'); ?>');
                       background-size: cover;
                       background-repeat: no-repeat;
                   ">
@@ -114,7 +114,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <div
                                     class="absolute -inset-4 bg-gradient-to-r from-brand-purple to-brand-orange opacity-20 blur-xl rounded-2xl">
                                 </div>
-                                <img src="<?php echo url(''); ?>/assets/gallery/research/Dr_sunder_Award_05.webp"
+                                <img src="<?php echo url('/assets/gallery/research/Dr_sunder_Award_05.webp'); ?>"
                                     alt="Dr. Keerthy Sunder accepting the Golden Axon Leadership Award on stage at the 2023 SBMT Gala"
                                     width="791" height="489" loading="lazy" decoding="async"
                                     class="relative rounded-xl shadow-lg w-full h-auto">
@@ -125,27 +125,27 @@ require_once __DIR__ . '/includes/header.php';
                     <!-- Recognition Grid -->
                     <div class="grid md:grid-cols-3 gap-6 max-w-6xl mx-auto">
                         <!-- Card 1 -->
-                        <div class=" rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
+                        <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="100">
-                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto">
+                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Science & Innovation</h4>
                             <p class="text-sm text-gray-500">Pioneering advancements in TMS technology and personalized
                                 psychiatric treatment protocols.</p>
                         </div>
                         <!-- Card 2 -->
-                        <div class="  rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
+                        <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="200">
-                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge"
-                                class="h-20 w-auto mb-4 mx-auto block transition-transform">
+                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge"
+                                class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Arts & Culture</h4>
                             <p class="text-sm text-gray-500">Supporting mental health awareness through partnerships
                                 with visual and performing arts.</p>
                         </div>
                         <!-- Card 3 -->
-                        <div class="  rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
+                        <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="300">
-                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge"
-                                class="h-20 w-auto mb-4 mx-auto block transition-transform">
+                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge"
+                                class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Policy & Advocacy</h4>
                             <p class="text-sm text-gray-500">Active leadership in global summits to shape the future of
                                 mental healthcare policy.</p>
@@ -239,16 +239,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.47746/FMCR.2026.7103</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Explores functional, affective, sleep, and quality-of-life outcomes following
                                 EEG-spectra-guided PrTMS in a 73-year-old patient experiencing age-related cognitive
                                 changes, demonstrating substantial improvements in perceived cognitive function,
                                 mood, anxiety, and sleep.
                             </p>
-                            <a href="https://dx.doi.org/10.47746/FMCR.2026.7103" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.47746/FMCR.2026.7103" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/Spectral%20EEG-Guided%20Adaptive%20Neuromodulation%20for%20Age-Related%20Cognitive%20Changes.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 2 -->
@@ -276,16 +282,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.3389/fpsyt.2026.1719274</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Examines rTMS treatment of recurrent MDD and GAD in a patient with atrial
                                 fibrillation, demonstrating a 55% reduction in PHQ-9 scores and 22.2% reduction in
                                 GAD-7 scores, marking the first study demonstrating safety and efficacy of figure-8
                                 coil rTMS at 10 Hz in MDD comorbid with AF.
                             </p>
-                            <a href="https://doi.org/10.3389/fpsyt.2026.1719274" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://doi.org/10.3389/fpsyt.2026.1719274" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/rTMS%20for%20Recurrent%20MDD%20and%20GAD%20Comorbid%20with%20Atrial%20Fibrillation.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 3 -->
@@ -314,16 +326,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.31080/ASNE.2026.09.0893</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Underscores the feasibility of transcranial photobiomodulation (tPBM) as a
                                 maintenance strategy following an acute rTMS course for treatment-resistant MDD and
                                 GAD, with all three patients sustaining clinical response over approximately 6 months
                                 post-rTMS.
                             </p>
-                            <a href="https://dx.doi.org/10.31080/ASNE.2026.09.0893" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.31080/ASNE.2026.09.0893" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/Maintenance%20tPBM%20Following%20an%20Acute%20rTMS%20Course%20for%20Recurrent%20MDD%20and%20GAD.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 4 -->
@@ -351,15 +369,21 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.31080/ECMCR.2025.08.1033</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Examines rTMS for recurrent MDD and GAD in a patient with Thalamic Pain Syndrome,
                                 achieving a 95.5% reduction in PHQ-9 scores and 88.2% reduction in GAD-7 scores,
                                 with notable improvement in neuropathic pain symptoms and quality of life.
                             </p>
-                            <a href="https://dx.doi.org/10.31080/ECMCR.2025.08.1033" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.31080/ECMCR.2025.08.1033" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/RTMS%20For%20Recurrent%20Major%20Depressive%20Disorder%20And%20Generalized%20Anxiety%20Disorder%20Comorbid%20With%20Thalamic%20Pain%20Syndrome_%20A%20Case%20Report.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 5 -->
@@ -388,16 +412,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.31080/ECMCR.2025.08.0857</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Explores rTMS therapeutic outcomes in a patient with recurrent MDD and GAD comorbid
                                 with multiple co-occurring systemic diseases—heart failure, renal disease, type 2
                                 diabetes, and HIV—achieving more than 50% symptom reduction by week 5 and more than
                                 80% improvement from week 6 onward.
                             </p>
-                            <a href="https://dx.doi.org/10.31080/ECMCR.2025.08.0857" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.31080/ECMCR.2025.08.0857" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/rTMS%20for%20Recurrent%20Major%20Depressive%20Disorder%20and%20Generalized%20Anxiety%20Disorder%20Comorbid%20with%20Heart%20Failure,%20Renal%20Disease,%20%20Type%202%20Diabetes,%20and%20HIV.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 6 -->
@@ -425,16 +455,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.31080/ECNE.2025.17.0170</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Evaluates PrTMS therapeutic outcomes in three pediatric patients with autism
                                 spectrum disorder over six weeks, showing an average reduction of 7.5 points in CARS
                                 scores and 9-point reduction in ADHD symptoms as measured by the NICHQ Vanderbilt
                                 Assessment Scale.
                             </p>
-                            <a href="https://dx.doi.org/10.31080/ECNE.2025.17.0170" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.31080/ECNE.2025.17.0170" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/PrTMS%20in%20Pediatric%20Patients%20with%20Autism%20Chennai%20Paper.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 7 -->
@@ -463,16 +499,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.31080/ASNE.2025.08.0809</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Provides evidence demonstrating the beneficial effects of PrTMS coupled with tPBM
                                 in treating co-occurring TBI and PTSD in a 28-year-old male, achieving a 64.29%
                                 reduction in GAD-7, 50% decrease in PHQ-9, 74.07% reduction in NSI, and 68.63%
                                 decrease in PCL-5 scores.
                             </p>
-                            <a href="https://dx.doi.org/10.31080/ASNE.2025.08.0809" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://dx.doi.org/10.31080/ASNE.2025.08.0809" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/PrTMS%20and%20tPBM%20for%20TBI%20and%20PTSD.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 8 -->
@@ -500,16 +542,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| PMID: 39581107</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Explores therapeutic outcomes of PrTMS in two PTSD patients with co-occurring
                                 psychiatric disorders, using spectral EEG-guided alpha brainwave optimization. PCL-5
                                 scores showed an average reduction of 20.5 points by treatment midpoint, while GAD-7
                                 and PHQ-9 decreased by 7 and 8.5 points, respectively.
                             </p>
-                            <a href="https://pubmed.ncbi.nlm.nih.gov/39581107/" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://pubmed.ncbi.nlm.nih.gov/39581107/" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/EEG-Spectra-Guided%20Personalized%20rTMS%20in%20PTSD%20with%20Co-%20occurring%20Psychiatric%20Disorders_%20A%20Case%20Series.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 9 -->
@@ -537,16 +585,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.3390/jpm14080857</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Open-label pilot study of PrTMS in 123 ABA-treated autism spectrum condition
                                 persons, demonstrating that 44% of subjects had ASC scale scores reduced below
                                 diagnostic cutoffs, with spectral EEG regression flattening implying a more balanced
                                 E/I ratio.
                             </p>
-                            <a href="https://doi.org/10.3390/jpm14080857" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://doi.org/10.3390/jpm14080857" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/PrTMS%20and%20Autism%20Publication.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 10 -->
@@ -573,16 +627,22 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.3390/brainsci14070733</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Comprehensive review of dopamine dysregulation in autism spectrum disorder,
                                 summarizing genetic and epigenetic alterations, disrupted mesolimbic reward pathways,
                                 and proposing a multi-level framework organizing ASD pathogenesis from genetic
                                 changes through to neurocognitive and social behavioral manifestations.
                             </p>
-                            <a href="https://doi.org/10.3390/brainsci14070733" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://doi.org/10.3390/brainsci14070733" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/DRD%20and%20Autism.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
                         <!-- Item 11 -->
@@ -609,7 +669,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| PMID: 38050640</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Exploring gene-based therapeutic strategies for Reward Deficiency Syndrome and its
                                 implication in addiction treatment, proposing new pathways for intervention.
                             </p>
@@ -642,7 +702,7 @@ require_once __DIR__ . '/includes/header.php';
                                         K</strong>, et al.</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Analyzing the clinical utility of GARS in diagnosing and treating Reward Deficiency
                                 Syndrome, offering a precision medicine approach to improved patient care.
                             </p>
@@ -652,43 +712,7 @@ require_once __DIR__ . '/includes/header.php';
                             </a>
                         </article>
 
-                        <!-- Item 13 -->
-                        <article
-                            class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
-                            data-aos="fade-up">
-                            <div
-                                class="absolute -left-[5px] top-2 w-2.5 h-2.5 rounded-full bg-gray-200 group-hover:bg-brand-purple ring-4 ring-white transition-all duration-300">
-                            </div>
-                            <div class="flex flex-col md:flex-row md:items-baseline md:justify-between gap-2 mb-2">
-                                <h3
-                                    class="text-xl font-bold text-gray-900 leading-snug group-hover:text-brand-purple transition-colors">
-                                    Preliminary Observations of Personalized Repetitive Magnetic Stimulation (PrTMS)
-                                    Guided by EEG Spectra for Concussion
-                                </h3>
-                                <span class="text-xs font-mono text-gray-400 whitespace-nowrap">Aug 2023</span>
-                            </div>
-                            <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs mb-3">
-                                <span
-                                    class="font-bold text-brand-purple uppercase tracking-wider bg-brand-purple/5 px-2 py-0.5 rounded">Brain
-                                    Sciences</span>
-                                <span class="text-gray-300">|</span>
-                                <span class="text-gray-600 italic">Makale MT, <strong class="text-gray-900">Sunder
-                                        K</strong>, et al.</span>
-                                <span class="text-gray-500">| PMID: 37626535</span>
-                            </div>
-                            <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
-                                A comprehensive study on the efficacy of personalized rTMS protocols in treating
-                                concussive symptoms with EEG guidance, demonstrating significant improvements in patient
-                                outcomes.
-                            </p>
-                            <a href="https://pubmed.ncbi.nlm.nih.gov/39118673/" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
-                        </article>
-
-                        <!-- Item 14 -->
+                        <!-- Item 13 (Preliminary Observations of PrTMS for Concussion) -->
                         <article
                             class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
                             data-aos="fade-up">
@@ -713,18 +737,24 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| PMID: 37626535</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Pilot clinical data showing positive therapeutic outcomes for concussion using PrTMS
                                 guided by spectral EEG, demonstrating the modality's efficacy in restoring alpha
                                 oscillatory synchrony and improving cognitive function in concussion patients.
                             </p>
-                            <a href="https://pubmed.ncbi.nlm.nih.gov/37626535/" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://pubmed.ncbi.nlm.nih.gov/37626535/" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
-                        <!-- Item 15 -->
+                        <!-- Item 14 -->
                         <article
                             class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
                             data-aos="fade-up">
@@ -748,19 +778,25 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| DOI: 10.1016/j.heliyon.2023.e18943</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Examines the effects of PrTMS in treatment-resistant PTSD among military combat
                                 veterans, demonstrating statistically significant improvements in PTSD symptoms,
                                 anxiety, and depression through spectral EEG-guided personalized neuromodulation
                                 protocols.
                             </p>
-                            <a href="https://doi.org/10.1016/j.heliyon.2023.e18943" target="_blank"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
+                            <div class="flex flex-wrap items-center gap-4">
+                                <a href="https://doi.org/10.1016/j.heliyon.2023.e18943" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
+                                    VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                                </a>
+                                <a href="<?php echo url('/assets/publications/PrTMS%20for%20PTSD%20in%20Miltary%20Combat%20Veterans.pdf'); ?>" target="_blank"
+                                    class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
+                                    <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
+                                </a>
+                            </div>
                         </article>
 
-                        <!-- Item 16 -->
+                        <!-- Item 15 -->
                         <article
                             class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
                             data-aos="fade-up">
@@ -783,7 +819,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| PMID: 37560184</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 A critical analysis of the economic burden of neuro-psychiatric disorders on a global
                                 scale, highlighting the cost-effectiveness of early intervention.
                             </p>
@@ -793,7 +829,7 @@ require_once __DIR__ . '/includes/header.php';
                             </a>
                         </article>
 
-                        <!-- Item 17 -->
+                        <!-- Item 16 -->
                         <article
                             class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
                             data-aos="fade-up">
@@ -816,7 +852,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <span class="text-gray-500">| PMID: 37361347</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Investigating the potential of Dopamine D2 Agonist Therapy in treating various
                                 psychiatric conditions, emphasizing mechanism of action and clinical response.
                             </p>
@@ -826,40 +862,7 @@ require_once __DIR__ . '/includes/header.php';
                             </a>
                         </article>
 
-                        <!-- Item 18 -->
-                        <!-- <article
-                            class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
-                            data-aos="fade-up">
-                            <div
-                                class="absolute -left-[5px] top-2 w-2.5 h-2.5 rounded-full bg-gray-200 group-hover:bg-red-500 ring-4 ring-white transition-all duration-300">
-                            </div>
-                            <div class="flex flex-col md:flex-row md:items-baseline md:justify-between gap-2 mb-2">
-                                <h3
-                                    class="text-xl font-bold text-gray-900 leading-snug group-hover:text-red-500 transition-colors">
-                                    Hemiplegic Migraines Exacerbated using an Injectable GLP-1 Agonist
-                                </h3>
-                                <span class="text-xs font-mono text-gray-400 whitespace-nowrap">Jan 2023</span>
-                            </div>
-                            <div class="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs mb-3">
-                                <span
-                                    class="font-bold text-red-500 uppercase tracking-wider bg-red-50 px-2 py-0.5 rounded">Case
-                                    Report</span>
-                                <span class="text-gray-300">|</span>
-                                <span class="text-gray-600 italic"><strong class="text-gray-900">Sunder K</strong>, et
-                                    al.</span>
-                            </div>
-                            <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
-                                Case study detailing the exacerbation of hemiplegic migraines in patients using specific
-                                GLP-1 agonists for weight loss, providing critical safety data for clinicians.
-                            </p>
-                            <a href="#"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
-                            </a>
-                        </article> -->
-
-                        <!-- Item 19 -->
+                        <!-- Item 17 -->
                         <article
                             class="group relative pl-8 border-l border-gray-200 hover:border-brand-purple transition-colors duration-300"
                             data-aos="fade-up">
@@ -882,14 +885,14 @@ require_once __DIR__ . '/includes/header.php';
                                     <strong class="text-gray-900">Sunder K</strong>, et al.</span>
                             </div>
                             <p
-                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-3 line-clamp-2 group-hover:line-clamp-none transition-all duration-500">
+                                class="text-sm text-gray-500 leading-relaxed max-w-3xl mb-4">
                                 Presents pilot clinical data on PrTMS guided by EEG spectra for the treatment of
                                 concussion, highlighting improvements in cognitive function, mood, and sleep quality
                                 through personalized neuromodulation protocols.
                             </p>
-                            <a href="<?php echo esc_url( url('') ); ?>/assets/publications/PrTMS%20for%20Concussions.pdf"
-                                class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
-                                VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
+                            <a href="<?php echo url('/assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
+                                class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3.5 py-1.5 rounded-full">
+                                <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                             </a>
                         </article>
 
@@ -1005,8 +1008,14 @@ require_once __DIR__ . '/includes/header.php';
 
                         <div class="flex flex-col md:flex-row items-center justify-between gap-12 relative z-10">
                             <div class="md:w-1/2">
-                                <img src="https://sunderfoundation.org/wp-content/uploads/2022/11/SF_logo_H_web.png"
-                                    alt="Sunder Foundation" class="h-16 mb-6 ">
+                                <div class="flex items-center gap-4 mb-6">
+                                    <img src="<?php echo url('/assets/lotus-logo.png'); ?>"
+                                        alt="Sunder Foundation Lotus Logo" class="h-14 w-auto object-contain bg-white/10 p-2 rounded-xl backdrop-blur-sm">
+                                    <div>
+                                        <span class="block text-2xl font-bold font-sans text-white tracking-wider uppercase leading-tight">Sunder</span>
+                                        <span class="block text-xs font-bold text-purple-200 tracking-[0.3em] uppercase">Foundation</span>
+                                    </div>
+                                </div>
                                 <h3 class="text-3xl font-bold mb-4 font-sans text-white">Healing Communities. <br>
                                     Empowering Minds.</h3>
                                 <p class="text-purple-100 text-sm leading-relaxed mb-8 max-w-md">

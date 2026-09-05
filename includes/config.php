@@ -85,3 +85,13 @@ function get_meta_description($page_key = '', $custom_desc = '') {
 
     return isset($descriptions[$page_key]) ? $descriptions[$page_key] : 'Karma Doctors & Associates provides double board-certified psychiatry and FDA-cleared TMS therapy in Palm Springs, Rancho Mirage, and Twentynine Palms, CA.';
 }
+
+/**
+ * Escapes URL to prevent XSS and undefined function errors
+ */
+if (!function_exists('esc_url')) {
+    function esc_url($url) {
+        return htmlspecialchars((string)$url, ENT_QUOTES, 'UTF-8');
+    }
+}
+
