@@ -87,11 +87,50 @@ function get_meta_description($page_key = '', $custom_desc = '') {
 }
 
 /**
- * Escapes URL to prevent XSS and undefined function errors
+ * Escapes values to prevent XSS and undefined WordPress function errors
  */
 if (!function_exists('esc_url')) {
     function esc_url($url) {
         return htmlspecialchars((string)$url, ENT_QUOTES, 'UTF-8');
+    }
+}
+if (!function_exists('esc_attr')) {
+    function esc_attr($text) {
+        return htmlspecialchars((string)$text, ENT_QUOTES, 'UTF-8');
+    }
+}
+if (!function_exists('esc_html')) {
+    function esc_html($text) {
+        return htmlspecialchars((string)$text, ENT_QUOTES, 'UTF-8');
+    }
+}
+if (!function_exists('add_filter')) {
+    function add_filter($tag, $callback, $priority = 10, $accepted_args = 1) {
+        return true;
+    }
+}
+if (!function_exists('language_attributes')) {
+    function language_attributes() {
+        echo 'lang="en"';
+    }
+}
+if (!function_exists('bloginfo')) {
+    function bloginfo($show = '') {
+        if ($show === 'charset') echo 'UTF-8';
+        else echo '';
+    }
+}
+if (!function_exists('wp_title')) {
+    function wp_title($sep = '&raquo;', $display = true, $seplocation = '') {
+        $title = 'Karma Doctors & Associates';
+        if ($display) echo $title;
+        return $title;
+    }
+}
+if (!function_exists('body_class')) {
+    function body_class($class = '') {
+        $classes = is_array($class) ? implode(' ', $class) : (string)$class;
+        echo 'class="' . htmlspecialchars($classes, ENT_QUOTES, 'UTF-8') . '"';
     }
 }
 

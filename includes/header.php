@@ -33,8 +33,9 @@ $is_active = function($key) use ($page_key) {
     <meta name="description" content="<?php echo htmlspecialchars($meta_desc, ENT_QUOTES, 'UTF-8'); ?>">
 
     <!-- Favicon -->
-    <link rel="icon" type="image/webp" href="<?php echo url('/assets/cloudinary/Logo-2_bchwgb.webp'); ?>">
-    <link rel="apple-touch-icon" href="<?php echo url('/assets/cloudinary/Logo-2_bchwgb.webp'); ?>">
+    <link rel="icon" type="image/png" href="<?php echo url('/assets/favicon-purple.png'); ?>">
+    <link rel="shortcut icon" type="image/png" href="<?php echo url('/assets/favicon-purple.png'); ?>">
+    <link rel="apple-touch-icon" href="<?php echo url('/assets/favicon-purple.png'); ?>">
 
     <?php if ($page_key === 'home'): ?>
     <meta name="facebook-domain-verification" content="zgpw5nbikaspzue5i5cgtacxo1gt49" />

@@ -1,10 +1,5 @@
 <?php
-
-/* Force full-width layout */
-add_filter('body_class', function ($classes) {
-    $classes[] = 'page-template-lp';
-    return $classes;
-});
+require_once __DIR__ . '/includes/config.php';
 ?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
