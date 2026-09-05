@@ -1,13 +1,13 @@
 <?php
-/* Template Name: About Page */
-get_header();
+$page_key = 'about';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
 <!-- Full Width Hero Section -->
 <section class="relative h-[65vh] min-h-[500px] flex items-center">
     <!-- Background Image -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/-7261_itcxch.png" alt="Hero Background"
+        <img src="<?php echo url(''); ?>/assets/cloudinary/-7261_itcxch.png" alt="Hero Background"
             class="w-full h-full object-cover">
         <!-- Subtle Overlay -->
         <div class="absolute inset-0 bg-gradient-to-r from-black/50 via-black/20 to-transparent mix-blend-multiply">
@@ -113,7 +113,7 @@ get_header();
 
         <!-- Image Side -->
         <div class="max-h-[500px] md:h-auto relative overflow-hidden group order-1 md:order-2">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
+            <img src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
                 alt="Advanced Technology"
                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
             <div class="absolute inset-0 bg-brand-dark/20 group-hover:bg-transparent transition-colors duration-500">
@@ -125,7 +125,7 @@ get_header();
     <div class="grid md:grid-cols-2">
         <!-- Image Side -->
         <div class="max-h-[500px] md:h-auto relative overflow-hidden group">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/team.png" alt="Good Karma"
+            <img src="<?php echo url(''); ?>/assets/team/team.png" alt="Good Karma"
                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
             <div class="absolute inset-0 bg-brand-orange/10 group-hover:bg-transparent transition-colors duration-500">
             </div>
@@ -180,14 +180,14 @@ get_header();
                     <span class="text-sm text-gray-500 uppercase tracking-wide">Board Certified</span>
                 </div>
                 <div class="text-center md:text-left hidden lg:block">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/Logo-2_bchwgb.webp"
+                    <img src="<?php echo url(''); ?>/assets/cloudinary/Logo-2_bchwgb.webp"
                         alt="Logo" class="h-12 opacity-50 invert">
                 </div>
             </div>
         </div>
         <!-- Image Side (5/12) -->
         <div class="lg:col-span-6 relative h-[500px] lg:h-auto bg-gray-200">
-            <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
+            <img src="<?php echo url(''); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
                 alt="Dr. Keerthy Sunder" class="absolute inset-0 w-full h-full object-cover object-top">
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent lg:hidden"></div>
             <div class="absolute bottom-6 left-6 text-white lg:hidden">
@@ -280,7 +280,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/dr-lyle-forehand.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/dr-lyle-forehand.jpg"
                             alt="Dr. Lyle Forehand"
                             class="w-full h-full object-cover object-[50%_30%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -337,7 +337,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/dr-ben.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/dr-ben.jpg"
                             alt="Dr. Benjamin Vanderschelden"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -375,7 +375,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/dr-chen.webp"
+                        <img src="<?php echo url(''); ?>/assets/team/dr-chen.webp"
                             alt="Dr. Yucui Chen, M.D."
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -412,7 +412,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/bethany-minick.jpeg"
+                        <img src="<?php echo url(''); ?>/assets/team/bethany-minick.jpeg"
                             alt="Bethany Minick, LMFT"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -459,7 +459,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/raymond-chung.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/raymond-chung.jpg"
                             alt="Raymond Chung, LMFT"
                             class="w-full h-full object-cover object-[50%_30%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -513,7 +513,7 @@ get_header();
                 <!-- <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/giovanni-birrueta.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/giovanni-birrueta.jpg"
                             alt="Giovanni Birrueta, PMHNP-BC"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -560,7 +560,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/emily-luu.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/emily-luu.jpg"
                             alt="Emily Luu, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -616,7 +616,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Nicole-Wright.png"
+                        <img src="<?php echo url(''); ?>/assets/team/Nicole-Wright.png"
                             alt="Nicole Wright, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -653,7 +653,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Kenneth-Granados.PNG"
+                        <img src="<?php echo url(''); ?>/assets/team/Kenneth-Granados.PNG"
                             alt="Dr. Kenneth Granados, DMSc, MSPAS, PA"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -690,7 +690,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Jordan-Wilkins.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/Jordan-Wilkins.jpg"
                             alt="Jordan Wilkins, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -725,7 +725,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Punit.webp"
+                        <img src="<?php echo url(''); ?>/assets/team/Punit.webp"
                             alt="Punit Patel, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -761,7 +761,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/rachel-parker.jpg"
+                        <img src="<?php echo url(''); ?>/assets/team/rachel-parker.jpg"
                             alt="Rachel Parker, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -808,7 +808,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Tracy-Mason.jpeg"
+                        <img src="<?php echo url(''); ?>/assets/team/Tracy-Mason.jpeg"
                             alt="Tracy Mason, PMHNP-BC"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -848,7 +848,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Anjali-Krishna.webp"
+                        <img src="<?php echo url(''); ?>/assets/team/Anjali-Krishna.webp"
                             alt="Anjali Krishna, Director of Operations"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -886,7 +886,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/josh.png"
+                        <img src="<?php echo url(''); ?>/assets/team/josh.png"
                             alt="Joshua Smith, Practice Director"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -922,7 +922,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Rachel-c.webp"
+                        <img src="<?php echo url(''); ?>/assets/team/Rachel-c.webp"
                             alt="Rachel Carranza, Practice Manager"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -961,7 +961,7 @@ get_header();
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/team/Ricardo.webp"
+                        <img src="<?php echo url(''); ?>/assets/team/Ricardo.webp"
                             alt="Ricardo Hernandez, Director of Communications"
                             class="w-full h-full object-cover object-[50%_20%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -1005,7 +1005,7 @@ get_header();
                  
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="0">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/mark-odron.jpg"
+                            <img src="<?php echo url(''); ?>/assets/team/mark-odron.jpg"
                                 alt="Mark Odron, MD"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1030,7 +1030,7 @@ get_header();
                     
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="50">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/jossie-avalos.jpeg"
+                            <img src="<?php echo url(''); ?>/assets/team/jossie-avalos.jpeg"
                                 alt="Jossie Avalos, LVN"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1055,7 +1055,7 @@ get_header();
                   
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="100">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/casey-phillips.jpg"
+                            <img src="<?php echo url(''); ?>/assets/team/casey-phillips.jpg"
                                 alt="Casey Phillips"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1080,7 +1080,7 @@ get_header();
               
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="150">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/vipul-reddy.jpg"
+                            <img src="<?php echo url(''); ?>/assets/team/vipul-reddy.jpg"
                                 alt="Vipul Reddy"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1107,7 +1107,7 @@ get_header();
                  
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/team/brianna-dela-cruz.jpg"
+                            <img src="<?php echo url(''); ?>/assets/team/brianna-dela-cruz.jpg"
                                 alt="Brianna Dela Cruz"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1365,4 +1365,4 @@ get_header();
 </script>
 
 <!-- Footer -->
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

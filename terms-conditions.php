@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Terms & Conditions */
-get_header();
+$page_key = 'terms-conditions';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Hero Section -->
@@ -248,4 +248,4 @@ get_header();
         </div>
     </section>
 
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

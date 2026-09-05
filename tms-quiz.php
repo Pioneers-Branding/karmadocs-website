@@ -1,6 +1,6 @@
 <?php
-/* Template Name: TMS Quiz */
-get_header();
+$page_key = 'tms-quiz';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
 <!-- ============================================================
@@ -40,4 +40,4 @@ get_header();
 
 <script src="https://link.msgsndr.com/js/form_embed.js"></script>
 
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

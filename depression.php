@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Depression Service */
-get_header();
+$page_key = 'depression';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
 <!-- Hero Section -->
@@ -241,7 +241,7 @@ get_header();
                     been feeling these for more than two weeks, reach out.
                 </p>
 
-                <a href="<?php echo home_url('contact'); ?>"
+                <a href="<?php echo url('contact'); ?>"
                     class="inline-block px-8 py-4 rounded-full bg-white text-brand-purple font-bold uppercase tracking-wider hover:bg-brand-orange hover:text-white transition-all shadow-[0_0_20px_rgba(255,255,255,0.3)] hover:shadow-[0_0_30px_rgba(244,143,18,0.5)] transform hover:-translate-y-1">
                     Book Assessment
                 </a>
@@ -449,7 +449,7 @@ get_header();
                     </div>
                 </div>
 
-                <a href="<?php echo home_url('contact'); ?>"
+                <a href="<?php echo url('contact'); ?>"
                     class="block w-full text-center py-4 bg-white text-brand-purple rounded-xl font-bold uppercase tracking-wider hover:bg-brand-orange hover:text-white transition-all shadow-lg z-10">
                     Learn More
                 </a>
@@ -471,7 +471,7 @@ get_header();
             </p>
             <div class="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-green-50 border border-green-200 rounded-full">
                 <i class="fas fa-shield-alt text-green-600"></i>
-                <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo home_url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
+                <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
             </div>
         </div>
 
@@ -763,7 +763,7 @@ get_header();
         </div>
 
         <div class="mt-12 text-center" data-aos="fade-up" data-aos-delay="500">
-            <a href="<?php echo home_url('contact'); ?>"
+            <a href="<?php echo url('contact'); ?>"
                 class="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white transition-all duration-200 bg-brand-purple rounded-full hover:bg-brand-purpleLight hover:-translate-y-1 shadow-lg hover:shadow-brand-purple/30">
                 Start Your Recovery
                 <i class="fas fa-arrow-right ml-2"></i>
@@ -785,7 +785,7 @@ get_header();
             </a>
 
             <!-- Nav Item -->
-            <a href="<?php echo home_url('anxiety'); ?>"
+            <a href="<?php echo url('anxiety'); ?>"
                 class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                 <div
                     class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -795,7 +795,7 @@ get_header();
             </a>
 
             <!-- Nav Item -->
-            <a href="<?php echo home_url('ptsd'); ?>"
+            <a href="<?php echo url('ptsd'); ?>"
                 class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                 <div
                     class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -805,7 +805,7 @@ get_header();
             </a>
 
             <!-- Nav Item -->
-            <a href="<?php echo home_url('adhd'); ?>"
+            <a href="<?php echo url('adhd'); ?>"
                 class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                 <div
                     class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -815,7 +815,7 @@ get_header();
             </a>
 
             <!-- Nav Item -->
-            <a href="<?php echo home_url('bipolar'); ?>"
+            <a href="<?php echo url('bipolar'); ?>"
                 class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                 <div
                     class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -826,7 +826,7 @@ get_header();
             </a>
 
             <!-- Nav Item -->
-            <a href="<?php echo home_url('ocd'); ?>"
+            <a href="<?php echo url('ocd'); ?>"
                 class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                 <div
                     class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -839,4 +839,4 @@ get_header();
 </section>
 
 <!-- Footer -->
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

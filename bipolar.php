@@ -1,14 +1,14 @@
 <?php
-/* Template Name: ADHD Service */
-get_header();
+$page_key = 'bipolar';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Hero Section -->
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?q=80&w=2070&auto=format&fit=crop"
-                alt="Focused person working" class="w-full h-full object-cover">
+            <img src="https://images.unsplash.com/photo-1474418397713-7ede21d49118?q=80&w=2053&auto=format&fit=crop"
+                alt="Stacked stones balancing" class="w-full h-full object-cover">
             <div
                 class="absolute inset-0 bg-gradient-to-r from-brand-purple/95 via-brand-purple/80 to-brand-purple/60 mix-blend-multiply">
             </div>
@@ -25,14 +25,13 @@ get_header();
             </div>
             <h1 class="font-sans text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight"
                 data-aos="fade-up" data-aos-delay="100">
-                Adult ADHD <br class="hidden md:block">Treatment in <span
-                    class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-yellow-300">Palm
-                    Springs</span>
+                Finding Your <br class="hidden md:block">Balance with <span
+                    class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-yellow-300">Bipolar
+                    Disorder</span>
             </h1>
             <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90"
                 data-aos="fade-up" data-aos-delay="200">
-                It's not just a childhood phase. Unlock your potential with our comprehensive testing and management
-                strategies for adult ADHD.
+                Stabilize your mood and reclaim your life. Comprehensive care for Bipolar I, II, and Cyclothymia.
             </p>
 
             <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
@@ -53,8 +52,8 @@ get_header();
                     <div
                         class="absolute -inset-4 bg-gradient-to-br from-brand-orange/20 to-brand-purple/20 rounded-3xl blur-xl overflow-hidden">
                     </div>
-                    <img src="https://images.unsplash.com/photo-1541199249251-f713e6145474?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-                        alt="Productive environment"
+                    <img src="https://images.unsplash.com/photo-1620399353279-73133c96690d?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        alt="Peaceful mindset"
                         class="relative rounded-2xl shadow-2xl border-4 border-white w-full object-cover h-[500px] z-10 transform transition-transform hover:scale-[1.01] duration-500">
                 </div>
 
@@ -62,38 +61,38 @@ get_header();
                     <h4 class="text-brand-orange font-bold uppercase tracking-wider text-sm mb-2">Understanding the
                         Condition</h4>
                     <h2 class="font-sans text-4xl font-bold text-gray-900 mb-6">
-                        Evidence-Based ADHD Therapy & TMS in Palm Springs, CA
+                        Evidence-Based Bipolar Therapy & TMS in Palm Springs, CA
                     </h2>
 
                     <div class="space-y-6 text-gray-600 leading-relaxed text-lg">
                         <p>
-                            Attention-Deficit/Hyperactivity Disorder (ADHD) in adults can manifest as chronic lateness,
-                            anxiety, disorganization, and relationship issues. Many adults remain undiagnosed, blaming
-                            themselves for "laziness" or "lack of willpower."
+                            Bipolar Disorder is characterized by significant shifts in mood, energy, and activity
+                            levels. These aren't just normal ups and downs; they can be severe enough to affect
+                            relationships, job performance, and daily life.
                         </p>
                         <p>
-                            At <strong class="text-brand-purple">Karma Doctors & Associates</strong>, we provide
-                            clarity. We look beyond the surface to identify how your unique brain works and build a
-                            treatment plan that turns your "deficit" into a strength.
+                            At <strong class="text-brand-purple">Karma Doctors & Associates</strong>, we understand
+                            clarity and stability are the goals. We offer a combination of medication management and
+                            therapy to help you navigate specific challenges and prevent relapse.
                         </p>
                     </div>
 
                     <div class="mt-8 grid grid-cols-2 gap-4">
                         <div class="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm border border-gray-100">
                             <i class="fas fa-check-circle text-green-500 text-xl"></i>
-                            <span class="font-medium text-gray-700">Accurate Diagnosis</span>
+                            <span class="font-medium text-gray-700">Mood Stabilization</span>
                         </div>
                         <div class="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm border border-gray-100">
                             <i class="fas fa-check-circle text-green-500 text-xl"></i>
-                            <span class="font-medium text-gray-700">Medication Management</span>
+                            <span class="font-medium text-gray-700">Manic Episode Care</span>
                         </div>
                         <div class="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm border border-gray-100">
                             <i class="fas fa-check-circle text-green-500 text-xl"></i>
-                            <span class="font-medium text-gray-700">Executive Coaching</span>
+                            <span class="font-medium text-gray-700">Depression Support</span>
                         </div>
                         <div class="flex items-center gap-3 p-3 bg-white rounded-lg shadow-sm border border-gray-100">
                             <i class="fas fa-check-circle text-green-500 text-xl"></i>
-                            <span class="font-medium text-gray-700">Supportive Care</span>
+                            <span class="font-medium text-gray-700">Family Therapy</span>
                         </div>
                     </div>
                 </div>
@@ -101,22 +100,22 @@ get_header();
         </div>
     </section>
 
-    <!-- Spectrum of ADHD Section -->
+    <!-- Spectrum of Bipolar Section -->
     <section class="py-24 bg-white relative overflow-hidden pattern-grid">
         <div class="absolute inset-0 bg-gradient-to-b from-transparent via-white/80 to-white pointer-events-none"></div>
 
         <div class="container mx-auto px-4 relative z-10">
             <div class="text-center mb-16 max-w-3xl mx-auto">
-                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-800 mb-4">Types of Adult ADHD</h2>
+                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-800 mb-4">The Bipolar Spectrum</h2>
                 <div class="w-24 h-1.5 bg-gradient-to-r from-brand-purple to-brand-orange mx-auto rounded-full mb-6">
                 </div>
                 <p class="text-gray-600 text-lg">
-                    ADHD isn't one-size-fits-all. It presents in three primary ways.
+                    There are different types of Bipolar Disorder, each with unique patterns.
                 </p>
             </div>
 
             <div class="grid md:grid-cols-3 gap-8">
-                <!-- Card 1: Inattentive -->
+                <!-- Card 1: Bipolar I -->
                 <div class="group relative bg-white rounded-[2rem] p-8 shadow-xl transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100 overflow-hidden"
                     data-aos="fade-up" data-aos-delay="0">
                     <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-brand-purple to-indigo-500">
@@ -128,22 +127,22 @@ get_header();
                     <div class="relative z-10">
                         <div
                             class="w-16 h-16 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-8 border border-gray-50 group-hover:scale-110 transition-transform duration-300">
-                            <i class="fas fa-cloud-meatball text-3xl text-brand-purple bg-clip-text"></i>
+                            <i class="fas fa-chart-line text-3xl text-brand-purple bg-clip-text"></i>
                         </div>
 
                         <h3
                             class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-brand-purple transition-colors">
-                            Inattentive</h3>
+                            Bipolar I</h3>
                         <p class="text-gray-600 leading-relaxed mb-6">
-                            Often called "daydreaming." You struggle to focus, listen, or organize. You might lose
-                            things constantly or make careless mistakes.
+                            Characterized by manic episodes that last at least 7 days or are severe enough to require
+                            hospital care. Depressive episodes typically occur as well.
                         </p>
 
                         <ul class="space-y-2 mb-8 border-t border-gray-100 pt-6">
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-brand-purple rounded-full mr-2"></span> Disorganized</li>
+                                    class="w-1.5 h-1.5 bg-brand-purple rounded-full mr-2"></span> Manic Episodes</li>
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-brand-purple rounded-full mr-2"></span> Easily Distracted
+                                    class="w-1.5 h-1.5 bg-brand-purple rounded-full mr-2"></span> Depressive Lows
                             </li>
                         </ul>
 
@@ -151,7 +150,7 @@ get_header();
                     </div>
                 </div>
 
-                <!-- Card 2: Hyperactive -->
+                <!-- Card 2: Bipolar II -->
                 <div class="group relative bg-white rounded-[2rem] p-8 shadow-xl transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100 overflow-hidden"
                     data-aos="fade-up" data-aos-delay="100">
                     <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-brand-orange to-red-500"></div>
@@ -162,21 +161,21 @@ get_header();
                     <div class="relative z-10">
                         <div
                             class="w-16 h-16 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-8 border border-gray-50 group-hover:scale-110 transition-transform duration-300">
-                            <i class="fas fa-bolt text-3xl text-brand-orange"></i>
+                            <i class="fas fa-wave-square text-3xl text-brand-orange"></i>
                         </div>
 
                         <h3
                             class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-brand-orange transition-colors">
-                            Hyperactive</h3>
+                            Bipolar II</h3>
                         <p class="text-gray-600 leading-relaxed mb-6">
-                            Driven by a motor. You feel restless, fidgety, and struggle to sit still. You may interrupt
-                            others and act on impulse.
+                            A pattern of depressive episodes and hypomanic episodes (less severe than classic mania),
+                            but not the full-blown manic episodes of Bipolar I.
                         </p>
                         <ul class="space-y-2 mb-8 border-t border-gray-100 pt-6">
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-brand-orange rounded-full mr-2"></span> Restlessness</li>
+                                    class="w-1.5 h-1.5 bg-brand-orange rounded-full mr-2"></span> Hypomania</li>
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-brand-orange rounded-full mr-2"></span> Impulsivity
+                                    class="w-1.5 h-1.5 bg-brand-orange rounded-full mr-2"></span> Major Depression
                             </li>
                         </ul>
 
@@ -184,7 +183,7 @@ get_header();
                     </div>
                 </div>
 
-                <!-- Card 3: Combined -->
+                <!-- Card 3: Cyclothymia -->
                 <div class="group relative bg-white rounded-[2rem] p-8 shadow-xl transition-all duration-500 hover:-translate-y-2 hover:shadow-2xl border border-gray-100 overflow-hidden"
                     data-aos="fade-up" data-aos-delay="200">
                     <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-blue-500 to-cyan-400"></div>
@@ -195,20 +194,21 @@ get_header();
                     <div class="relative z-10">
                         <div
                             class="w-16 h-16 bg-white rounded-2xl shadow-lg flex items-center justify-center mb-8 border border-gray-50 group-hover:scale-110 transition-transform duration-300">
-                            <i class="fas fa-network-wired text-3xl text-blue-500"></i>
+                            <i class="fas fa-sync-alt text-3xl text-blue-500"></i>
                         </div>
 
                         <h3 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-blue-500 transition-colors">
-                            Combined</h3>
+                            Cyclothymia</h3>
                         <p class="text-gray-600 leading-relaxed mb-6">
-                            The most common presentation. You experience significantly both inattentive and
-                            hyperactive/impulsive symptoms.
+                            Defined by numerous periods of hypomanic symptoms and numerous periods of depressive
+                            symptoms lasting for at least 2 years.
                         </p>
                         <ul class="space-y-2 mb-8 border-t border-gray-100 pt-6">
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-blue-500 rounded-full mr-2"></span> Varied Symptoms</li>
+                                    class="w-1.5 h-1.5 bg-blue-500 rounded-full mr-2"></span> Chronic fluctuations</li>
                             <li class="flex items-center text-sm text-gray-500"><span
-                                    class="w-1.5 h-1.5 bg-blue-500 rounded-full mr-2"></span> Hard to Diagnose</li>
+                                    class="w-1.5 h-1.5 bg-blue-500 rounded-full mr-2"></span> Consistent instability
+                            </li>
                         </ul>
 
                         
@@ -234,17 +234,16 @@ get_header();
                     <span class="text-brand-orange font-bold uppercase tracking-widest text-sm mb-4 block">Warning
                         Signs</span>
                     <h2 class="font-sans text-4xl md:text-5xl font-bold mb-6 leading-tight">
-                        Common <br> Adult <span
-                            class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-pink-500">Signs</span>
+                        Identifying <br> The <span
+                            class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-pink-500">Shifts</span>
                     </h2>
                     <p class="text-gray-300 text-lg leading-relaxed mb-8">
-                        Symptoms in adults can be subtle and internal. You might feel "chaotic" inside even if you
-                        appear calm.
+                        The key to management is recognizing the signals of an episode before it escalates.
                     </p>
 
-                    <a href="<?php echo home_url('contact'); ?>"
+                    <a href="<?php echo url('contact'); ?>"
                         class="inline-block px-8 py-4 rounded-full bg-white text-brand-purple font-bold uppercase tracking-wider hover:bg-brand-orange hover:text-white transition-all shadow-[0_0_20px_rgba(255,255,255,0.3)] hover:shadow-[0_0_30px_rgba(244,143,18,0.5)] transform hover:-translate-y-1">
-                        Book Assessment
+                        Get Evaluated
                     </a>
                 </div>
 
@@ -257,11 +256,11 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-brand-purple to-indigo-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-smog text-white"></i>
+                                    <i class="fas fa-angle-double-up text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Brain Fog</h4>
-                                    <p class="text-gray-400 text-sm">Difficulty thinking clearly or starting details</p>
+                                    <h4 class="font-bold text-lg text-white">Mania/Hypomania</h4>
+                                    <p class="text-gray-400 text-sm">Euphoria, sleeplessness, racing thoughts</p>
                                 </div>
                             </div>
                         </div>
@@ -272,11 +271,11 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-brand-orange to-red-500 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-comment-dots text-white"></i>
+                                    <i class="fas fa-angle-double-down text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Impulsivity</h4>
-                                    <p class="text-gray-400 text-sm">Interrupting or spending rashly</p>
+                                    <h4 class="font-bold text-lg text-white">Depression</h4>
+                                    <p class="text-gray-400 text-sm">Hopelessness, fatigue, loss of interest</p>
                                 </div>
                             </div>
                         </div>
@@ -287,11 +286,11 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-teal-400 to-emerald-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-boxes text-white"></i>
+                                    <i class="fas fa-exclamation-triangle text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Disorganization</h4>
-                                    <p class="text-gray-400 text-sm">Messy spaces, lost keys, missed deadlines</p>
+                                    <h4 class="font-bold text-lg text-white">Risk Taking</h4>
+                                    <p class="text-gray-400 text-sm">Impulsive spending, reckless behavior</p>
                                 </div>
                             </div>
                         </div>
@@ -302,11 +301,11 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-pink-500 to-rose-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-battery-full text-white"></i>
+                                    <i class="fas fa-bolt text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Restlessness</h4>
-                                    <p class="text-gray-400 text-sm">A constant motor running inside</p>
+                                    <h4 class="font-bold text-lg text-white">Irritability</h4>
+                                    <p class="text-gray-400 text-sm">Extreme agitation or jumpiness</p>
                                 </div>
                             </div>
                         </div>
@@ -317,11 +316,12 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-yellow-400 to-orange-500 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-clock text-white"></i>
+                                    <i class="fas fa-moon text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Time Blindness</h4>
-                                    <p class="text-gray-400 text-sm">Running late, underestimating time</p>
+                                    <h4 class="font-bold text-lg text-white">Sleep Changes</h4>
+                                    <p class="text-gray-400 text-sm">Insomnia (depression) or no need for sleep (mania)
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -332,11 +332,11 @@ get_header();
                             <div class="flex items-center gap-4">
                                 <div
                                     class="w-12 h-12 rounded-full bg-gradient-to-br from-indigo-400 to-blue-600 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
-                                    <i class="fas fa-theater-masks text-white"></i>
+                                    <i class="fas fa-brain text-white"></i>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-lg text-white">Mood Swings</h4>
-                                    <p class="text-gray-400 text-sm">Low frustration tolerance</p>
+                                    <h4 class="font-bold text-lg text-white">Racing Thoughts</h4>
+                                    <p class="text-gray-400 text-sm">Fast, uncontrollable logic jumps</p>
                                 </div>
                             </div>
                         </div>
@@ -352,9 +352,9 @@ get_header();
             <div class="text-center mb-16">
                 <span class="text-brand-purple font-bold uppercase tracking-widest text-sm mb-2 block">Our
                     Approach</span>
-                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-6">Multimodal Treatment</h2>
+                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-6">Stabilization & Growth</h2>
                 <p class="text-gray-600 max-w-2xl mx-auto text-lg">
-                    The gold standard for treating Adult ADHD combines medication with skills-based therapy.
+                    We focus on long-term mood stability without sacrificing your personality or creativity.
                 </p>
             </div>
 
@@ -363,25 +363,26 @@ get_header();
                 <div class="group bg-white rounded-[2.5rem] p-2 hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 h-full flex flex-col"
                     data-aos="fade-up">
                     <div class="relative h-48 overflow-hidden rounded-[2rem] mb-4">
-                        <img src="https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=800&q=80" alt="Therapy"
+                        <img src="https://images.unsplash.com/photo-1585435557343-3b092031a831?w=800&q=80"
+                            alt="Medication"
                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors"></div>
                         <div
                             class="absolute bottom-4 left-4 bg-white/90 backdrop-blur px-4 py-1 rounded-full text-xs font-bold uppercase tracking-wider text-brand-purple shadow-lg">
-                            Skills</div>
+                            Core</div>
                     </div>
                     <div class="px-6 pb-8 flex-1">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-3">Coaching & CBT</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-3">Medication Management</h3>
                         <p class="text-gray-600 text-sm leading-relaxed mb-6">
-                            Learn practical strategies to organize your life, manage time, and emotional regulation
-                            techniques.
+                            Mood stabilizers and antipsychotics are essential for managing chemical imbalances and
+                            preventing episodes.
                         </p>
                         <div class="space-y-3">
                             <div class="flex items-center text-sm text-gray-700 font-medium">
-                                <i class="fas fa-check text-green-500 mr-3"></i> Time Management
+                                <i class="fas fa-check text-green-500 mr-3"></i> Lithium / Lamictal
                             </div>
                             <div class="flex items-center text-sm text-gray-700 font-medium">
-                                <i class="fas fa-check text-green-500 mr-3"></i> Executive Function
+                                <i class="fas fa-check text-green-500 mr-3"></i> Ongoing Monitoring
                             </div>
                         </div>
                     </div>
@@ -391,25 +392,25 @@ get_header();
                 <div class="group bg-white rounded-[2.5rem] p-2 hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 h-full flex flex-col"
                     data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-48 overflow-hidden rounded-[2rem] mb-4">
-                        <img src="https://images.unsplash.com/photo-1585435557343-3b092031a831?w=800&q=80"
-                            alt="Medication"
+                        <img src="https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=800&q=80" alt="Therapy"
                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors"></div>
                         <div
                             class="absolute bottom-4 left-4 bg-white/90 backdrop-blur px-4 py-1 rounded-full text-xs font-bold uppercase tracking-wider text-blue-600 shadow-lg">
-                            Support</div>
+                            Skills</div>
                     </div>
                     <div class="px-6 pb-8 flex-1">
-                        <h3 class="text-2xl font-bold text-gray-900 mb-3">Medication Management</h3>
+                        <h3 class="text-2xl font-bold text-gray-900 mb-3">Psychotherapy</h3>
                         <p class="text-gray-600 text-sm leading-relaxed mb-6">
-                            Stimulant and non-stimulant options can dramatically improve focus and reduce impulsivity.
+                            Constructive therapies like CBT and IPSRT help with routine regulation and identifying
+                            triggers.
                         </p>
                         <div class="space-y-3">
                             <div class="flex items-center text-sm text-gray-700 font-medium">
-                                <i class="fas fa-check text-green-500 mr-3"></i> Stimulants
+                                <i class="fas fa-check text-green-500 mr-3"></i> Routine Management
                             </div>
                             <div class="flex items-center text-sm text-gray-700 font-medium">
-                                <i class="fas fa-check text-green-500 mr-3"></i> Non-Stimulants
+                                <i class="fas fa-check text-green-500 mr-3"></i> Trigger Identification
                             </div>
                         </div>
                     </div>
@@ -428,32 +429,32 @@ get_header();
                         <div class="flex justify-between items-start mb-6">
                             <div
                                 class="bg-brand-orange px-4 py-1.5 rounded-full text-xs font-bold uppercase tracking-wider shadow-lg">
-                                Comprehensive</div>
+                                Support</div>
                             <i
-                                class="fas fa-clipboard-check text-4xl text-white/20 group-hover:text-white/40 transition-colors"></i>
+                                class="fas fa-users text-4xl text-white/20 group-hover:text-white/40 transition-colors"></i>
                         </div>
 
-                        <h3 class="text-3xl font-bold mb-4">QbTest Assessment</h3>
+                        <h3 class="text-3xl font-bold mb-4">Family-Focused</h3>
                         <p class="text-purple-100 text-sm leading-relaxed mb-8">
-                            We use advanced diagnostic tools like QBTest to objectively measure attention and
-                            impulsivity, ensuring an accurate diagnosis.
+                            Bipolar affects the whole family. We offer guidance to help loved ones understand the
+                            condition and support your stability.
                         </p>
 
                         <div class="grid grid-cols-2 gap-4 mb-8">
                             <div class="bg-white/10 rounded-xl p-3 backdrop-blur-sm">
-                                <p class="text-xs text-brand-orange font-bold uppercase">Data</p>
-                                <p class="text-sm font-semibold">Objective</p>
+                                <p class="text-xs text-brand-orange font-bold uppercase">Education</p>
+                                <p class="text-sm font-semibold">Empowerment</p>
                             </div>
                             <div class="bg-white/10 rounded-xl p-3 backdrop-blur-sm">
-                                <p class="text-xs text-brand-orange font-bold uppercase">Fast</p>
-                                <p class="text-sm font-semibold">Reliable</p>
+                                <p class="text-xs text-brand-orange font-bold uppercase">Plan</p>
+                                <p class="text-sm font-semibold">Crisis Mgmt</p>
                             </div>
                         </div>
                     </div>
 
-                    <a href="<?php echo home_url('contact'); ?>"
+                    <a href="<?php echo url('contact'); ?>"
                         class="block w-full text-center py-4 bg-white text-brand-purple rounded-xl font-bold uppercase tracking-wider hover:bg-brand-orange hover:text-white transition-all shadow-lg z-10">
-                        Get Tested
+                        Get Support
                     </a>
                 </div>
             </div>
@@ -469,11 +470,11 @@ get_header();
                 <div class="w-24 h-1.5 bg-gradient-to-r from-brand-purple to-brand-orange mx-auto rounded-full mb-6">
                 </div>
                 <p class="text-gray-600 text-lg">
-                    Managing ADHD starts with the right diagnosis and a structured, evidence-based treatment plan. Here's how our board-certified team guides you from evaluation to lasting focus and clarity.
+                    Bipolar disorder requires precise, ongoing clinical management. Here's how our board-certified team helps you achieve mood stability and long-term balance.
                 </p>
                 <div class="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-green-50 border border-green-200 rounded-full">
                     <i class="fas fa-shield-alt text-green-600"></i>
-                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo home_url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
+                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
                 </div>
             </div>
 
@@ -488,7 +489,7 @@ get_header();
                         <h3 class="text-xl font-bold text-gray-900">Board-Certified Psychiatric Evaluation</h3>
                     </div>
                     <p class="text-gray-500 leading-relaxed">
-                        A comprehensive ADHD evaluation conducted by <strong class="text-brand-purple">board-certified psychiatrists</strong>, including clinical interviews, symptom history review, and objective testing tools to accurately diagnose inattentive, hyperactive, or combined presentations.
+                        A comprehensive bipolar evaluation by <strong class="text-brand-purple">board-certified psychiatrists</strong>, assessing mood history, episode patterns, and co-occurring conditions to accurately distinguish Bipolar I, Bipolar II, and Cyclothymia.
                     </p>
                 </div>
 
@@ -502,7 +503,7 @@ get_header();
                         <h3 class="text-xl font-bold text-gray-900">Personalized Treatment Plan</h3>
                     </div>
                     <p class="text-gray-500 leading-relaxed">
-                        Plans are developed using <strong class="text-brand-purple">FDA-cleared protocols</strong> and evidence-based medicine, combining stimulant or non-stimulant medication options with CBT-based coaching strategies tailored to your specific ADHD subtype.
+                        Plans are developed using <strong class="text-brand-purple">FDA-cleared protocols</strong> and evidence-based medicine, incorporating mood stabilizers, atypical antipsychotics, and CBT/IPSRT strategies tailored to your specific bipolar subtype.
                     </p>
                 </div>
 
@@ -516,7 +517,7 @@ get_header();
                         <h3 class="text-xl font-bold text-gray-900">Expert-Led Treatment</h3>
                     </div>
                     <p class="text-gray-500 leading-relaxed">
-                        Administered by <strong class="text-brand-purple">certified specialists</strong> and overseen by MDs, your ADHD treatment includes executive function coaching, medication titration, and behavioral interventions designed to improve focus and impulse control.
+                        Administered by <strong class="text-brand-purple">certified specialists</strong> and overseen by MDs, treatment includes carefully titrated mood stabilizers, therapeutic interventions, and TMS for treatment-resistant depressive episodes.
                     </p>
                 </div>
 
@@ -530,7 +531,7 @@ get_header();
                         <h3 class="text-xl font-bold text-gray-900">Ongoing Recovery & Monitoring</h3>
                     </div>
                     <p class="text-gray-500 leading-relaxed">
-                        Wellness tracking aligned with <strong class="text-brand-purple">APA (American Psychiatric Association)</strong> guidelines, including regular follow-ups to adjust medication dosages, monitor symptom improvement, and refine coping strategies as your ADHD management evolves.
+                        Wellness tracking aligned with <strong class="text-brand-purple">APA (American Psychiatric Association)</strong> guidelines, monitoring mood stability, medication efficacy, and episode frequency to sustain long-term remission.
                     </p>
                 </div>
             </div>
@@ -546,10 +547,10 @@ get_header();
         <div class="container mx-auto px-4 relative z-10 max-w-6xl">
             <div class="text-center mb-16" data-aos="fade-up">
                 <span class="text-brand-orange font-bold uppercase tracking-widest text-sm mb-2 block">Patient Stories</span>
-                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-6">Real Outcomes, Real Focus</h2>
+                <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-6">Real Outcomes, Balanced Lives</h2>
                 <div class="w-24 h-1.5 bg-gradient-to-r from-brand-purple to-brand-orange mx-auto rounded-full mb-6"></div>
                 <p class="text-gray-600 max-w-2xl mx-auto text-lg">
-                    Hear directly from individuals who partnered with us to reclaim their executive function and live more fulfilling lives.
+                    Hear from individuals who found stability and reclaimed control of their lives through our integrative Bipolar disorder treatment programs.
                 </p>
             </div>
 
@@ -565,16 +566,16 @@ get_header();
                             <i class="fas fa-star"></i>
                         </div>
                         <p class="text-gray-600 italic leading-relaxed mb-8">
-                            "For years, I felt like my brain was constantly running on ten channels at once. The board-certified team at Karma Doctors not only diagnosed my ADHD through the objective QBTest but paired medication with real executive coaching. I finally feel in control of my daily focus and career."
+                            "For over a decade, I felt like my life was a roller coaster of manic ideas followed by months of paralyzing depression. Dr. Sunder optimized my medication regimen, moving me off heavy sedatives onto a highly tailored mood-stabilizing protocol. For the first time, I have consistent energy and stability."
                         </p>
                     </div>
                     <div class="flex items-center gap-4 pt-6 border-t border-gray-100">
                         <div class="w-12 h-12 rounded-full bg-brand-purple/10 flex items-center justify-center text-brand-purple font-bold text-lg">
-                            MS
+                            DK
                         </div>
                         <div>
-                            <h4 class="font-bold text-gray-900">Michael S.</h4>
-                            <p class="text-sm text-gray-500">Software Engineer</p>
+                            <h4 class="font-bold text-gray-900">David K.</h4>
+                            <p class="text-sm text-gray-500">Architect</p>
                         </div>
                     </div>
                 </div>
@@ -590,16 +591,16 @@ get_header();
                             <i class="fas fa-star"></i>
                         </div>
                         <p class="text-gray-600 italic leading-relaxed mb-8">
-                            "As an adult woman, my inattentive ADHD was completely overlooked for decades. Dr. Keerthy Sunder and the specialists here listened to my experience and customized a multi-modal treatment plan. The fog has cleared, and the constant restlessness is gone."
+                            "Managing Bipolar II meant navigating constant creative bursts followed by devastating crashes. The team here helped me combine specialized psychotherapy with psychiatric medication. I've regained my creative flow without the chaotic highs and lows."
                         </p>
                     </div>
                     <div class="flex items-center gap-4 pt-6 border-t border-gray-100">
                         <div class="w-12 h-12 rounded-full bg-brand-purple/10 flex items-center justify-center text-brand-purple font-bold text-lg">
-                            ER
+                            LM
                         </div>
                         <div>
-                            <h4 class="font-bold text-gray-900">Elena R.</h4>
-                            <p class="text-sm text-gray-500">Project Manager</p>
+                            <h4 class="font-bold text-gray-900">Laura M.</h4>
+                            <p class="text-sm text-gray-500">Graphic Designer</p>
                         </div>
                     </div>
                 </div>
@@ -615,16 +616,16 @@ get_header();
                             <i class="fas fa-star"></i>
                         </div>
                         <p class="text-gray-600 italic leading-relaxed mb-8">
-                            "Highly recommended. The combination of behavioral coaching and precise medication management saved my academic career. They treat you as a whole person, not just a set of symptoms."
+                            "The routine regulation and medication tracking support here are incredible. The specialists didn't just treat my symptoms; they helped me build a stable lifestyle that supports my long-term recovery."
                         </p>
                     </div>
                     <div class="flex items-center gap-4 pt-6 border-t border-gray-100">
                         <div class="w-12 h-12 rounded-full bg-brand-purple/10 flex items-center justify-center text-brand-purple font-bold text-lg">
-                            JT
+                            RC
                         </div>
                         <div>
-                            <h4 class="font-bold text-gray-900">Julian T.</h4>
-                            <p class="text-sm text-gray-500">Graduate Student</p>
+                            <h4 class="font-bold text-gray-900">Robert C.</h4>
+                            <p class="text-sm text-gray-500">Teacher</p>
                         </div>
                     </div>
                 </div>
@@ -642,11 +643,11 @@ get_header();
         <div class="container mx-auto px-4 relative z-10 max-w-4xl">
             <div class="text-center mb-16" data-aos="fade-up">
                 <span class="text-brand-purple font-bold uppercase tracking-widest text-sm mb-2 block">
-                    Got Questions?
+                    Common Questions
                 </span>
                 <h2 class="font-sans text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                    Frequently Asked <span
-                        class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-brand-orangeHover">Questions</span>
+                    Bipolar Disorder <span
+                        class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-brand-orangeHover">FAQs</span>
                 </h2>
                 <div class="w-24 h-1.5 bg-gradient-to-r from-brand-purple to-brand-orange mx-auto rounded-full mb-6">
                 </div>
@@ -659,7 +660,7 @@ get_header();
                     <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
                         <span
                             class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">What
-                            is adult ADHD and how does it affect daily life?</span>
+                            are the signs that I might need bipolar disorder treatment?</span>
                         <span
                             class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
                             <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
@@ -669,9 +670,9 @@ get_header();
                         class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
                         <div
                             class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            Adult ADHD is a neurodevelopmental condition that can affect attention, organization,
-                            impulse control, and time management. Symptoms may impact work performance, relationships,
-                            and daily responsibilities, even in highly capable adults.
+                            If you experience extreme mood swings ranging from emotional highs (mania or hypomania) to
+                            depressive lows that affect your sleep, energy, and judgment, professional evaluation is
+                            recommended. Early intervention in Palm Springs can help manage symptoms effectively.
                         </div>
                     </div>
                 </div>
@@ -682,7 +683,7 @@ get_header();
                     <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
                         <span
                             class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">How
-                            is adult ADHD diagnosed?</span>
+                            is Bipolar Disorder treated at Karma Doctors in Palm Springs?</span>
                         <span
                             class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
                             <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
@@ -692,9 +693,9 @@ get_header();
                         class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
                         <div
                             class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            Diagnosis typically involves a detailed clinical evaluation, review of symptom history, and
-                            assessment of how symptoms affect daily functioning. A comprehensive approach helps
-                            distinguish ADHD from other conditions with overlapping symptoms.
+                            We use a comprehensive approach combining mood-stabilizing medication with psychotherapy
+                            (such as CBT). Our Palm Springs clinic focuses on stabilizing mood swings while providing
+                            tools for long-term emotional regulation.
                         </div>
                     </div>
                 </div>
@@ -705,7 +706,7 @@ get_header();
                     <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
                         <span
                             class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans py-1">What
-                            adult ADHD treatment options are available in Palm Springs?</span>
+                            is the difference between Bipolar I and Bipolar II?</span>
                         <span
                             class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
                             <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
@@ -715,9 +716,9 @@ get_header();
                         class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
                         <div
                             class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            Adult ADHD treatment in Palm Springs may include medication management, behavioral
-                            strategies, and structured follow-up care. Treatment plans are individualized based on
-                            symptom patterns, lifestyle needs, and personal goals.
+                            Bipolar I involves severe manic episodes that may require immediate care, often accompanied
+                            by depression. Bipolar II is characterized by depressive episodes and hypomania (less severe
+                            elevation), which can be subtler but still disruptive.
                         </div>
                     </div>
                 </div>
@@ -727,8 +728,8 @@ get_header();
                     data-aos="fade-up" data-aos-delay="300">
                     <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
                         <span
-                            class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">Are
-                            there ADHD treatment centers in California for adults?</span>
+                            class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">Can
+                            I lead a normal life with Bipolar Disorder?</span>
                         <span
                             class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
                             <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
@@ -738,9 +739,9 @@ get_header();
                         class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
                         <div
                             class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            Yes, ADHD treatment centers in California provide adult-focused care, including evaluation
-                            and ongoing treatment. ADHD treatment in California may vary by location and provider, but
-                            most centers follow evidence-based clinical guidelines.
+                            Yes. With consistent treatment and support, many individuals with Bipolar Disorder lead
+                            fulfilling, productive lives. Our treatment plans are designed to help you maintain
+                            stability while preserving your personality and creativity.
                         </div>
                     </div>
                 </div>
@@ -750,8 +751,8 @@ get_header();
                     data-aos="fade-up" data-aos-delay="400">
                     <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
                         <span
-                            class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">How
-                            long does adult ADHD treatment usually last?</span>
+                            class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">Do
+                            you offer medication management for Bipolar Disorder in California?</span>
                         <span
                             class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
                             <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
@@ -761,39 +762,16 @@ get_header();
                         class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
                         <div
                             class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            Treatment duration varies. Some adults benefit from short-term support, while others require
-                            ongoing care to manage symptoms consistently over time, particularly during life or career
-                            transitions.
-                        </div>
-                    </div>
-                </div>
-
-                <!-- FAQ 6 -->
-                <div class="group bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-all duration-300"
-                    data-aos="fade-up" data-aos-delay="500">
-                    <button class="w-full flex justify-between items-center p-6 text-left focus:outline-none faq-btn">
-                        <span
-                            class="font-bold text-lg text-gray-800 group-hover:text-brand-purple transition-colors font-sans">How
-                            do I choose ADHD treatment providers in California?</span>
-                        <span
-                            class="flex-shrink-0 ml-4 w-8 h-8 rounded-full bg-gray-50 text-brand-orange flex items-center justify-center transition-transform duration-300 transform group-hover:bg-brand-orange/10">
-                            <i class="fas fa-plus transition-transform duration-300 faq-icon"></i>
-                        </span>
-                    </button>
-                    <div
-                        class="max-h-0 overflow-hidden transition-all duration-500 ease-in-out bg-gray-50/50 faq-content">
-                        <div
-                            class="p-6 pt-2 text-gray-600 leading-relaxed text-sm md:text-base border-t border-gray-100">
-                            When choosing ADHD treatment providers in California, it’s helpful to look for experience
-                            with adult ADHD, a thorough diagnostic process, and an approach that emphasizes
-                            personalized, evidence-based care.
+                            Yes, we provide expert medication management across California, including Palm Springs. We
+                            carefully monitor medications like lithium or mood stabilizers to ensure effectiveness and
+                            minimize side effects.
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="mt-12 text-center" data-aos="fade-up" data-aos-delay="600">
-                <a href="<?php echo home_url('contact'); ?>"
+            <div class="mt-12 text-center" data-aos="fade-up" data-aos-delay="500">
+                <a href="<?php echo url('contact'); ?>"
                     class="inline-flex items-center justify-center px-8 py-4 text-base font-bold text-white transition-all duration-200 bg-brand-purple rounded-full hover:bg-brand-purpleLight hover:-translate-y-1 shadow-lg hover:shadow-brand-purple/30">
                     Schedule Your Assessment
                     <i class="fas fa-arrow-right ml-2"></i>
@@ -809,7 +787,7 @@ get_header();
 
             <div class="flex flex-wrap justify-center gap-4 md:gap-6">
                 <!-- Nav Item -->
-                <a href="<?php echo home_url('depression'); ?>"
+                <a href="<?php echo url('depression'); ?>"
                     class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                     <div
                         class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -819,7 +797,7 @@ get_header();
                 </a>
 
                 <!-- Nav Item -->
-                <a href="<?php echo home_url('anxiety'); ?>"
+                <a href="<?php echo url('anxiety'); ?>"
                     class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                     <div
                         class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -829,7 +807,7 @@ get_header();
                 </a>
 
                 <!-- Nav Item -->
-                <a href="<?php echo home_url('ptsd'); ?>"
+                <a href="<?php echo url('ptsd'); ?>"
                     class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                     <div
                         class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -839,25 +817,24 @@ get_header();
                         & Trauma</span>
                 </a>
 
-                <!-- Nav Item Active -->
-                <a href="#"
-                    class="relative overflow-hidden rounded-full py-3 px-8 bg-brand-orange text-white shadow-lg shadow-brand-orange/30 transform scale-105 cursor-default">
-                    <span class="font-bold">ADHD</span>
-                </a>
-
                 <!-- Nav Item -->
-                <a href="<?php echo home_url('bipolar'); ?>"
+                <a href="<?php echo url('adhd'); ?>"
                     class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                     <div
                         class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
                     </div>
                     <span
-                        class="relative z-10 text-gray-600 font-bold group-hover:text-brand-purple transition-colors">Bipolar
-                        Disorder</span>
+                        class="relative z-10 text-gray-600 font-bold group-hover:text-brand-purple transition-colors">ADHD</span>
+                </a>
+
+                <!-- Nav Item Active -->
+                <a href="#"
+                    class="relative overflow-hidden rounded-full py-3 px-8 bg-brand-orange text-white shadow-lg shadow-brand-orange/30 transform scale-105 cursor-default">
+                    <span class="font-bold">Bipolar Disorder</span>
                 </a>
 
                 <!-- Nav Item -->
-                <a href="<?php echo home_url('ocd'); ?>"
+                <a href="<?php echo url('ocd'); ?>"
                     class="group relative overflow-hidden rounded-full py-3 px-8 border border-gray-200 hover:border-brand-purple transition-all duration-300">
                     <div
                         class="absolute inset-0 bg-brand-purple/5 transform scale-x-0 group-hover:scale-x-100 transition-transform origin-left duration-500">
@@ -870,4 +847,4 @@ get_header();
     </section>
 
     <!-- Footer -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

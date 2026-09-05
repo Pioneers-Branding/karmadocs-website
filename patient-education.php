@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Patient Education */
-get_header();
+$page_key = 'patient-education';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Hero Section -->
@@ -189,4 +189,4 @@ get_header();
     </section>
 
     <!-- Footer -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

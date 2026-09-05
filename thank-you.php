@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Thank You Page */
-get_header();
+$page_key = 'thank-you';
+require_once __DIR__ . '/includes/header.php';
 ?>
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11034311341"></script>
 <script>
@@ -112,11 +112,11 @@ get_header();
 
             <!-- CTA Buttons -->
             <div class="flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="500">
-                <a href="<?php echo home_url('/'); ?>"
+                <a href="<?php echo url('/'); ?>"
                     class="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white font-bold px-8 py-3.5 rounded-full shadow-lg shadow-brand-orange/30 hover:shadow-brand-orange/50 hover:-translate-y-0.5 transition-all text-sm uppercase tracking-wider">
                     <i class="fas fa-home text-xs"></i> Back to Home
                 </a>
-                <a href="<?php echo home_url('/contact'); ?>"
+                <a href="<?php echo url('/contact'); ?>"
                     class="inline-flex items-center justify-center gap-2 bg-white/10 hover:bg-white/20 border border-white/20 text-white font-semibold px-8 py-3.5 rounded-full transition-all text-sm uppercase tracking-wider">
                     <i class="fas fa-paper-plane text-xs"></i> Send Another Message
                 </a>
@@ -250,4 +250,4 @@ get_header();
     }
 </style>
 
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

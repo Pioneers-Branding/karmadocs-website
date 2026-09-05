@@ -1,6 +1,6 @@
 <?php
-/* Template Name: TMS Service */
-get_header();
+$page_key = 'tms';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
@@ -34,7 +34,7 @@ get_header();
             </p>
 
             <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
-                <a href="<?php echo home_url('contact'); ?>"
+                <a href="<?php echo url('contact'); ?>"
                     class="px-8 py-3.5 rounded-full bg-brand-orange hover:bg-brand-orangeHover text-white font-bold uppercase tracking-wider transition-all shadow-lg hover:shadow-brand-orange/50 hover:-translate-y-1">
                     Am I a Candidate?
                 </a>
@@ -55,7 +55,7 @@ get_header();
                         <div
                             class="absolute -inset-4 bg-gradient-to-tr from-brand-orange/20 to-brand-purple/20 rounded-full blur-2xl opacity-70">
                         </div>
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
+                        <img src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
                             alt="Brain Neural Network"
                             class="relative rounded-2xl shadow-2xl border-4 border-white w-full object-cover z-10">
                         <!-- Stat Badge -->
@@ -178,13 +178,13 @@ get_header();
                         </li>
                     </ul>
                     <div class="mt-8">
-                        <a href="<?php echo home_url('contact'); ?>"
+                        <a href="<?php echo url('contact'); ?>"
                             class="inline-block bg-white text-brand-dark font-bold px-8 py-3 rounded-full hover:bg-brand-orange hover:text-white transition-all transform hover:-translate-y-1">Get
                             Evaluated Today</a>
                     </div>
                 </div>
                 <div class="relative h-64 md:h-auto">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/IMG_9560_VSCO_2_nkpa9c.jpg"
+                    <img src="<?php echo url(''); ?>/assets/cloudinary/IMG_9560_VSCO_2_nkpa9c.jpg"
                         alt="Peace of Mind"
                         class="absolute inset-0 w-full h-full object-cover opacity-80 mix-blend-overlay">
                     <div class="absolute inset-0 bg-gradient-to-r from-brand-dark to-transparent"></div>
@@ -266,7 +266,7 @@ get_header();
                 </p>
                 <div class="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-green-50 border border-green-200 rounded-full">
                     <i class="fas fa-shield-alt text-green-600"></i>
-                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo home_url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
+                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
                 </div>
             </div>
 
@@ -527,7 +527,7 @@ get_header();
                 your recovery journey.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-4" data-aos="fade-up" data-aos-delay="200">
-                <a href="<?php echo home_url('tms-quiz'); ?>"
+                <a href="<?php echo url('tms-quiz'); ?>"
                     class="px-10 py-4 bg-brand-orange text-white font-bold rounded-full hover:bg-white hover:text-brand-orange transition-all shadow-[0_0_20px_rgba(244,143,18,0.5)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] transform hover:-translate-y-1">
                     Take TMS Quiz
                 </a>
@@ -540,4 +540,4 @@ get_header();
     </section>
 
     <!-- Content Rich Footer from Index -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

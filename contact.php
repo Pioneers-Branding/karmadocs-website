@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Contact Page */
-get_header();
+$page_key = 'contact';
+require_once __DIR__ . '/includes/header.php';
 ?>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=AW-11034311341"></script>
@@ -16,7 +16,7 @@ get_header();
 <section class="relative pt-32 pb-20 overflow-hidden bg-brand-purple">
     <!-- Background -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo get_template_directory_uri(); ?>/assets/cloudinary/85f47624-7140-4d90-bfc8-2869d5d1d4c0.png"
+        <img src="<?php echo url(''); ?>/assets/cloudinary/85f47624-7140-4d90-bfc8-2869d5d1d4c0.png"
             alt="Banner Background" class="w-full h-full object-cover opacity-40 mix-blend-multiply">
         <div class="absolute inset-0 bg-gradient-to-b from-white/50 to-brand-purpleLight/30"></div>
     </div>
@@ -27,7 +27,7 @@ get_header();
         <nav class="flex justify-center" aria-label="Breadcrumb" data-aos="fade-up" data-aos-delay="100">
             <ol class="inline-flex items-center space-x-1 md:space-x-3 text-sm font-medium text-white/80">
                 <li class="inline-flex items-center">
-                    <a href="<?php echo home_url('/'); ?>" class="hover:text-white transition-colors flex items-center">
+                    <a href="<?php echo url('/'); ?>" class="hover:text-white transition-colors flex items-center">
                         <i class="fas fa-home mr-2"></i>Home
                     </a>
                 </li>
@@ -171,7 +171,7 @@ get_header();
 
 <!-- Gallery Section -->
 <?php
-$gallery_uri = get_template_directory_uri() . '/assets/gallery';
+$gallery_uri = url('') . '/assets/gallery';
 $gallery_images = array(
     array('file' => 'ES6A4907.webp', 'w' => 534, 'h' => 800, 'caption' => 'Welcome Area',            'alt' => 'Reception area at Karma Doctors with a purple accent wall, patient reading materials and a large plant'),
     array('file' => 'ES6A4927.webp', 'w' => 800, 'h' => 543, 'caption' => 'Our Philosophy',          'alt' => 'KDA logo on the lobby wall with the words: When you tune your brain, you tune your life'),
@@ -367,4 +367,4 @@ $gallery_images = array(
 </script>
 
 <!-- Footer -->
-<?php get_footer(); ?>
+<?php require_once __DIR__ . '/includes/footer.php'; ?>

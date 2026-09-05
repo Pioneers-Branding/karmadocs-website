@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Medication Management */
-get_header();
+$page_key = 'medication-management';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Hero Section -->
@@ -36,7 +36,7 @@ get_header();
             </p>
 
             <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
-                <a href="<?php echo home_url('contact'); ?>"
+                <a href="<?php echo url('contact'); ?>"
                     class="px-8 py-3.5 rounded-full bg-brand-orange hover:bg-brand-orangeHover text-white font-bold uppercase tracking-wider transition-all shadow-lg hover:shadow-brand-orange/50 hover:-translate-y-1">
                     Book Board-Certified Psychiatric Evaluation
                 </a>
@@ -298,7 +298,7 @@ get_header();
                 </p>
                 <div class="inline-flex items-center gap-2 mt-4 px-4 py-2 bg-green-50 border border-green-200 rounded-full">
                     <i class="fas fa-shield-alt text-green-600"></i>
-                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo home_url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
+                    <span class="text-sm font-semibold text-green-800">Medically Reviewed By <a href="<?php echo url('about'); ?>" class="text-brand-purple hover:underline">Dr. Keerthy Sunder, MD</a></span>
                 </div>
             </div>
 
@@ -562,7 +562,7 @@ get_header();
                 step towards a clearer, calmer you.
             </p>
             <div class="flex flex-col sm:flex-row justify-center gap-4" data-aos="fade-up" data-aos-delay="200">
-                <a href="<?php echo home_url('contact'); ?>"
+                <a href="<?php echo url('contact'); ?>"
                     class="px-10 py-4 bg-brand-orange text-white font-bold rounded-full hover:bg-white hover:text-brand-orange transition-all shadow-[0_0_20px_rgba(244,143,18,0.5)] hover:shadow-[0_0_30px_rgba(255,255,255,0.3)] transform hover:-translate-y-1">
                     Book Your Appointment
                 </a>
@@ -575,4 +575,4 @@ get_header();
     </section>
 
     <!-- Content Rich Footer from Index -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

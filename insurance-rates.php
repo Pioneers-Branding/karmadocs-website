@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Insurance & Rates */
-get_header();
+$page_key = 'insurance-rates';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Hero Section -->
@@ -88,37 +88,37 @@ get_header();
                 <p class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-8">We Accept Major Plans</p>
                 <div
                     class="flex flex-wrap justify-center items-center gap-8 md:gap-12 max-w-6xl mx-auto opacity-80 grayscale hover:grayscale-0 transition-all duration-500">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/aetna.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/aetna.webp"
                         alt="Aetna" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/anthem.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/anthem.webp"
                         alt="Anthem" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/blue-california.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/blue-california.webp"
                         alt="Blue Shield of California" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/cigna.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/cigna.webp"
                         alt="Cigna" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/unitedhealthcare.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/unitedhealthcare.png"
                         alt="United Healthcare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/medicare.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/medicare.webp"
                         alt="Medicare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/optum.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/optum.webp"
                         alt="Optum" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/tricare.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/tricare.webp"
                         alt="Tricare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/triwest.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/triwest.png"
                         alt="TriWest" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/iehp.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/iehp.png"
                         alt="IEHP" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/health-net.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/health-net.png"
                         alt="Health Net" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/evernorth.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/evernorth.png"
                         alt="Evernorth" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/megallan-health-logo.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/megallan-health-logo.png"
                         alt="Magellan Health" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/mhn.webp"
+                    <img src="<?php echo url(''); ?>/assets/insurances/mhn.webp"
                         alt="MHN" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/desert-oasis-logo.jpg"
+                    <img src="<?php echo url(''); ?>/assets/insurances/desert-oasis-logo.jpg"
                         alt="Desert Oasis Healthcare" class="h-12 md:h-14 object-contain hover:scale-110 transition-transform mix-blend-multiply">
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/insurances/livewell-logo.png"
+                    <img src="<?php echo url(''); ?>/assets/insurances/livewell-logo.png"
                         alt="Live Well" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
                 </div>
             </div>
@@ -126,4 +126,4 @@ get_header();
     </section>
 
     <!-- Footer -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

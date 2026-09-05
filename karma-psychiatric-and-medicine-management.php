@@ -1,8 +1,5 @@
 <?php
-/**
- * Template Name: Karma Psychiatric and Medicine Management
- * Description: Landing page with meta pixel tracking, form, and FAQ
- */
+
 /* Force full-width layout */
 add_filter('body_class', function ($classes) {
     $classes[] = 'page-template-lp';
@@ -28,7 +25,10 @@ add_filter('body_class', function ($classes) {
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
         rel="stylesheet">
 
-    <?php wp_head(); ?>
+    <?php
+$page_key = 'karma-psychiatric-and-medicine-management';
+require_once __DIR__ . '/includes/header.php';
+?>
 
     <!-- Meta Pixel Code - Added in header for proper tracking -->
     <script>
@@ -678,8 +678,8 @@ add_filter('body_class', function ($classes) {
     <!-- NAV -->
     <nav class="lp-nav" id="lp-nav">
         <div class="lp-nav-inner">
-            <a href="<?php echo home_url('/'); ?>">
-                <img class="lp-logo" src="<?php echo get_template_directory_uri(); ?>/assets/banner-video.mp4"
+            <a href="<?php echo url('/'); ?>">
+                <img class="lp-logo" src="<?php echo url(''); ?>/assets/banner-video.mp4"
                     alt="KarmaDocs" style="height:64px;">
             </a>
             <div class="lp-loc-desktop">
@@ -718,7 +718,7 @@ add_filter('body_class', function ($classes) {
     <!-- HERO -->
     <section class="lp-hero">
         <video autoplay muted loop playsinline preload="auto">
-            <source src="<?php echo get_template_directory_uri(); ?>/assets/hero-video.mp4" type="video/mp4">
+            <source src="<?php echo url(''); ?>/assets/hero-video.mp4" type="video/mp4">
         </video>
 
         <div class="lp-hero-inner">
@@ -954,7 +954,7 @@ add_filter('body_class', function ($classes) {
     <!-- FOOTER -->
     <footer class="lp-footer">
         <div class="lp-footer-inner">
-            <a href="<?php echo home_url('/'); ?>">
+            <a href="<?php echo url('/'); ?>">
                 <img src="https://res.cloudinary.com/de4kw1t2i/image/upload/v1766060387/Karma-Docs-Logo-Horizental_w48ja1.webp"
                     alt="KarmaDocs" style="height:64px;">
             </a>
@@ -1022,7 +1022,7 @@ add_filter('body_class', function ($classes) {
         });
     </script>
 
-    <?php wp_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>
 </body>
 
 </html>

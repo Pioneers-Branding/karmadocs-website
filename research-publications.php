@@ -1,6 +1,6 @@
 <?php
-/* Template Name: Research Publications */
-get_header();
+$page_key = 'research-publications';
+require_once __DIR__ . '/includes/header.php';
 ?>
 
     <!-- Main Content -->
@@ -10,7 +10,7 @@ get_header();
         <section class="relative bg-purple-300 flex items-center overflow-hidden py-20 lg:py-0 min-h-[600px] lg:h-[70vh]">
             <!-- Right Side Background Image -->
             <div class="absolute top-0 right-0 w-full lg:w-1/2 h-full hidden lg:block z-0" style="
-                      background-image: url('<?php echo get_template_directory_uri(); ?>/assets/insurances/tms-research.webp');
+                      background-image: url('<?php echo url(''); ?>/assets/insurances/tms-research.webp');
                       background-size: cover;
                       background-repeat: no-repeat;
                   ">
@@ -114,7 +114,7 @@ get_header();
                                 <div
                                     class="absolute -inset-4 bg-gradient-to-r from-brand-purple to-brand-orange opacity-20 blur-xl rounded-2xl">
                                 </div>
-                                <img src="<?php echo get_template_directory_uri(); ?>/assets/gallery/research/Dr_sunder_Award_05.webp"
+                                <img src="<?php echo url(''); ?>/assets/gallery/research/Dr_sunder_Award_05.webp"
                                     alt="Dr. Keerthy Sunder accepting the Golden Axon Leadership Award on stage at the 2023 SBMT Gala"
                                     width="791" height="489" loading="lazy" decoding="async"
                                     class="relative rounded-xl shadow-lg w-full h-auto">
@@ -127,7 +127,7 @@ get_header();
                         <!-- Card 1 -->
                         <div class=" rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="100">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/award_badge.png" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto">
+                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto">
                             <h4 class="font-bold text-gray-900 mb-2">Science & Innovation</h4>
                             <p class="text-sm text-gray-500">Pioneering advancements in TMS technology and personalized
                                 psychiatric treatment protocols.</p>
@@ -135,7 +135,7 @@ get_header();
                         <!-- Card 2 -->
                         <div class="  rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="200">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/award_badge.png" alt="Award Badge"
+                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform">
                             <h4 class="font-bold text-gray-900 mb-2">Arts & Culture</h4>
                             <p class="text-sm text-gray-500">Supporting mental health awareness through partnerships
@@ -144,7 +144,7 @@ get_header();
                         <!-- Card 3 -->
                         <div class="  rounded-2xl border border-gray-100  transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="300">
-                            <img src="<?php echo get_template_directory_uri(); ?>/assets/award_badge.png" alt="Award Badge"
+                            <img src="<?php echo url(''); ?>/assets/award_badge.png" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform">
                             <h4 class="font-bold text-gray-900 mb-2">Policy & Advocacy</h4>
                             <p class="text-sm text-gray-500">Active leadership in global summits to shape the future of
@@ -161,11 +161,11 @@ get_header();
 
                 <!-- Research Board Feature -->
                 <figure class="mb-20" data-aos="fade-up">
-                    <a href="<?php echo get_template_directory_uri(); ?>/assets/gallery/research/karma-tms-research.webp"
+                    <a href="<?php echo url(''); ?>/assets/gallery/research/karma-tms-research.webp"
                         target="_blank" rel="noopener"
                         class="group relative block rounded-3xl overflow-hidden border border-gray-100 shadow-sm hover:shadow-xl transition-shadow duration-300 focus:outline-none focus-visible:ring-4 focus-visible:ring-brand-purple/40"
                         aria-label="Open a full-size view of the Karma TMS Neuromodulation research publications board">
-                        <img src="<?php echo get_template_directory_uri(); ?>/assets/gallery/research/karma-tms-research.webp"
+                        <img src="<?php echo url(''); ?>/assets/gallery/research/karma-tms-research.webp"
                             alt="Karma TMS Neuromodulation Research Publications board listing eight peer-reviewed studies published in Frontiers in Psychiatry, Acta Scientific Neurology, and EC Clinical and Medical Case Reports"
                             width="2400" height="1556" loading="lazy" decoding="async"
                             class="w-full h-auto block transition-transform duration-700 ease-out group-hover:scale-[1.02]">
@@ -887,7 +887,7 @@ get_header();
                                 concussion, highlighting improvements in cognitive function, mood, and sleep quality
                                 through personalized neuromodulation protocols.
                             </p>
-                            <a href="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/publications/PrTMS%20for%20Concussions.pdf"
+                            <a href="<?php echo esc_url( url('') ); ?>/assets/publications/PrTMS%20for%20Concussions.pdf"
                                 class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                 VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                             </a>
@@ -1037,4 +1037,4 @@ get_header();
     </main>
 
     <!-- Footer -->
-    <?php get_footer(); ?>
+    <?php require_once __DIR__ . '/includes/footer.php'; ?>

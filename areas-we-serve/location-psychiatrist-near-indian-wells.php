@@ -1,8 +1,8 @@
 <?php
-/*
-Template Name: Location - Indian Wells
-*/
-get_header();
+$page_key = 'location';
+$page_title = "Expert Psychiatrist Near Indian Wells, CA | Karma Doctors & Associates";
+$meta_desc = "Searching for a top-rated psychiatrist near Indian Wells, CA? Karma Doctors & Associates offers advanced mental health care, including TMS therapy and medication management. Visit us for compassionate, integrative psychiatric care in the Coachella Valley.";
+require_once __DIR__ . '/../includes/header.php';
 ?>
 <main id="main" class="site-main" role="main">
     ﻿<!--
@@ -470,7 +470,7 @@ Meta Description: Searching for a top-rated psychiatrist near Indian Wells, CA? 
         <div
             style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 80px; align-items: center;">
             <div>
-                <img src="<?php echo get_template_directory_uri(); ?>/assets/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
+                <img src="<?php echo url(''); ?>/assets/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
                     alt="Dr. Keerthy Sunder, MD — Founder, <a href='https://karmadocs.com/' style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma Doctors & Associates</a>"
                     style="width: 100%; height: auto; border-radius: 40px; display: block; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" />
             </div>
@@ -1164,6 +1164,4 @@ Meta Description: Searching for a top-rated psychiatrist near Indian Wells, CA? 
     </section>
 
 </main>
-<?php
-get_footer();
-?>
+<?php require_once __DIR__ . '/../includes/footer.php'; ?>
