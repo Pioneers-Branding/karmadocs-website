@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Does Insurance Cover Depression Treatment?
+ * Article body: does-insurance-cover-depression-treatment
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: explore <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our mental health services</a> and learn about the <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">evidence behind psychiatric treatment</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services</a> and learn about the <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">evidence behind psychiatric treatment</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Depression_(mood)" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on depression</a>, the condition significantly impacts daily functioning and wellbeing — and involves complex interactions between biological, psychological, and social factors.</p>
 

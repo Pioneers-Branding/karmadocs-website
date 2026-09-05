@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Mental Health Palm Springs Ca | KarmaDocs
+ * Article body: mental-health-palm-springs-ca-karmadocs
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -25,7 +25,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">At <strong>KarmaDocs</strong>, we understand that your mental health is the cornerstone of a fulfilling life. Whether you’re seeking emotional clarity, overcoming trauma, or working toward personal growth, our expert clinicians provide specialized <strong>mental health Palm Springs</strong> care designed around you.</p>
 
-<p class="wp-block-paragraph">KarmaDocs provides comprehensive psychiatric and mental health services in Palm Springs, CA. Our specialists treat conditions including <a href="/single-blog.php?slug=physical-symptoms-of-anxiety-most-people-dont-recognize">anxiety disorders</a>, <a href="/single-blog.php?slug=treatment-resistant-depression-when-medication-stops-working">depression</a>, <a href="/single-blog.php?slug=bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder</a>, and <a href="/single-blog.php?slug=how-do-psychiatrists-diagnose-adhd-in-adults">ADHD</a>.</p>
+<p class="wp-block-paragraph">KarmaDocs provides comprehensive psychiatric and mental health services in Palm Springs, CA. Our specialists treat conditions including <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">anxiety disorders</a>, <a href="/blog/treatment-resistant-depression-when-medication-stops-working">depression</a>, <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder</a>, and <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">ADHD</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s overview of mental health</a>, mental health encompasses emotional, psychological, and social well-being — affecting how people think, feel, and act as they navigate daily life, relationships, and stress.</p>
 

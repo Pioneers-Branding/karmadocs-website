@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: ADHD Online Doctors: The Smart Way to Get Expert ADHD Care from Home
+ * Article body: adhd-online-doctors
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -26,7 +26,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph"><strong>Getting help for ADHD shouldn’t be complicated — and now, it isn’t.</strong><strong><br></strong>If you’re searching for <em>ADHD online doctors</em>, you can now access professional diagnosis, treatment, and medication management all from the comfort of your home. With today’s secure telepsychiatry platforms, patients no longer have to wait months for appointments or drive long distances for care.</p>
 
-<p class="wp-block-paragraph">Looking for expert ADHD evaluation? Learn <a href="/single-blog.php?slug=how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>. Also read about the <a href="/single-blog.php?slug=does-adhd-get-worse-without-treatment-long-term-effects">long-term effects of untreated ADHD</a> so you understand why early treatment matters.</p>
+<p class="wp-block-paragraph">Looking for expert ADHD evaluation? Learn <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>. Also read about the <a href="/blog/does-adhd-get-worse-without-treatment-long-term-effects">long-term effects of untreated ADHD</a> so you understand why early treatment matters.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on ADHD</a>, the disorder involves inattention, hyperactivity, and impulsivity that significantly interfere with daily functioning — and telehealth has expanded access to diagnosis and care substantially in recent years.</p>
 

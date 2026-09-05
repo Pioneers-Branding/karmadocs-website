@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: The Pros & Cons of TMS Therapy
+ * Article body: the-pros-cons-of-tms-therapy
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related reading: learn more about <a href="/single-blog.php?slug=adhd-online-doctors">ADHD online doctors</a> and how telehealth has made expert care more accessible. Also discover <a href="/single-blog.php?slug=how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>.</p>
+<p class="wp-block-paragraph">Related reading: learn more about <a href="/blog/adhd-online-doctors">ADHD online doctors</a> and how telehealth has made expert care more accessible. Also discover <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, this condition requires accurate diagnosis and ongoing management — making access to qualified psychiatric care essential for anyone experiencing mood disorders.</p>
 

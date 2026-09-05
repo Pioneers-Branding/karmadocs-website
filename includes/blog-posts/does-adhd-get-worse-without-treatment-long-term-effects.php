@@ -1,13 +1,13 @@
 <?php
 /**
- * Article body: Does ADHD Get Worse Without Treatment Long Term Effects
+ * Article body: does-adhd-get-worse-without-treatment-long-term-effects
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is one of the most important questions asked by individuals, parents, and adults who suspect they may be living with attention deficit hyperactivity disorder. ADHD is not simply a phase or a lack of discipline. It is a lifelong neurodevelopmental condition that affects how the brain manages attention, impulse control, motivation, and emotional regulation. </p>
 
 <p class="wp-block-paragraph">When left unaddressed, the effects of untreated ADHD can quietly intensify over time, creating deeper challenges in education, work, relationships, and mental health. For individuals exploring <strong><a title="" href="/adhd.php">ADHD treatment in Palm Springs</a>, Karma Doctors &amp; Associates</strong>, understanding what happens when ADHD goes untreated is a crucial first step toward long term stability and growth.</p>
 
-<p class="wp-block-paragraph">Untreated ADHD can have serious long-term consequences. Learn more about <a href="/single-blog.php?slug=how-do-psychiatrists-diagnose-adhd-in-adults">how ADHD is diagnosed in adults</a> and explore <a href="/single-blog.php?slug=adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
+<p class="wp-block-paragraph">Untreated ADHD can have serious long-term consequences. Learn more about <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how ADHD is diagnosed in adults</a> and explore <a href="/blog/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" target="_blank" rel="nofollow noopener">Wikipedia&#8217;s article on ADHD</a>, untreated ADHD in adults is associated with higher rates of job loss, relationship difficulties, substance use disorders, and accidents, underscoring the importance of proper diagnosis and treatment.</p>
 

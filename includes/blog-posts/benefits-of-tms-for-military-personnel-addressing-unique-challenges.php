@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Benefits of TMS for Military Personnel: Addressing Unique Challenges
+ * Article body: benefits-of-tms-for-military-personnel-addressing-unique-challenges
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -22,7 +22,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Military members must endure significant physical, emotional, and psychological stress in an infinite number of scenarios, from combat operations to readjusting to civilian lifestyles.</p>
 
-<p class="wp-block-paragraph">Explore related resources: understand <a href="/single-blog.php?slug=treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and learn about <a href="/single-blog.php?slug=is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> for advanced treatment options.</p>
+<p class="wp-block-paragraph">Explore related resources: understand <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and learn about <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> for advanced treatment options.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, depression is a leading cause of disability worldwide — but responds well to a range of evidence-based treatments when properly diagnosed and managed.</p>
 
@@ -129,7 +129,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <ul class="wp-block-list">
 <li><a href="https://karmadocs.com/tms-helping-veterans-address-mental-health-challenges/" title="How TMS Is Helping Veterans Address Mental Health Challenges">How TMS Is Helping Veterans Address Mental Health Challenges</a></li>
 
-<li><a href="/single-blog.php?slug=how-tms-helps-military-members-dependents" title="How TMS Helps Military Members &amp; Dependents?">How TMS Helps Military Members &amp; Dependents</a></li>
+<li><a href="/blog/how-tms-helps-military-members-dependents" title="How TMS Helps Military Members &amp; Dependents?">How TMS Helps Military Members &amp; Dependents</a></li>
 </ul>
 
 <h2 class="wp-block-heading" id="faqs-on-tms-for-military-personnel" id="aioseo-faqs-on-tms-for-military-personnel">FAQs on TMS for Military Personnel</h2>

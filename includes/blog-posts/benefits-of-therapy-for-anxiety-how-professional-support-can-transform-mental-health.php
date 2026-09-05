@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Benefits of Therapy for Anxiety: How Professional Support Can Transform Mental Health
+ * Article body: benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -23,7 +23,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph"></p>
 
-<p class="wp-block-paragraph">Anxiety can also manifest in unexpected physical ways. Read our guide on <a href="/single-blog.php?slug=physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety most people don&#8217;t recognize</a>. For local care, explore our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs, CA</a>.</p>
+<p class="wp-block-paragraph">Anxiety can also manifest in unexpected physical ways. Read our guide on <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety most people don&#8217;t recognize</a>. For local care, explore our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs, CA</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these conditions affect approximately 284 million people worldwide, making them the most prevalent category of mental health disorders globally.</p>
 

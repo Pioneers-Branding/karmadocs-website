@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: 9 Digital Transformation Challenges Every Company Is Facing
+ * Article body: 9-digital-transformation-challenges-every-company-is-facing
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Digital transformation challenges affect organizations in all sectors. For healthcare organizations, managing mental health services digitally is crucial — learn about <a href="/single-blog.php?slug=adhd-online-doctors">ADHD online doctor services</a> as an example of digital transformation in mental health care.</p>
+<p class="wp-block-paragraph">Digital transformation challenges affect organizations in all sectors. For healthcare organizations, managing mental health services digitally is crucial — learn about <a href="/blog/adhd-online-doctors">ADHD online doctor services</a> as an example of digital transformation in mental health care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Digital_transformation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on digital transformation</a>, the process involves adopting digital technology throughout an organization — changing how it operates, delivers value, and interacts with customers.</p>
 

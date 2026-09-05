@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: The Effectiveness of TMS on Treatment Resistant Depression
+ * Article body: the-effectiveness-of-tms-on-treatment-resistant-depression
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related topics: discover <a href="/single-blog.php?slug=bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and learn <a href="/single-blog.php?slug=how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">the early warning signs of bipolar disorder</a>.</p>
+<p class="wp-block-paragraph">Explore related topics: discover <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and learn <a href="/blog/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">the early warning signs of bipolar disorder</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, it is characterized by episodes of mania and depression, with significant variation in severity and presentation — making accurate professional diagnosis essential for effective treatment.</p>
 

@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: explore <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">how psychiatric treatment works</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">how psychiatric treatment works</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, depression is a serious mental illness affecting tens of millions worldwide — and is one of the leading causes of disability globally, but is highly treatable with the right approach.</p>
 

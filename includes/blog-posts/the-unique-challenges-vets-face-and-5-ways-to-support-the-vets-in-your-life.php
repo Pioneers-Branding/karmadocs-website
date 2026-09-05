@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: The Unique Challenges Vets Face, and 5 Ways to Support the Vets in Your Life
+ * Article body: the-unique-challenges-vets-face-and-5-ways-to-support-the-vets-in-your-life
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Veterans face unique mental health challenges that benefit from specialized care. Learn about the <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">comprehensive mental health services</a> available at KarmaDocs and how <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can make a real difference.</p>
+<p class="wp-block-paragraph">Veterans face unique mental health challenges that benefit from specialized care. Learn about the <a href="/blog/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services</a> available at KarmaDocs and how <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can make a real difference.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on the U.S. Department of Veterans Affairs</a>, the VA provides a wide range of mental health services to veterans, including treatment for PTSD, depression, and substance use disorders — recognizing the disproportionate mental health burden carried by military veterans.</p>
 

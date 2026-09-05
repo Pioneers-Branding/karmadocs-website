@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Bipolar Disorder vs Mood Swings: What’s the Difference?
+ * Article body: bipolar-disorder-vs-mood-swings-whats-the-difference
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -59,7 +59,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Bipolar disorder is a chronic psychiatric illness involving distinct, episodic mood states — specifically manic, hypomanic, and depressive episodes — that represent a clear departure from the person&#8217;s baseline functioning and cause significant impairment in occupational, social, or interpersonal domains.</p>
 
-<p class="wp-block-paragraph">The three primary DSM-5 diagnoses on the bipolar spectrum are Bipolar I (defined by at least one full manic episode), Bipolar II (hypomanic episodes plus major depressive episodes), and Cyclothymic Disorder (chronic subclinical mood cycling). For a thorough overview of these subtypes and the full warning sign picture, read our detailed guide on <a href="/single-blog.php?slug=how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">how to recognize early warning signs of bipolar disorder</a>.</p>
+<p class="wp-block-paragraph">The three primary DSM-5 diagnoses on the bipolar spectrum are Bipolar I (defined by at least one full manic episode), Bipolar II (hypomanic episodes plus major depressive episodes), and Cyclothymic Disorder (chronic subclinical mood cycling). For a thorough overview of these subtypes and the full warning sign picture, read our detailed guide on <a href="/blog/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">how to recognize early warning signs of bipolar disorder</a>.</p>
 
 <h2 class="wp-block-heading" id="key-differences-bipolar-disorder-vs-mood-swings">Key Differences: Bipolar Disorder vs Mood Swings</h2>
 
@@ -97,7 +97,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Normal mood swings include feeling down, sad, or unmotivated in response to life events — but these states lift within a reasonable timeframe and respond to positive events or social support. Bipolar depressive episodes are severe, persistent, and often anhedonic (unable to feel pleasure from anything), with neurovegetative symptoms including profound sleep and appetite disturbance, difficulty concentrating, and in some cases, suicidal ideation.</p>
 
-<p class="wp-block-paragraph">Importantly, bipolar depression is often more disabling and harder to treat than the hypomanic or manic phases — yet it is the phase in which people most commonly seek help. If your depression has been <a href="/single-blog.php?slug=treatment-resistant-depression-when-medication-stops-working">resistant to standard antidepressant treatment</a>, an undiagnosed bipolar disorder should be carefully considered.</p>
+<p class="wp-block-paragraph">Importantly, bipolar depression is often more disabling and harder to treat than the hypomanic or manic phases — yet it is the phase in which people most commonly seek help. If your depression has been <a href="/blog/treatment-resistant-depression-when-medication-stops-working">resistant to standard antidepressant treatment</a>, an undiagnosed bipolar disorder should be carefully considered.</p>
 
 <h2 class="wp-block-heading" id="conditions-that-can-cause-mood-swings">Conditions That Can Cause Mood Swings That Are NOT Bipolar Disorder</h2>
 
@@ -106,7 +106,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <ul class="wp-block-list">
 <li><strong>Borderline Personality Disorder (BPD)</strong> – Characterized by intense, rapidly shifting emotions usually triggered by interpersonal events. BPD mood shifts are typically shorter-lived (hours) than bipolar episodes and are closely tied to relationship dynamics.</li>
 
-<li><strong>ADHD</strong> – Emotional dysregulation in ADHD can produce significant mood variability, frustration, and impulsivity. However, ADHD does not produce the sustained, episodic elevated mood states of bipolar disorder. See our post on <a href="/single-blog.php?slug=how-do-psychiatrists-diagnose-adhd-in-adults">ADHD diagnosis in adults</a> for more detail.</li>
+<li><strong>ADHD</strong> – Emotional dysregulation in ADHD can produce significant mood variability, frustration, and impulsivity. However, ADHD does not produce the sustained, episodic elevated mood states of bipolar disorder. See our post on <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">ADHD diagnosis in adults</a> for more detail.</li>
 
 <li><strong>Premenstrual Dysphoric Disorder (PMDD)</strong> – Severe mood symptoms predictably tied to the luteal phase of the menstrual cycle. Unlike bipolar disorder, PMDD resolves with menstruation onset and follows a clear hormonal pattern.</li>
 
@@ -123,7 +123,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">The reason this distinction is clinically critical — not merely academic — is that the treatments for bipolar disorder and for conditions causing mood swings differ significantly and, in some cases, conflict. Antidepressants used without mood stabilizers in bipolar disorder can trigger manic episodes or induce rapid cycling. Conversely, unnecessarily prescribing mood stabilizers for normal emotional variability carries significant side effect risks.</p>
 
-<p class="wp-block-paragraph">Beyond medication, the psychotherapeutic approach to bipolar disorder (focused on episode recognition, trigger management, and sleep regularity) differs from approaches used for personality-based or anxiety-driven mood instability. Getting the diagnosis right is foundational to getting the treatment right. Our guide to <a href="/single-blog.php?slug=understanding-your-mental-health-the-vital-role-of-psychiatrists">understanding the role of psychiatrists</a> in making these complex differentiations is a helpful resource.</p>
+<p class="wp-block-paragraph">Beyond medication, the psychotherapeutic approach to bipolar disorder (focused on episode recognition, trigger management, and sleep regularity) differs from approaches used for personality-based or anxiety-driven mood instability. Getting the diagnosis right is foundational to getting the treatment right. Our guide to <a href="/blog/understanding-your-mental-health-the-vital-role-of-psychiatrists">understanding the role of psychiatrists</a> in making these complex differentiations is a helpful resource.</p>
 
 <h2 class="wp-block-heading" id="when-should-you-seek-evaluation">When Should You Seek Evaluation?</h2>
 
@@ -141,7 +141,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <li>Your mood swings significantly disrupt your work, relationships, or quality of life</li>
 </ul>
 
-<p class="wp-block-paragraph">A comprehensive psychiatric evaluation remains the only reliable way to differentiate bipolar disorder from other causes of mood variability. The psychiatrists at <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">KarmaDocs</a> have deep expertise in complex mood disorder diagnosis and are experienced in navigating these important diagnostic distinctions.</p>
+<p class="wp-block-paragraph">A comprehensive psychiatric evaluation remains the only reliable way to differentiate bipolar disorder from other causes of mood variability. The psychiatrists at <a href="/blog/mental-health-palm-springs-ca-karmadocs">KarmaDocs</a> have deep expertise in complex mood disorder diagnosis and are experienced in navigating these important diagnostic distinctions.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>
 
@@ -155,7 +155,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">If I have mood swings, should I be worried?</h3>
 
-<p class="wp-block-paragraph">Not necessarily. Emotional variability is normal. If your mood changes are brief, clearly triggered by circumstances, and don&#8217;t significantly impair your functioning, they are unlikely to represent a mood disorder. If you&#8217;re concerned, speaking with a mental health professional is always a reasonable and reassuring step. <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">Contact KarmaDocs</a> for a confidential consultation.</p>
+<p class="wp-block-paragraph">Not necessarily. Emotional variability is normal. If your mood changes are brief, clearly triggered by circumstances, and don&#8217;t significantly impair your functioning, they are unlikely to represent a mood disorder. If you&#8217;re concerned, speaking with a mental health professional is always a reasonable and reassuring step. <a href="/blog/mental-health-palm-springs-ca-karmadocs">Contact KarmaDocs</a> for a confidential consultation.</p>
 
 <h2 class="wp-block-heading" id="the-bottom-line">The Bottom Line</h2>
 

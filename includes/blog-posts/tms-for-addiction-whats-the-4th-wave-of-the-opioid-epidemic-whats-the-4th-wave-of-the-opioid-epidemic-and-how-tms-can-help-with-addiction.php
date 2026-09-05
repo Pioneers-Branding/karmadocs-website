@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: TMS for Addiction: What’s the 4th Wave of the Opioid Epidemic? And How TMS Can Help with Addiction
+ * Article body: tms-for-addiction-whats-the-4th-wave-of-the-opioid-epidemic-whats-the-4th-wave-of-the-opioid-epidemic-and-how-tms-can-help-with-addiction
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -17,7 +17,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related mental health topics: learn about <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and read about <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
+<p class="wp-block-paragraph">Explore related mental health topics: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and read about <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s overview of mental health</a>, access to quality mental healthcare significantly improves quality of life — and is a growing global public health priority.</p>
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How to Better Your Nutrition for Mental Wellness, and Welcoming Dr. Todd Born, ND, CNS
+ * Article body: how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -16,7 +16,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Good nutrition plays a vital role in mental wellness. Learn how our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> takes a holistic approach to treatment, and read about the <a href="/single-blog.php?slug=can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">gut-brain connection and its influence on mood</a>.</p>
+<p class="wp-block-paragraph">Good nutrition plays a vital role in mental wellness. Learn how our <a href="/blog/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> takes a holistic approach to treatment, and read about the <a href="/blog/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">gut-brain connection and its influence on mood</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Nutritional_psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on nutritional psychiatry</a>, this emerging field studies how diet and nutrients affect brain function and mental health outcomes — with increasing evidence linking dietary patterns to depression and anxiety risk.</p>
 
@@ -54,7 +54,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<span style="font-weight: 400;">Nutritional psychiatry is a newer field of study that links the things we eat with the way we feel emotionally and cognitively. The roots of mental illness are complex, but evidence has shown that </span><b>poor diet is associated with worsening </b><a href="/single-blog.php?slug=helping-a-loved-one-with-a-mood-disorder"><b>mood disorders</b></a><b> like anxiety and depression. </b><span style="font-weight: 400;">Neuropsychiatric conditions like schizophrenia may also get worse with poor nutrition.</span><span style="font-weight: 400;"> </span>
+<span style="font-weight: 400;">Nutritional psychiatry is a newer field of study that links the things we eat with the way we feel emotionally and cognitively. The roots of mental illness are complex, but evidence has shown that </span><b>poor diet is associated with worsening </b><a href="/blog/helping-a-loved-one-with-a-mood-disorder"><b>mood disorders</b></a><b> like anxiety and depression. </b><span style="font-weight: 400;">Neuropsychiatric conditions like schizophrenia may also get worse with poor nutrition.</span><span style="font-weight: 400;"> </span>
 
 <span style="font-weight: 400;">On the flip side, the latest research has shown that the risk of depression decreases when people eat a diet high in leafy greens and lean protein.</span><span style="font-weight: 400;"> This diet helps reduce inflammation in the body, which can be the root of depression and other mental illnesses.</span><span style="font-weight: 400;"> </span>
 
@@ -82,7 +82,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 </ul>
 &nbsp;
 <ul>
- 	<li style="font-weight: 400;" aria-level="1"><b>Gut microbiota</b><span style="font-weight: 400;"> also contribute to mental illness via the </span><a href="/single-blog.php?slug=can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome"><span style="font-weight: 400;">gut-brain axis</span></a><span style="font-weight: 400;">. Our stomach helps with initial food processing, so it’s directly impacted by what we eat. And it’s also largely responsible for serotonin production, which is thought to be linked to depression and other mental illnesses.</span><span style="font-weight: 400;"> </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Gut microbiota</b><span style="font-weight: 400;"> also contribute to mental illness via the </span><a href="/blog/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome"><span style="font-weight: 400;">gut-brain axis</span></a><span style="font-weight: 400;">. Our stomach helps with initial food processing, so it’s directly impacted by what we eat. And it’s also largely responsible for serotonin production, which is thought to be linked to depression and other mental illnesses.</span><span style="font-weight: 400;"> </span></li>
 </ul>
 <b></b>
 <ul>

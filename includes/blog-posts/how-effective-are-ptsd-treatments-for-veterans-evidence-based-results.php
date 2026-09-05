@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How Effective Are PTSD Treatments for Veterans? Evidence-Based Results
+ * Article body: how-effective-are-ptsd-treatments-for-veterans-evidence-based-results
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -27,7 +27,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">For many former service members, life after the military comes with invisible wounds that are just as real as physical injuries. Veterans seeking <strong><a href="/ptsd.php" title="">PTSD treatment in Palm Springs</a></strong> often arrive with the same question on their minds: <em>do these treatments really work, and is recovery possible after everything I have been through?</em> Post-traumatic stress disorder can follow veterans for years, affecting sleep, relationships, careers, and overall quality of life. Understanding how effective modern PTSD treatments are for veterans is often the first step toward hope and healing.</p>
 
-<p class="wp-block-paragraph">Related reading: understand how <a href="/single-blog.php?slug=is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy can be covered by insurance</a> and explore what <a href="/single-blog.php?slug=tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS costs without insurance</a>.</p>
+<p class="wp-block-paragraph">Related reading: understand how <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy can be covered by insurance</a> and explore what <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS costs without insurance</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on TMS therapy</a>, transcranial magnetic stimulation has received FDA clearance for multiple indications and continues to be studied for a growing range of neurological and psychiatric applications.</p>
 

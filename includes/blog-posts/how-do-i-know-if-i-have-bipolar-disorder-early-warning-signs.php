@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How Do I Know If I Have Bipolar Disorder? Early Warning Signs
+ * Article body: how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -21,7 +21,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Bipolar disorder is one of the most misunderstood and under-recognized mental health conditions — often dismissed as &#8220;just mood swings&#8221; or confused with depression, borderline personality disorder, or even ADHD. If you&#8217;ve been asking yourself &#8220;how do I know if I have bipolar disorder?&#8221;, the answer requires more than a checklist. It requires understanding what bipolar disorder actually is, how it manifests, and what distinguishes it from other mood conditions. This guide walks you through the early warning signs and key indicators that warrant a professional evaluation.</p>
 
-<p class="wp-block-paragraph">For a deeper understanding, read our related article on <a href="/single-blog.php?slug=bipolar-disorder-vs-mood-swings-whats-the-difference">Bipolar Disorder vs Mood Swings: What&#8217;s the Difference?</a> — which explains the clinical distinctions in detail.</p>
+<p class="wp-block-paragraph">For a deeper understanding, read our related article on <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">Bipolar Disorder vs Mood Swings: What&#8217;s the Difference?</a> — which explains the clinical distinctions in detail.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, the condition is characterized by episodes of mania and depression, and affects approximately 1–3% of the global population across all demographics.</p>
 
@@ -75,7 +75,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Bipolar disorder includes depressive phases that can be indistinguishable in symptom quality from unipolar major depression. Deep sadness, hopelessness, loss of interest, disrupted sleep and appetite, difficulty concentrating, and suicidal thoughts are all part of the bipolar depressive picture.</p>
 
-<p class="wp-block-paragraph">The key is the episodic, cycling pattern. If you have had multiple distinct episodes of depression that cleared fully (or converted to elevated mood), particularly with a pattern of seasonal shifts or postpartum onset, bipolar disorder should be on the diagnostic table. This is why it&#8217;s critical that when treating depression, clinicians thoroughly assess for past periods of elevated mood — because <a href="/single-blog.php?slug=treatment-resistant-depression-when-medication-stops-working">depression that doesn&#8217;t respond to standard antidepressants</a> may, in some cases, reflect an underlying bipolar spectrum condition.</p>
+<p class="wp-block-paragraph">The key is the episodic, cycling pattern. If you have had multiple distinct episodes of depression that cleared fully (or converted to elevated mood), particularly with a pattern of seasonal shifts or postpartum onset, bipolar disorder should be on the diagnostic table. This is why it&#8217;s critical that when treating depression, clinicians thoroughly assess for past periods of elevated mood — because <a href="/blog/treatment-resistant-depression-when-medication-stops-working">depression that doesn&#8217;t respond to standard antidepressants</a> may, in some cases, reflect an underlying bipolar spectrum condition.</p>
 
 <h3 class="wp-block-heading">Increased Goal-Directed Activity and Energy</h3>
 
@@ -87,7 +87,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">While the classic picture of bipolar involves prolonged distinct mood episodes, some individuals — particularly those with mixed features or rapid cycling (four or more mood episodes per year) — experience more frequent and shorter mood transitions. These rapid shifts are often misattributed to borderline personality disorder or dismissed as &#8220;just being emotional.&#8221;</p>
 
-<p class="wp-block-paragraph">It&#8217;s worth understanding the distinction in detail: our companion article on <a href="/single-blog.php?slug=bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs. normal mood swings</a> explains the clinical differences in depth.</p>
+<p class="wp-block-paragraph">It&#8217;s worth understanding the distinction in detail: our companion article on <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs. normal mood swings</a> explains the clinical differences in depth.</p>
 
 <h2 class="wp-block-heading" id="risk-factors">Risk Factors That Increase Bipolar Disorder Likelihood</h2>
 
@@ -107,13 +107,13 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Many people believe bipolar disorder means simply having good days and bad days — but this conflates normal emotional variability with a specific clinical disorder. Bipolar disorder involves distinct, episodic mood states that represent a clear departure from baseline and cause significant functional impairment.</p>
 
-<p class="wp-block-paragraph">Bipolar disorder is also not the same as being &#8220;moody&#8221; or having a &#8220;strong personality.&#8221; These lay descriptions may capture some surface-level emotional variability but don&#8217;t approach the severity, duration, or functional impact of true bipolar mood episodes. For a detailed comparison, see our article on <a href="/single-blog.php?slug=bipolar-disorder-vs-mood-swings-whats-the-difference">the difference between bipolar disorder and mood swings</a>.</p>
+<p class="wp-block-paragraph">Bipolar disorder is also not the same as being &#8220;moody&#8221; or having a &#8220;strong personality.&#8221; These lay descriptions may capture some surface-level emotional variability but don&#8217;t approach the severity, duration, or functional impact of true bipolar mood episodes. For a detailed comparison, see our article on <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">the difference between bipolar disorder and mood swings</a>.</p>
 
 <h2 class="wp-block-heading" id="how-is-bipolar-disorder-diagnosed">How Is Bipolar Disorder Diagnosed?</h2>
 
 <p class="wp-block-paragraph">Bipolar disorder is diagnosed through a comprehensive psychiatric evaluation. There is no blood test or brain scan that confirms the diagnosis — it relies on careful clinical history, symptom review, and ruling out medical and substance-related causes of mood episodes.</p>
 
-<p class="wp-block-paragraph">A skilled psychiatrist will explore the full longitudinal history of mood episodes, including periods that may have seemed positive at the time. Tools such as the Mood Disorder Questionnaire (MDQ) and the Bipolar Spectrum Diagnostic Scale (BSDS) are sometimes used to screen for bipolar features. If you&#8217;re considering an evaluation, our overview of <a href="/single-blog.php?slug=understanding-your-mental-health-the-vital-role-of-psychiatrists">the role of psychiatrists in mental health care</a> explains what a comprehensive evaluation entails.</p>
+<p class="wp-block-paragraph">A skilled psychiatrist will explore the full longitudinal history of mood episodes, including periods that may have seemed positive at the time. Tools such as the Mood Disorder Questionnaire (MDQ) and the Bipolar Spectrum Diagnostic Scale (BSDS) are sometimes used to screen for bipolar features. If you&#8217;re considering an evaluation, our overview of <a href="/blog/understanding-your-mental-health-the-vital-role-of-psychiatrists">the role of psychiatrists in mental health care</a> explains what a comprehensive evaluation entails.</p>
 
 <p class="wp-block-paragraph">Accurate diagnosis is especially important because the treatment for bipolar disorder differs significantly from the treatment for unipolar depression — antidepressants used without mood stabilizers can destabilize some bipolar patients.</p>
 
@@ -129,8 +129,8 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">Is bipolar disorder treatable?</h3>
 
-<p class="wp-block-paragraph">Yes. With the right combination of mood stabilizers, atypical antipsychotics, psychotherapy, and lifestyle management, the vast majority of people with bipolar disorder can achieve mood stability and high-quality lives. The key is accurate diagnosis and consistent treatment engagement. The team at <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">KarmaDocs</a> specializes in evidence-based bipolar disorder treatment across California.</p>
+<p class="wp-block-paragraph">Yes. With the right combination of mood stabilizers, atypical antipsychotics, psychotherapy, and lifestyle management, the vast majority of people with bipolar disorder can achieve mood stability and high-quality lives. The key is accurate diagnosis and consistent treatment engagement. The team at <a href="/blog/mental-health-palm-springs-ca-karmadocs">KarmaDocs</a> specializes in evidence-based bipolar disorder treatment across California.</p>
 
 <h2 class="wp-block-heading" id="seek-evaluation">If You Recognize These Signs, Seek Evaluation</h2>
 
-<p class="wp-block-paragraph">Bipolar disorder is a serious but highly treatable condition. Early diagnosis and appropriate treatment significantly improve long-term outcomes, reduce the risk of severe episodes, and protect relationships, career, and quality of life. If the signs described in this article resonate with your experience, a comprehensive psychiatric evaluation is the most important step you can take. <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">Contact KarmaDocs</a> to schedule a confidential evaluation with one of our expert psychiatrists.</p>';
+<p class="wp-block-paragraph">Bipolar disorder is a serious but highly treatable condition. Early diagnosis and appropriate treatment significantly improve long-term outcomes, reduce the risk of severe episodes, and protect relationships, career, and quality of life. If the signs described in this article resonate with your experience, a comprehensive psychiatric evaluation is the most important step you can take. <a href="/blog/mental-health-palm-springs-ca-karmadocs">Contact KarmaDocs</a> to schedule a confidential evaluation with one of our expert psychiatrists.</p>';

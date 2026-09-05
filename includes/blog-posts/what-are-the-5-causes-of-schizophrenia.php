@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: What Are the 5 Causes of Schizophrenia?
+ * Article body: what-are-the-5-causes-of-schizophrenia
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -25,7 +25,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Schizophrenia is a complex mental health condition that affects how a person thinks, feels, and perceives reality. Despite decades of research, there is no single, definitive cause. Instead, schizophrenia develops due to a combination of biological, genetic, and environmental factors.</p>
 
-<p class="wp-block-paragraph">Related resources: learn about <a href="/single-blog.php?slug=benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">therapy benefits for anxiety</a> and discover <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">KarmaDocs&#8217; mental health services</a> in Palm Springs, California.</p>
+<p class="wp-block-paragraph">Related resources: learn about <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">therapy benefits for anxiety</a> and discover <a href="/blog/mental-health-palm-springs-ca-karmadocs">KarmaDocs&#8217; mental health services</a> in Palm Springs, California.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety</a>, it is an emotion characterized by an unpleasant state of inner turmoil — which, when persistent, can significantly impact daily functioning and quality of life.</p>
 

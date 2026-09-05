@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Can the Gut-Brain Axis Influence Mood? And Recommendations for a Healthy Microbiome
+ * Article body: can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -16,7 +16,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">The connection between gut health and mental wellbeing is growing in scientific recognition. Read our related article on <a href="/single-blog.php?slug=how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns">how to better your nutrition for mental wellness</a>. Our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> integrates holistic approaches for comprehensive care.</p>
+<p class="wp-block-paragraph">The connection between gut health and mental wellbeing is growing in scientific recognition. Read our related article on <a href="/blog/how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns">how to better your nutrition for mental wellness</a>. Our <a href="/blog/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> integrates holistic approaches for comprehensive care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on the gut-brain axis</a>, this bidirectional communication network between the central nervous system and the enteric nervous system of the gastrointestinal tract is now understood to significantly influence mood, cognition, and mental health.</p>
 

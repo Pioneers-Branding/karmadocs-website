@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: What Are TMS Treatments? A Complete Guide to Transcranial Magnetic Stimulation
+ * Article body: what-are-tms-treatments
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidly—but many patients still struggle to find relief through medications or therapy alone. That’s where <strong>Transcranial Magnetic Stimulation (TMS)</strong> comes in.</p>
@@ -190,7 +190,7 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 
 <li>30–35% achieve full remission</li>
 
-<li><a href="/single-blog.php?slug=the-effectiveness-of-tms-on-treatment-resistant-depression">Highly effective in treatment-resistant depression</a></li>
+<li><a href="/blog/the-effectiveness-of-tms-on-treatment-resistant-depression">Highly effective in treatment-resistant depression</a></li>
 </ul>
 
 <p class="wp-block-paragraph">Results vary based on:</p>
@@ -205,7 +205,7 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 
 <h2 class="wp-block-heading">How Long Do TMS Results Last?</h2>
 
-<p class="wp-block-paragraph">Many patients experience relief for <a href="/single-blog.php?slug=how-long-does-tms-therapy-last">6 months to over a year</a>.</p>
+<p class="wp-block-paragraph">Many patients experience relief for <a href="/blog/how-long-does-tms-therapy-last">6 months to over a year</a>.</p>
 
 <h3 class="wp-block-heading">Maintenance Options:</h3>
 
@@ -241,7 +241,7 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 <li>Temporary hearing discomfort</li>
 </ul>
 
-<p class="wp-block-paragraph">Most <a href="/single-blog.php?slug=what-are-the-side-effects-of-tms-things-you-must-know">side effects of TMS therapy</a> <strong>decrease after the first few sessions</strong>.</p>
+<p class="wp-block-paragraph">Most <a href="/blog/what-are-the-side-effects-of-tms-things-you-must-know">side effects of TMS therapy</a> <strong>decrease after the first few sessions</strong>.</p>
 
 <h2 class="wp-block-heading">Who Should Consider TMS Therapy?</h2>
 
@@ -273,7 +273,7 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 
 <h2 class="wp-block-heading">Cost of TMS Treatment</h2>
 
-<p class="wp-block-paragraph">The <a href="/single-blog.php?slug=tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">cost of TMS</a> varies depending on provider and treatment plan.</p>
+<p class="wp-block-paragraph">The <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">cost of TMS</a> varies depending on provider and treatment plan.</p>
 
 <h3 class="wp-block-heading">General Estimate:</h3>
 

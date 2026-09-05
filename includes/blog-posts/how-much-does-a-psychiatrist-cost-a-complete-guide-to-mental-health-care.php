@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How Much Does a Psychiatrist Cost? A Complete Guide to Mental Health Care
+ * Article body: how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -39,7 +39,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h1 class="wp-block-heading"></h1>
 
-<p class="wp-block-paragraph">Understanding psychiatrist costs helps you plan for care. Learn more about finding the <a href="/single-blog.php?slug=best-psychiatrist-california-how-to-find-expert-mental-health-care">best psychiatrist in California</a> for your needs. If you&#8217;re exploring TMS Therapy, read about <a href="/single-blog.php?slug=tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> and <a href="/single-blog.php?slug=is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a>.</p>
+<p class="wp-block-paragraph">Understanding psychiatrist costs helps you plan for care. Learn more about finding the <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">best psychiatrist in California</a> for your needs. If you&#8217;re exploring TMS Therapy, read about <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> and <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, psychiatrists are medical doctors who specialize in diagnosing, treating, and preventing mental disorders — and are the only mental health professionals who can prescribe medications in most jurisdictions.</p>
 

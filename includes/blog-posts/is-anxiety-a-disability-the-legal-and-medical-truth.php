@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Is Anxiety a Disability? {The Legal and Medical Truth}
+ * Article body: is-anxiety-a-disability-the-legal-and-medical-truth
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -17,7 +17,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: understand the <a href="/single-blog.php?slug=benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a> and explore our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs</a>.</p>
+<p class="wp-block-paragraph">Related topics: understand the <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a> and explore our <a href="/blog/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mental health</a>, preventive mental health care and early intervention are key factors in reducing the long-term burden of mental illness — both for individuals and for society as a whole.</p>
 

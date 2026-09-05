@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Top 10 Psychiatrists in California: Your Guide to Trusted Mental Health Care
+ * Article body: top-10-psychiatrists-in-california-your-guide-to-trusted-mental-health-care
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -20,7 +20,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Finding the right psychiatrist is a life changing decision. When people search for the <a target="_blank" rel="noreferrer noopener" href="https://karmadocs.com/tag/best-psychiatrist-california/">Top 10 Psychiatrists in California</a>, they are usually looking for experience, trust, and real results. California has one of the strongest mental health ecosystems in the United States, offering access to highly skilled <a target="_blank" rel="noreferrer noopener" href="https://karmadocs.com/mental-health-role-of-psychiatrists/">psychiatry specialists</a> who treat everything from anxiety and depression to complex psychiatric conditions.</p>
 
-<p class="wp-block-paragraph">Explore related resources: understand <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our comprehensive mental health services in Palm Springs</a> and learn how <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment has real, evidence-backed results</a>.</p>
+<p class="wp-block-paragraph">Explore related resources: understand <a href="/blog/mental-health-palm-springs-ca-karmadocs">our comprehensive mental health services in Palm Springs</a> and learn how <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment has real, evidence-backed results</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mental health</a>, mental wellbeing is foundational to all aspects of quality of life — and early intervention through professional mental health care is one of the most impactful health investments an individual can make.</p>
 

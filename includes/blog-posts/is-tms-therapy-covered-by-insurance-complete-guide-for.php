@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Is TMS Therapy Covered by Insurance? Complete Guide for 2025
+ * Article body: is-tms-therapy-covered-by-insurance-complete-guide-for
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -45,7 +45,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph"><strong>If you’ve been researching TMS therapy for depression or anxiety, you’re likely wondering: </strong><strong><em>Is TMS therapy covered by insurance?</em></strong><strong><em><br></em></strong>The short answer is — <strong>yes, most major insurance providers now cover TMS therapy</strong> for patients who meet specific medical criteria.</p>
 
-<p class="wp-block-paragraph">Considering TMS Therapy? Also read about <a href="/single-blog.php?slug=tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> for a complete financial picture. Learn more about our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and how Karma Doctors can guide your TMS journey.</p>
+<p class="wp-block-paragraph">Considering TMS Therapy? Also read about <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> for a complete financial picture. Learn more about our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and how Karma Doctors can guide your TMS journey.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on transcranial magnetic stimulation (TMS)</a>, this non-invasive brain stimulation technique uses magnetic fields to modulate neuronal activity — and has FDA-cleared indications for treatment-resistant depression and OCD.</p>
 
@@ -99,7 +99,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="criteria-for-insurance-coverage"><strong>Criteria for Insurance Coverage</strong></h2>
 
-<p class="wp-block-paragraph">Most insurers require proof that the patient has not achieved adequate results from traditional treatments, especially when evaluating eligibility and the <strong><a href="/single-blog.php?slug=the-cost-of-tms-without-insurance-your-complete-guide">cost of TMS therapy without insurance</a></strong>.<br></p>
+<p class="wp-block-paragraph">Most insurers require proof that the patient has not achieved adequate results from traditional treatments, especially when evaluating eligibility and the <strong><a href="/blog/the-cost-of-tms-without-insurance-your-complete-guide">cost of TMS therapy without insurance</a></strong>.<br></p>
 
 <p class="wp-block-paragraph"><strong>Common eligibility requirements include:</strong></p>
 

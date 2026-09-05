@@ -17,9 +17,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h1 class="wp-block-heading"><strong>How Does ADHD Treatment Work?</strong></h1>
 
-<p class="wp-block-paragraph">Attention-Deficit/Hyperactivity Disorder (ADHD) is a common neurodevelopmental condition that affects both children and adults. It impacts focus, impulse control, and overall behavior. People with ADHD may find it hard to pay attention, stay organized, or complete tasks on time. However, with the right treatment, these challenges can be managed effectively. Understanding <strong><a href="/single-blog.php?slug=how-does-adhd-treatment-work" title="">how ADHD treatment works</a></strong> can help individuals and families take the right steps toward better focus, control, and quality of life.</p>
+<p class="wp-block-paragraph">Attention-Deficit/Hyperactivity Disorder (ADHD) is a common neurodevelopmental condition that affects both children and adults. It impacts focus, impulse control, and overall behavior. People with ADHD may find it hard to pay attention, stay organized, or complete tasks on time. However, with the right treatment, these challenges can be managed effectively. Understanding <strong><a href="/blog/how-does-adhd-treatment-work" title="">how ADHD treatment works</a></strong> can help individuals and families take the right steps toward better focus, control, and quality of life.</p>
 
-<p class="wp-block-paragraph">Related reading: learn about <a href="/single-blog.php?slug=physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety</a> and explore <a href="/single-blog.php?slug=benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">how therapy benefits anxiety patients</a>.</p>
+<p class="wp-block-paragraph">Related reading: learn about <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety</a> and explore <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">how therapy benefits anxiety patients</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these conditions encompass a wide spectrum — from generalized anxiety disorder to panic disorder and social anxiety — each benefiting from evidence-based treatment approaches.</p>
 
@@ -112,7 +112,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Most people notice improvement within a few days or weeks of starting medication. The treatment plan is customized by the psychiatrist and may require some adjustments to find the best dose and type. Regular follow-ups ensure that the medicine continues to work effectively and safely.</p>
 
-<p class="wp-block-paragraph">When people ask, <em>“<strong><a href="/single-blog.php?slug=how-does-adhd-treatment-work" title="">Does ADHD treatment work long term</a></strong>?”</em> — the answer is yes, especially when combined with therapy and lifestyle adjustments. Consistent medical supervision ensures the treatment remains effective as a person’s needs evolve.</p>
+<p class="wp-block-paragraph">When people ask, <em>“<strong><a href="/blog/how-does-adhd-treatment-work" title="">Does ADHD treatment work long term</a></strong>?”</em> — the answer is yes, especially when combined with therapy and lifestyle adjustments. Consistent medical supervision ensures the treatment remains effective as a person’s needs evolve.</p>
 
 <h4 class="wp-block-heading"><strong>2. Behavioral Therapy</strong></h4>
 
@@ -132,7 +132,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h4 class="wp-block-heading"><strong>4. Lifestyle and Environmental Adjustments</strong></h4>
 
-<p class="wp-block-paragraph">Lifestyle changes play a major role in <strong><a href="/single-blog.php?slug=how-does-adhd-treatment-work" title="">how ADHD treatment works</a></strong>. A structured and balanced routine can significantly improve focus and emotional stability.</p>
+<p class="wp-block-paragraph">Lifestyle changes play a major role in <strong><a href="/blog/how-does-adhd-treatment-work" title="">how ADHD treatment works</a></strong>. A structured and balanced routine can significantly improve focus and emotional stability.</p>
 
 <p class="wp-block-paragraph">Some lifestyle strategies that support ADHD treatment include:</p>
 
@@ -243,7 +243,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>Summary</strong></h3>
 
-<p class="wp-block-paragraph">In summary, <strong><a href="/single-blog.php?slug=how-does-adhd-treatment-work" title="">ADHD treatment works</a></strong> by targeting the brain’s chemical imbalances, improving behavior, and strengthening emotional well-being. It combines medication, therapy, and lifestyle changes to help individuals lead balanced and productive lives. The success of treatment depends on consistency, follow-up care, and ongoing support from professionals and family.</p>
+<p class="wp-block-paragraph">In summary, <strong><a href="/blog/how-does-adhd-treatment-work" title="">ADHD treatment works</a></strong> by targeting the brain’s chemical imbalances, improving behavior, and strengthening emotional well-being. It combines medication, therapy, and lifestyle changes to help individuals lead balanced and productive lives. The success of treatment depends on consistency, follow-up care, and ongoing support from professionals and family.</p>
 
 <p class="wp-block-paragraph">If you or your loved one is struggling with ADHD, seeking help early can make a life-changing difference. At Karma Doctors &amp; Associates, we provide comprehensive and compassionate <strong><a href="/adhd.php" title="">ADHD Treatment in Palm Springs</a></strong>, using evidence-based strategies that deliver long-term results and empower individuals to thrive.</p>
 

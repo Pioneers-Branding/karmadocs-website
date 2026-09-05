@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: What Is Deep TMS Therapy? Process, Benefits & Treatment Overview
+ * Article body: what-is-deep-tms-therapy-process-benefits-treatment-overview
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -26,7 +26,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">As mental health care continues to evolve, treatments are becoming more targeted, evidence-based, and patient-friendly. One of the most advanced non-invasive treatment options available today is Deep Transcranial Magnetic Stimulation (Deep TMS).</p>
 
-<p class="wp-block-paragraph">Related topics: learn more about <a href="/single-blog.php?slug=treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and explore <a href="/single-blog.php?slug=is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a>.</p>
+<p class="wp-block-paragraph">Related topics: learn more about <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and explore <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on TMS therapy</a>, the technique is well-established in the medical literature, with extensive clinical trials supporting its efficacy for depression — and ongoing research exploring applications for other mental health conditions.</p>
 

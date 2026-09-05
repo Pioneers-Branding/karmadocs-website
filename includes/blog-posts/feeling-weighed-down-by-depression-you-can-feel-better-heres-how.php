@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Feeling Weighed Down by Depression? You Can Feel Better- Here’s How
+ * Article body: feeling-weighed-down-by-depression-you-can-feel-better-heres-how
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: explore our <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/single-blog.php?slug=best-psychiatrist-california-how-to-find-expert-mental-health-care">finding the best psychiatrist in California</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">finding the best psychiatrist in California</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, treatment typically involves a combination of antidepressant medication and psychotherapy — with response rates significantly improving when both approaches are used together.</p>
 

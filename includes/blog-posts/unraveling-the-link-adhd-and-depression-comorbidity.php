@@ -14,7 +14,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related resources: learn about <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and explore the <a href="/single-blog.php?slug=benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a>.</p>
+<p class="wp-block-paragraph">Related resources: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and explore the <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these conditions encompass generalized anxiety, social anxiety, panic disorder, and more — all of which respond well to evidence-based treatment approaches including therapy and medication.</p>
 
@@ -44,7 +44,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
  	<li><span style="color: #000000;"><b> Cognitive Factors: </b>Negative self perception, Cognitive inflexibility are some cognitive processes that are common in both ADHD as well as depression.  When these cognitive patterns reinforce each other, they lead to a cycle of negative thoughts and emotions which contributes to ADHD and comorbid depression<b>. </b></span></li>
 </ol>
 <h4><span style="color: #000000;"><strong>Treatment Implications Associated With ADHD And Depression Comorbidity</strong></span></h4>
-<span style="color: #000000;"><span style="font-weight: 400;">Effectively managing</span><a style="color: #000000;" href="/single-blog.php?slug=adhd-treatment-online-can-it-work"><b> ADHD depression comorbidity</b></a><span style="font-weight: 400;"> requires a comprehensive treatment approach that addresses both conditions simultaneously.</span></span>
+<span style="color: #000000;"><span style="font-weight: 400;">Effectively managing</span><a style="color: #000000;" href="/blog/adhd-treatment-online-can-it-work"><b> ADHD depression comorbidity</b></a><span style="font-weight: 400;"> requires a comprehensive treatment approach that addresses both conditions simultaneously.</span></span>
 <ol>
  	<li><span style="color: #000000;"><b> Psychotherapy</b><span style="font-weight: 400;">: Cognitive-behavioral therapy (CBT) has been shown to be effective in treating both ADHD and depression. </span>Development of coping strategies for managing symptoms, challenging negative thought patterns, and improving executive functioning skills are some benefits of CBT techniques on individuals.</span></li>
  	<li><span style="color: #000000;"><b>Pharmacotherapy: </b><span style="font-weight: 400;">Medications such as stimulants and antidepressants may be prescribed to target symptoms of both </span>ADHD and comorbid depression<span style="font-weight: 400;">. However, medication management should be carefully monitored to minimize potential side effects and drug interactions.</span></span></li>

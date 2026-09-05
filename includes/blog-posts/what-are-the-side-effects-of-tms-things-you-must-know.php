@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: What Are the Side Effects of TMS? Things You Must Know
+ * Article body: what-are-the-side-effects-of-tms-things-you-must-know
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -24,7 +24,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) is a non-invasive treatment that has gained widespread attention for its effectiveness in managing various mental health conditions. As more people explore TMS as an alternative to medication, a very common and important question arises:</p>
 
-<p class="wp-block-paragraph">For comprehensive mental health care, explore <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our Palm Springs services</a>. Learn how <a href="/single-blog.php?slug=does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment works</a> and what results you can expect.</p>
+<p class="wp-block-paragraph">For comprehensive mental health care, explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">our Palm Springs services</a>. Learn how <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment works</a> and what results you can expect.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, the field encompasses diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders — with telehealth expanding access dramatically in recent years.</p>
 

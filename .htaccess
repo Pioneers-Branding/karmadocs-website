@@ -4,6 +4,40 @@
     RewriteEngine On
     RewriteBase /
 
+    # ------------------------------------------------------------------
+    # Legacy WordPress URLs -> 301 to the new canonical URL.
+    # The old site published everything with a trailing slash and Google
+    # still has those indexed, so each old shape is redirected exactly once.
+    # These must stay ABOVE the internal routing rules below.
+    # ------------------------------------------------------------------
+
+    # Old blog index: /blogs/ and /blogs/page/2/
+    RewriteRule ^blogs/page/([0-9]+)/?$ /blog?paged=$1 [R=301,L]
+    RewriteRule ^blogs/?$ /blog [R=301,L]
+
+    # WordPress category/tag archives have no equivalent -> blog index
+    RewriteRule ^(?:category|tag)/[^/]+/?$ /blog [R=301,L]
+
+    # Old service URLs: /services/depression/ -> /depression
+    RewriteRule ^services?/(adhd|anxiety|depression|ocd|ptsd|medication-management)/?$ /$1 [R=301,L]
+    RewriteRule ^services?/tms(?:-therapy)?/?$ /tms [R=301,L]
+    RewriteRule ^contact-us/?$ /contact [R=301,L]
+
+    # Old /post/<slug>/ permalinks -> the article if it still exists, else the index
+    RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
+    RewriteRule ^post/([a-z0-9\-]+)/?$ /blog/$1 [R=301,L]
+    RewriteRule ^post/[a-z0-9\-]+/?$ /blog [R=301,L]
+
+    # Articles used to live at the site root: /does-tms-therapy-hurt/ -> /blog/<slug>.
+    # The condition means only real article slugs match, so pages are untouched.
+    RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
+    RewriteRule ^([a-z0-9\-]+)/?$ /blog/$1 [R=301,L]
+
+    # Trailing slash on a real page: /tms/ -> /tms
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{DOCUMENT_ROOT}/$1.php -f
+    RewriteRule ^(.+?)/+$ /$1 [R=301,L]
+
     # Route /blog/slug to single-blog.php?slug=slug
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_FILENAME} !-d

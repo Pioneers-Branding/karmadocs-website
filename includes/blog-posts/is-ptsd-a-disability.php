@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Is PTSD a Disability?
+ * Article body: is-ptsd-a-disability
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -22,7 +22,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Post-Traumatic Stress Disorder (PTSD) is a mental health condition that can significantly impact daily life. A common and important question many people ask is: <strong>Is PTSD considered a disability?</strong></p>
 
-<p class="wp-block-paragraph">Related resources: explore <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">our Palm Springs mental health services</a> and learn how <a href="/single-blog.php?slug=how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">much psychiatrist care costs</a> in California.</p>
+<p class="wp-block-paragraph">Related resources: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">our Palm Springs mental health services</a> and learn how <a href="/blog/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">much psychiatrist care costs</a> in California.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mental health</a>, access to quality care is one of the most critical factors in achieving positive mental health outcomes — and telehealth has dramatically expanded that access in recent years.</p>
 

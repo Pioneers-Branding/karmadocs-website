@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Is TMS Therapy Legitimate? A 2026 Evidence-Based Guide
+ * Article body: is-tms-therapy-legitimate-a-2026-evidence-based-guide
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -28,7 +28,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Mental health treatments have evolved rapidly over the last decade, and one therapy that continues to raise questions is <a href="/tms.php" title="">Transcranial Magnetic Stimulation (TMS)</a>. If you or someone you love has struggled with depression or other mental health conditions without success from medications or therapy alone, you’ve probably asked:</p>
 
-<p class="wp-block-paragraph">Related reading: explore how <a href="/single-blog.php?slug=mental-health-palm-springs-ca-karmadocs">KarmaDocs provides comprehensive mental health care</a> in Palm Springs, CA. Also learn about <a href="/single-blog.php?slug=physical-symptoms-of-anxiety-most-people-dont-recognize">physical anxiety symptoms</a> that often go unrecognized.</p>
+<p class="wp-block-paragraph">Related reading: explore how <a href="/blog/mental-health-palm-springs-ca-karmadocs">KarmaDocs provides comprehensive mental health care</a> in Palm Springs, CA. Also learn about <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">physical anxiety symptoms</a> that often go unrecognized.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these are a group of mental illnesses characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with daily activities — and are among the most prevalent mental health conditions worldwide.</p>
 
