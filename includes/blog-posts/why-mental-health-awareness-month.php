@@ -1,11 +1,11 @@
 <?php
 /**
- * Article body: Why Mental Health Awareness Month Matters More Than Ever in 2026
+ * Article body: why-mental-health-awareness-month
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month serves as an important reminder: mental health is just as important as physical health.</p>
 
-<p class="wp-block-paragraph">Yet many people across <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">Palm Desert</a>, <a href="/areas-we-serve/location-psychiatrist-near-indio.php">Indio</a>, and surrounding California communities continue to suffer silently with <a href="/anxiety.php">anxiety</a>, <a href="/depression.php">depression</a>, <a href="/ptsd.php">PTSD</a>, <a href="/adhd.php">ADHD</a>, burnout, and chronic stress.</p>
+<p class="wp-block-paragraph">Yet many people across <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">Palm Desert</a>, <a href="/areas-we-serve/location-psychiatrist-near-indio.php">Indio</a>, and surrounding California communities continue to suffer silently with <a href="/anxiety">anxiety</a>, <a href="/depression">depression</a>, <a href="/ptsd">PTSD</a>, <a href="/adhd">ADHD</a>, burnout, and chronic stress.</p>
 
 <p class="wp-block-paragraph">Some people hide their struggles behind busy schedules.<br>Others convince themselves they’re “just stressed.”<br>Many delay treatment because they fear judgment or believe they should simply “push through it.”</p>
 
@@ -315,7 +315,7 @@ return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month 
 <li>Well-tolerated by many patients</li>
 </ul>
 
-<p class="wp-block-paragraph">Many individuals searching for <a href="/tms.php">TMS therapy in Palm Springs</a> are looking for alternatives after medications alone have not provided sufficient relief.</p>
+<p class="wp-block-paragraph">Many individuals searching for <a href="/tms">TMS therapy in Palm Springs</a> are looking for alternatives after medications alone have not provided sufficient relief.</p>
 
 <p class="wp-block-paragraph">TMS therapy can be an important option for eligible patients seeking advanced mental health treatment.</p>
 
@@ -455,7 +455,7 @@ return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month 
 <p class="wp-block-paragraph">If you or someone you love is struggling emotionally, now may be the right time to seek professional support.</p>
 
 <div class="wp-block-buttons is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-61db0649 wp-block-buttons-is-layout-flex">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-vivid-purple-background-color has-text-color has-background has-link-color wp-element-button" href="/contact.php" style="border-top-left-radius:58px;border-top-right-radius:58px;border-bottom-left-radius:58px;border-bottom-right-radius:58px"><strong>Book an Appointment</strong></a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link has-white-color has-vivid-purple-background-color has-text-color has-background has-link-color wp-element-button" href="/contact" style="border-top-left-radius:58px;border-top-right-radius:58px;border-bottom-left-radius:58px;border-bottom-right-radius:58px"><strong>Book an Appointment</strong></a></div>
 </div>
 
 <h3 class="wp-block-heading">Contact Karma Doctors &amp; Associates to learn more about:</h3>

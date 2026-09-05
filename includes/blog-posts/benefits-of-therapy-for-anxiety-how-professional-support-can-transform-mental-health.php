@@ -179,7 +179,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <li>Increased self-confidence and optimism<br></li>
 </ul>
 
-<p class="wp-block-paragraph">In many cases, a combination of therapy and other wellness practices — such as mindfulness, exercise, and healthy lifestyle changes — produces the best outcomes. For individuals experiencing overlapping symptoms of anxiety and depression, <a href="/depression.php"><strong>Depression Treatment in Palm Springs</strong></a> can further enhance overall emotional well-being and long-term recovery.</p>
+<p class="wp-block-paragraph">In many cases, a combination of therapy and other wellness practices — such as mindfulness, exercise, and healthy lifestyle changes — produces the best outcomes. For individuals experiencing overlapping symptoms of anxiety and depression, <a href="/depression"><strong>Depression Treatment in Palm Springs</strong></a> can further enhance overall emotional well-being and long-term recovery.</p>
 
 <h2 class="wp-block-heading" id="what-to-expect"><strong>What to Expect When Starting Therapy for Anxiety</strong></h2>
 
@@ -223,7 +223,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="conclusion"><strong>Conclusion</strong></h2>
 
-<p class="wp-block-paragraph">Anxiety may be common, but it doesn’t have to control your life. <a href="/anxiety.php"><strong>Anxiety treatment in Palm Springs</strong></a> offers a path to understanding, healing, and long-term growth. It teaches practical tools to manage symptoms, builds emotional awareness, and helps uncover the deeper causes of worry and fear.</p>
+<p class="wp-block-paragraph">Anxiety may be common, but it doesn’t have to control your life. <a href="/anxiety"><strong>Anxiety treatment in Palm Springs</strong></a> offers a path to understanding, healing, and long-term growth. It teaches practical tools to manage symptoms, builds emotional awareness, and helps uncover the deeper causes of worry and fear.</p>
 
 <p class="wp-block-paragraph">If you’ve ever wondered, <em>“does therapy help with anxiety?”</em>, the answer is clear — it does. The <strong>benefits of therapy for anxiety</strong> are both immediate and enduring. From reducing physical symptoms and intrusive thoughts to fostering resilience and confidence, therapy can truly transform how you experience life.</p>
 

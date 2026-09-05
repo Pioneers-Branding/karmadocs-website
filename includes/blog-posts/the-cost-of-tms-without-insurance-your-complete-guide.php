@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How Much Does TMS Cost Without Insurance: Your Complete Guide
+ * Article body: the-cost-of-tms-without-insurance-your-complete-guide
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -29,9 +29,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p><span style="font-weight: 400;">You’ve tried other treatments, and done your research on TMS therapy. Now you’re thinking about the bottom line: how much is TMS going to cost you? TMS is FDA-approved for <a href="/depression.php">depression</a>, <a href="/ocd.php">obsessive-compulsive disorder</a>, and other diagnoses. </span></p>
+<p><span style="font-weight: 400;">You’ve tried other treatments, and done your research on TMS therapy. Now you’re thinking about the bottom line: how much is TMS going to cost you? TMS is FDA-approved for <a href="/depression">depression</a>, <a href="/ocd">obsessive-compulsive disorder</a>, and other diagnoses. </span></p>
 <p><span style="font-weight: 400;">So for many people, the cost is covered by insurance. But what if you’re uninsured or don’t qualify? To answer all these questions, here’s a </span><b>comprehensive guide on paying for Transcranial Magnetic Stimulation. </b></p>
-<p><span style="font-weight: 400;">TMS has helped thousands of people struggling with</span><b> treatment-resistant depression, <a href="/bipolar.php">bipolar disorder</a>, <a href="/ocd.php">obsessive-compulsive disorder</a>,</b><span style="font-weight: 400;"> and other ailments. Its success rates are comparable to SSRIs. 50-60% of people with treatment-resistant mental illness have been helped with TMS even when </span><a href="https://karmadocs.com/post/9-signs-its-time-to-move-on-from-your-mental-health-medications"><span style="font-weight: 400;">medications</span></a><span style="font-weight: 400;"> didn’t help. And up to a third of these people experience </span><i><span style="font-weight: 400;">complete symptom remission</span></i><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">TMS has helped thousands of people struggling with</span><b> treatment-resistant depression, <a href="/bipolar">bipolar disorder</a>, <a href="/ocd">obsessive-compulsive disorder</a>,</b><span style="font-weight: 400;"> and other ailments. Its success rates are comparable to SSRIs. 50-60% of people with treatment-resistant mental illness have been helped with TMS even when </span><a href="https://karmadocs.com/post/9-signs-its-time-to-move-on-from-your-mental-health-medications"><span style="font-weight: 400;">medications</span></a><span style="font-weight: 400;"> didn’t help. And up to a third of these people experience </span><i><span style="font-weight: 400;">complete symptom remission</span></i><span style="font-weight: 400;">.</span><span style="font-weight: 400;"> </span></p>
 <p><span style="font-weight: 400;">TMS therapy starts with a consultation, then a mapping session. The length of your regimen is specific to you, but </span><b>36 treatment sessions are standard.</b><span style="font-weight: 400;"> Patients go in for treatment five times a week, and each of these sessions lasts about 40 minutes. Some patients need follow-up sessions afterward.</span></p>
 <p><span style="font-weight: 400;">TMS is a newer treatment, and it’s mostly been researched in people who have tried other treatments first. Not everyone qualifies for coverage under insurance. </span><b>And many people are uninsured in the United States.</b><span style="font-weight: 400;"> There’s a lot of mystery around what medical services cost, and you may have been slammed with a hefty bill in the past. </span></p>
 <p><span style="font-weight: 400;">That’s not a fun feeling. </span></p>
@@ -79,10 +79,10 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <h2 id="tms-therapy-offlabel-options-for-people-without-depression"><span style="font-weight: 400;">TMS Therapy Off-Label: Options for People Without Depression</span></h2>
 <p><span style="font-weight: 400;">While TMS is used for treatment-resistant depression, there are several other diagnoses that it’s shown to help. TMS is also FDA-approved for</span><b> Obsessive Compulsive Disorder</b><span style="font-weight: 400;">. But there are several other diagnoses that it’s used for “off-label”. </span><b>Here are a few of the major diagnoses that TMS therapy treats off-label:</b></p>
 <ul>
-<li style="font-weight: 400;" aria-level="1"><a href="/ptsd.php"><span style="font-weight: 400;">Post-Traumatic Stress Disorder (PTSD)</span></a></li>
-<li style="font-weight: 400;" aria-level="1"><a href="/ocd.php"><span style="font-weight: 400;">Obsessive-Compulsive Disorder (OCD)</span></a></li>
-<li style="font-weight: 400;" aria-level="1"><a href="/anxiety.php"><span style="font-weight: 400;">Anxiety</span></a></li>
-<li style="font-weight: 400;" aria-level="1"><a href="/bipolar.php"><span style="font-weight: 400;">Bipolar Disorder</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="/ptsd"><span style="font-weight: 400;">Post-Traumatic Stress Disorder (PTSD)</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="/ocd"><span style="font-weight: 400;">Obsessive-Compulsive Disorder (OCD)</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="/anxiety"><span style="font-weight: 400;">Anxiety</span></a></li>
+<li style="font-weight: 400;" aria-level="1"><a href="/bipolar"><span style="font-weight: 400;">Bipolar Disorder</span></a></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Substance Use Disorder</span></li>
 <li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Panic Disorder</span></li>
 </ul>

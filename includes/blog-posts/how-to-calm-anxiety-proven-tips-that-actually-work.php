@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How to Calm Anxiety: Proven Tips That Actually Work
+ * Article body: how-to-calm-anxiety-proven-tips-that-actually-work
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to breathe deeply? If you&#8217;ve been searching for <strong>how to calm anxiety</strong>, you are not alone. Anxiety is one of the most common mental health challenges in America, affecting millions of adults and children every day. The good news is that there are real, proven strategies for <strong>anxiety relief</strong> that can help you feel better — sometimes within minutes. In this guide, we&#8217;ll walk you through what anxiety is, why it happens, and exactly what you can do about it.</p>
@@ -35,7 +35,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 <li>Muscle tension or stomach problems</li>
 </ul>
 
-<p class="wp-block-paragraph">If you recognize several of these symptoms, our <a href="/anxiety.php">anxiety treatment page</a> explains how we help patients find lasting relief.</p>
+<p class="wp-block-paragraph">If you recognize several of these symptoms, our <a href="/anxiety">anxiety treatment page</a> explains how we help patients find lasting relief.</p>
 
 <h2 class="wp-block-heading">How to Calm Anxiety Quickly: 8 Proven Strategies</h2>
 
@@ -95,7 +95,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 
 <h3 class="wp-block-heading">7. Reach Out to Someone You Trust</h3>
 
-<p class="wp-block-paragraph">Social connection is a natural anxiety buffer. Talking to a trusted friend or family member — or even a therapist — helps process worries and reduces the isolation that often makes anxiety worse. Our team at Karma Docs is always here to listen. <a href="/contact.php">Book a consultation today</a> and talk to a compassionate psychiatrist.</p>
+<p class="wp-block-paragraph">Social connection is a natural anxiety buffer. Talking to a trusted friend or family member — or even a therapist — helps process worries and reduces the isolation that often makes anxiety worse. Our team at Karma Docs is always here to listen. <a href="/contact">Book a consultation today</a> and talk to a compassionate psychiatrist.</p>
 
 <h3 class="wp-block-heading">8. Mindfulness Meditation</h3>
 
@@ -124,7 +124,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 <ul class="wp-block-list">
 <li><strong>Therapy:</strong> CBT, Exposure Therapy, and Acceptance &amp; Commitment Therapy (ACT) are all highly effective</li>
 
-<li><strong>Medication:</strong> SSRIs, SNRIs, or buspirone can help regulate brain chemistry. Learn more on our <a href="/medication-management.php">medication management page</a>.</li>
+<li><strong>Medication:</strong> SSRIs, SNRIs, or buspirone can help regulate brain chemistry. Learn more on our <a href="/medication-management">medication management page</a>.</li>
 
 <li><strong>TMS Therapy:</strong> For treatment-resistant anxiety, Transcranial Magnetic Stimulation may be an option</li>
 
@@ -147,7 +147,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 <li>You have thoughts of harming yourself</li>
 </ul>
 
-<p class="wp-block-paragraph">You deserve to feel calm and in control of your life. Our board-certified psychiatrists at Karma Docs specialize in anxiety disorders and are ready to create a personalized treatment plan just for you. <a href="/contact.php">Schedule your appointment today</a> — help is closer than you think.</p>
+<p class="wp-block-paragraph">You deserve to feel calm and in control of your life. Our board-certified psychiatrists at Karma Docs specialize in anxiety disorders and are ready to create a personalized treatment plan just for you. <a href="/contact">Schedule your appointment today</a> — help is closer than you think.</p>
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=800&amp;q=80" alt="Compassionate psychiatrist speaking with anxiety patient"/><figcaption class="wp-element-caption">Our compassionate psychiatrists are here to help you find the anxiety relief you deserve.</figcaption></figure>

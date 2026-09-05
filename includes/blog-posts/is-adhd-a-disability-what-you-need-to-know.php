@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Is ADHD a Disability? What You Need to Know
+ * Article body: is-adhd-a-disability-what-you-need-to-know
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">If you or someone you love has been diagnosed with ADHD, you may be wondering: <strong>is ADHD a disability?</strong> The short answer is yes, ADHD (Attention-Deficit/Hyperactivity Disorder) can qualify as a disability under federal law, depending on how it affects your daily life. Understanding your rights can open doors to support, workplace accommodations, and even <strong>ADHD disability benefits</strong>. Let&#8217;s break it all down in plain language.</p>
@@ -31,7 +31,7 @@ return '<p class="wp-block-paragraph">If you or someone you love has been diagno
 <li>Difficulty following through on projects or commitments</li>
 </ul>
 
-<p class="wp-block-paragraph">If these symptoms sound familiar, you are not alone, and help is available. Our <a href="/adhd.php">ADHD treatment page</a> explains how we support patients with ADHD at every stage of life.</p>
+<p class="wp-block-paragraph">If these symptoms sound familiar, you are not alone, and help is available. Our <a href="/adhd">ADHD treatment page</a> explains how we support patients with ADHD at every stage of life.</p>
 
 <h2 class="wp-block-heading">Is ADHD a Disability Under Federal Law?</h2>
 
@@ -75,14 +75,14 @@ return '<p class="wp-block-paragraph">If you or someone you love has been diagno
 <li>Evidence that current treatments have not fully resolved the impairment</li>
 </ul>
 
-<p class="wp-block-paragraph">A psychiatrist can provide the detailed clinical documentation needed to support your disability claim. If you need a comprehensive ADHD evaluation, <strong>our team at Karma Doctors &amp; Associates is here to help</strong>. <a href="/contact.php">Schedule a consultation today</a> and take the first step toward getting the support you deserve.</p>
+<p class="wp-block-paragraph">A psychiatrist can provide the detailed clinical documentation needed to support your disability claim. If you need a comprehensive ADHD evaluation, <strong>our team at Karma Doctors &amp; Associates is here to help</strong>. <a href="/contact">Schedule a consultation today</a> and take the first step toward getting the support you deserve.</p>
 
 <h2 class="wp-block-heading">ADHD Treatment Options</h2>
 
 <p class="wp-block-paragraph">Whether or not you qualify for disability status, ADHD is a treatable condition. Effective treatments include:</p>
 
 <ul class="wp-block-list">
-<li><strong>Medication:</strong> Stimulants like Adderall or Ritalin are commonly prescribed, as are non-stimulant options. Learn more on our <a href="/medication-management.php">medication management page</a>.</li>
+<li><strong>Medication:</strong> Stimulants like Adderall or Ritalin are commonly prescribed, as are non-stimulant options. Learn more on our <a href="/medication-management">medication management page</a>.</li>
 
 <li><strong>Therapy:</strong> Cognitive Behavioral Therapy (CBT) helps patients develop coping strategies and organizational skills.</li>
 
@@ -107,7 +107,7 @@ return '<p class="wp-block-paragraph">If you or someone you love has been diagno
 <li>You feel overwhelmed, discouraged, or hopeless about your ADHD</li>
 </ul>
 
-<p class="wp-block-paragraph">You do not have to manage ADHD alone. Our board-certified psychiatrists specialize in diagnosing and treating ADHD in adults and children. <a href="/contact.php">Book your appointment today</a>, taking that first step can truly change your life.</p>
+<p class="wp-block-paragraph">You do not have to manage ADHD alone. Our board-certified psychiatrists specialize in diagnosing and treating ADHD in adults and children. <a href="/contact">Book your appointment today</a>, taking that first step can truly change your life.</p>
 
 <div class="wp-block-image">
 <figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&amp;q=80" alt="Doctor consulting patient about ADHD"/><figcaption class="wp-element-caption">Speaking with a psychiatrist is the best first step toward understanding your ADHD and your rights.</figcaption></figure>

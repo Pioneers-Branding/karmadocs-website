@@ -219,6 +219,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">The <em>TMS cost without insurance</em> can seem daunting at first glance, but when you consider its long-term effectiveness and minimal side effects, it’s one of the best mental health investments available today.</p>
 
-<p class="wp-block-paragraph">With trusted guidance from <strong>KarmaDocs</strong>, patients can find flexible, affordable, and compassionate care options across California — including clinics offering competitive <em><a href="/tms.php" title="">TMS cost in Palm Springs</a></em>.</p>
+<p class="wp-block-paragraph">With trusted guidance from <strong>KarmaDocs</strong>, patients can find flexible, affordable, and compassionate care options across California — including clinics offering competitive <em><a href="/tms" title="">TMS cost in Palm Springs</a></em>.</p>
 
 <p class="wp-block-paragraph">If depression or anxiety has held you back for too long, TMS therapy could be the life-changing treatment you’ve been looking for.<br>Visit<a href="/"> <strong>KarmaDocs</strong></a> to learn more and take your first step toward lasting mental wellness.</p>';

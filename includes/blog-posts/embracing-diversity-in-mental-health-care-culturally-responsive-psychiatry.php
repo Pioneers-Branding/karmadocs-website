@@ -21,7 +21,7 @@ In our increasingly diverse society, it is crucial to ensure that everyone has a
 
 Culturally responsive psychiatry bridges this gap by recognizing the important role that culture plays in shaping a person&#8217;s mental health journey. By understanding and incorporating cultural elements into their approach, psychiatrists care can:
 
-● <strong>Improve communication and build trust:-</strong> Cultural awareness fosters better communication and trust between the patient and the psychiatrist. This allows for a more open and honest dialogue about the patient&#8217;s experiences and concerns, leading to a more accurate diagnosis and <strong><a href="/anxiety.php">psychiatric treatment</a></strong> plan.
+● <strong>Improve communication and build trust:-</strong> Cultural awareness fosters better communication and trust between the patient and the psychiatrist. This allows for a more open and honest dialogue about the patient&#8217;s experiences and concerns, leading to a more accurate diagnosis and <strong><a href="/anxiety">psychiatric treatment</a></strong> plan.
 
 ● <strong>Reduce stigma and discrimination:-</strong> Many cultures have historical and ongoing experiences with stigma and discrimination surrounding mental health. A culturally responsive psychiatrist can help to address these concerns and create a safe and supportive environment for patients.
 

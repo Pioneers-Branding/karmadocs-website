@@ -19,7 +19,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <span style="font-weight: 400;">Depression isn&#8217;t just &#8220;feeling sad.&#8221; It’s heavier. It’s like waking up with an invisible weight strapped to your chest every single morning. Simple stuff – showering, answering a text, even watching your favorite show – feels like climbing Everest. Joy? It feels like a distant memory, like something that happens to other people.</span>
 
-<span style="font-weight: 400;">Here’s the thing you need to hear, loud and clear: Depression is treatable. It’s not a life sentence. It’s not a sign you&#8217;re weak or broken. It’s a health condition, full stop. Just like you’d get help for a broken arm or high blood pressure, you deserve help for this. And finding the right support, maybe a really good <a href="/depression.php"><strong>Depression treatment center in California</strong></a>, if that’s where you are, can genuinely change everything.</span>
+<span style="font-weight: 400;">Here’s the thing you need to hear, loud and clear: Depression is treatable. It’s not a life sentence. It’s not a sign you&#8217;re weak or broken. It’s a health condition, full stop. Just like you’d get help for a broken arm or high blood pressure, you deserve help for this. And finding the right support, maybe a really good <a href="/depression"><strong>Depression treatment center in California</strong></a>, if that’s where you are, can genuinely change everything.</span>
 
 <b>Cutting Through the Fog: What Depression Feels Like</b>
 

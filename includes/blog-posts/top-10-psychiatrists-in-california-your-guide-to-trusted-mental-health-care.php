@@ -26,7 +26,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="why-california-has-some-of-the-best-psychiatrists">Why California Has Some of the Best Psychiatrists</h2>
 
-<p class="wp-block-paragraph">California is known for advanced healthcare, research driven treatment, and early adoption of modern psychiatric practices. Psychiatrists here often combine <a target="_blank" rel="noreferrer noopener" href="/medication-management.php">medication management</a> with therapy based approaches and long term care planning. The rise of telepsychiatry has also made expert mental health care more accessible across cities and remote regions.</p>
+<p class="wp-block-paragraph">California is known for advanced healthcare, research driven treatment, and early adoption of modern psychiatric practices. Psychiatrists here often combine <a target="_blank" rel="noreferrer noopener" href="/medication-management">medication management</a> with therapy based approaches and long term care planning. The rise of telepsychiatry has also made expert mental health care more accessible across cities and remote regions.</p>
 
 <p class="wp-block-paragraph">People searching for California top-rated psychiatrists often want professionals who focus on long term mental wellness rather than short term symptom relief. This patient centered approach is what separates top psychiatrists from average providers.</p>
 
@@ -46,7 +46,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">At the top of the list of the Top 10 Psychiatrists in California is <a target="_blank" rel="noreferrer noopener" href="/">KarmaDocs</a>. KarmaDocs is not just a single clinic or doctor. It is a trusted platform that connects patients with experienced and verified psychiatry specialists across California.</p>
 
-<p class="wp-block-paragraph">KarmaDocs focuses on transparency, patient safety, and quality care. Patients can find help for <a target="_blank" rel="noreferrer noopener" href="/anxiety.php">anxiety</a>, <a target="_blank" rel="noreferrer noopener" href="https://www.google.com/search?q=https://karmadocs.com/category/depression/">depression</a>, mood disorders, trauma, and other mental health concerns without the confusion of unverified listings. Both online and in-person consultations are available, making care accessible and flexible.</p>
+<p class="wp-block-paragraph">KarmaDocs focuses on transparency, patient safety, and quality care. Patients can find help for <a target="_blank" rel="noreferrer noopener" href="/anxiety">anxiety</a>, <a target="_blank" rel="noreferrer noopener" href="https://www.google.com/search?q=https://karmadocs.com/category/depression/">depression</a>, mood disorders, trauma, and other mental health concerns without the confusion of unverified listings. Both online and in-person consultations are available, making care accessible and flexible.</p>
 
 <h3 class="wp-block-heading">2. Mood Disorder Psychiatry Specialists</h3>
 
@@ -74,7 +74,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">8. Advanced Psychiatry Treatment Specialists</h3>
 
-<p class="wp-block-paragraph">Some patients require advanced care when standard treatments do not work. California has psychiatrists who specialize in alternative and <a target="_blank" rel="noreferrer noopener" href="/tms.php">advanced psychiatric treatment</a> approaches under strict medical supervision.</p>
+<p class="wp-block-paragraph">Some patients require advanced care when standard treatments do not work. California has psychiatrists who specialize in alternative and <a target="_blank" rel="noreferrer noopener" href="/tms">advanced psychiatric treatment</a> approaches under strict medical supervision.</p>
 
 <h3 class="wp-block-heading">9. Telepsychiatry Specialists in California</h3>
 
@@ -94,7 +94,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Looking for a Trusted Psychiatrist in California?</h3>
   <p>Finding the right psychiatrist is a crucial step toward better mental health. Whether you’re seeking help for anxiety, depression, bipolar disorder, ADHD, or other conditions, experienced and board-certified psychiatrists across California offer personalized, evidence-based care.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Connect With a Top Psychiatrist in California</a>  
+  <a href="/contact" class="cta-btn-9482x">Connect With a Top Psychiatrist in California</a>  
 </div>
 
 <style>

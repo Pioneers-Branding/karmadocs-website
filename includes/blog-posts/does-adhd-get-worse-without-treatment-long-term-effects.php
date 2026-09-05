@@ -5,7 +5,7 @@
  */
 return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is one of the most important questions asked by individuals, parents, and adults who suspect they may be living with attention deficit hyperactivity disorder. ADHD is not simply a phase or a lack of discipline. It is a lifelong neurodevelopmental condition that affects how the brain manages attention, impulse control, motivation, and emotional regulation. </p>
 
-<p class="wp-block-paragraph">When left unaddressed, the effects of untreated ADHD can quietly intensify over time, creating deeper challenges in education, work, relationships, and mental health. For individuals exploring <strong><a title="" href="/adhd.php">ADHD treatment in Palm Springs</a>, Karma Doctors &amp; Associates</strong>, understanding what happens when ADHD goes untreated is a crucial first step toward long term stability and growth.</p>
+<p class="wp-block-paragraph">When left unaddressed, the effects of untreated ADHD can quietly intensify over time, creating deeper challenges in education, work, relationships, and mental health. For individuals exploring <strong><a title="" href="/adhd">ADHD treatment in Palm Springs</a>, Karma Doctors &amp; Associates</strong>, understanding what happens when ADHD goes untreated is a crucial first step toward long term stability and growth.</p>
 
 <p class="wp-block-paragraph">Untreated ADHD can have serious long-term consequences. Learn more about <a href="/how-do-psychiatrists-diagnose-adhd-in-adults">how ADHD is diagnosed in adults</a> and explore <a href="/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
 
@@ -19,7 +19,7 @@ return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is o
 
 <p class="wp-block-paragraph">From a medical standpoint, ADHD does not progressively damage the brain. However, the real world impact of ADHD almost always increases when it is left untreated. This is why many people feel that ADHD worsens with age. Responsibilities expand, expectations rise, and coping strategies that once worked begin to fail.</p>
 
-<p class="wp-block-paragraph">The question of can <a href="/adhd.php">ADHD</a> worsen over time is best answered by looking at life outcomes rather than symptom severity alone. Without treatment, ADHD often leads to compounding difficulties. Missed deadlines become chronic underperformance. Occasional forgetfulness turns into ongoing relationship tension. Emotional frustration builds year after year, leading to burnout and self doubt.</p>
+<p class="wp-block-paragraph">The question of can <a href="/adhd">ADHD</a> worsen over time is best answered by looking at life outcomes rather than symptom severity alone. Without treatment, ADHD often leads to compounding difficulties. Missed deadlines become chronic underperformance. Occasional forgetfulness turns into ongoing relationship tension. Emotional frustration builds year after year, leading to burnout and self doubt.</p>
 
 <h2 class="wp-block-heading" id="effects-of-untreated-adhd-in-childhood">Does ADHD Actually Get Worse With Age?</h2>
 
@@ -75,7 +75,7 @@ return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is o
 <li>Emotional dysregulation</li>
 </ul>
 
-<p class="wp-block-paragraph">These challenges often increase the risk of <a href="/anxiety.php">anxiety</a> and <a href="/depression.php">depression</a> when unmanaged.</p>
+<p class="wp-block-paragraph">These challenges often increase the risk of <a href="/anxiety">anxiety</a> and <a href="/depression">depression</a> when unmanaged.</p>
 
 <h3 class="wp-block-heading">3. Relationship Difficulties</h3>
 
@@ -259,7 +259,7 @@ return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is o
 <div class="cta-box-9482x">
   <h3>Concerned About Untreated ADHD Getting Worse Over Time?</h3>
   <p>Difficulty focusing, impulsive behavior, emotional regulation issues, academic or work struggles, and relationship problems can worsen when ADHD goes untreated. Early diagnosis and proper treatment can significantly reduce long-term effects and improve daily functioning.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Talk to an ADHD Specialist Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Talk to an ADHD Specialist Today</a>  
 </div>
 
 <style>
@@ -308,7 +308,7 @@ return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is o
 
 <p class="wp-block-paragraph">So, does ADHD get worse without treatment? While ADHD itself does not biologically worsen, the effects of untreated ADHD almost always intensify over time. Accumulating stress, missed opportunities, emotional strain, and functional impairment can make life increasingly difficult. The good news is that ADHD is highly manageable with the right support.</p>
 
-<p class="wp-block-paragraph">If you or a loved one is questioning whether symptoms are escalating, seeking professional evaluation can be life changing. With proper care, individuals with ADHD can thrive rather than struggle. For those considering <a href="/adhd.php">ADHD treatment in Palm Springs</a>, <a title="" href="/">Karma Doctors &amp; Associates</a>, timely intervention can prevent long term complications and open the door to lasting success.</p>
+<p class="wp-block-paragraph">If you or a loved one is questioning whether symptoms are escalating, seeking professional evaluation can be life changing. With proper care, individuals with ADHD can thrive rather than struggle. For those considering <a href="/adhd">ADHD treatment in Palm Springs</a>, <a title="" href="/">Karma Doctors &amp; Associates</a>, timely intervention can prevent long term complications and open the door to lasting success.</p>
 
 <h2 class="wp-block-heading">Frequently Asked Questions (FAQs)</h2>
 

@@ -1,11 +1,11 @@
 <?php
 /**
- * Article body: How Can I Get TMS for OCD in Coachella Valley? A Complete Guide to Treatment Options
+ * Article body: how-can-i-get-tms-for-ocd
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Living with obsessive thoughts and compulsive behaviors can feel emotionally exhausting. For many people with OCD, daily routines become controlled by anxiety, repetitive rituals, and intrusive thoughts that are difficult to stop, even when they know those thoughts do not make sense.</p>
 
-<p class="wp-block-paragraph">The good news is that advanced, FDA-cleared <a href="/ocd.php">TMS therapy for OCD</a> is now available for patients throughout <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, Palm Springs, Rancho Mirage, Palm Desert, 29 Palms, and surrounding communities.</p>
+<p class="wp-block-paragraph">The good news is that advanced, FDA-cleared <a href="/ocd">TMS therapy for OCD</a> is now available for patients throughout <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, Palm Springs, Rancho Mirage, Palm Desert, 29 Palms, and surrounding communities.</p>
 
 <p class="wp-block-paragraph">At <a target="_blank" rel="noreferrer noopener" href="/?utm_source=chatgpt.com">Karma Doctors &amp; Associates</a>, patients struggling with treatment-resistant OCD can explore personalized, non-invasive mental health treatment options designed to help reduce intrusive thoughts and compulsive behaviors.</p>
 
@@ -85,7 +85,7 @@ return '<p class="wp-block-paragraph">Living with obsessive thoughts and compuls
 
 <p class="wp-block-paragraph">Deep TMS for OCD received FDA clearance after research demonstrated significant symptom improvement for many patients.</p>
 
-<p class="wp-block-paragraph">For individuals seeking non-medication <a href="/ocd.php">OCD treatment in Coachella Valley</a>, TMS has become an increasingly popular option.</p>
+<p class="wp-block-paragraph">For individuals seeking non-medication <a href="/ocd">OCD treatment in Coachella Valley</a>, TMS has become an increasingly popular option.</p>
 
 <h2 class="wp-block-heading">How Can I Get TMS for OCD in Coachella Valley?</h2>
 

@@ -21,7 +21,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">The answer is yes, depression can come back even after successful treatment. But the good news is that with ongoing support, self-care, and early intervention, it is possible to manage and prevent future episodes.</p>
 
-<p class="wp-block-paragraph">At <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong>, a trusted center for <strong><a href="/depression.php" title="">Depression Treatment in Palm Springs</a></strong>, specialists help patients not only recover from depression but also build resilience to reduce the risk of recurrence.</p>
+<p class="wp-block-paragraph">At <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong>, a trusted center for <strong><a href="/depression" title="">Depression Treatment in Palm Springs</a></strong>, specialists help patients not only recover from depression but also build resilience to reduce the risk of recurrence.</p>
 
 <h3 class="wp-block-heading"><strong>Understanding Depression</strong></h3>
 
@@ -57,7 +57,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h4 class="wp-block-heading">2. Incomplete Treatment</h4>
 
-<p class="wp-block-paragraph">One of the most common reasons depression returns is stopping treatment too early. When individuals discontinue therapy or <strong><a href="/medication-management.php" title="">medication</a></strong> as soon as they feel better, unresolved emotional issues and negative thought patterns may remain, leading to a recurrence. Long-term follow-up and consistent therapy are crucial to sustaining recovery.</p>
+<p class="wp-block-paragraph">One of the most common reasons depression returns is stopping treatment too early. When individuals discontinue therapy or <strong><a href="/medication-management" title="">medication</a></strong> as soon as they feel better, unresolved emotional issues and negative thought patterns may remain, leading to a recurrence. Long-term follow-up and consistent therapy are crucial to sustaining recovery.</p>
 
 <h4 class="wp-block-heading">3. Stress and Life Changes</h4>
 
@@ -80,7 +80,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <li>Early age of onset<br></li>
 
-<li>Ongoing <strong><a href="/anxiety.php" title="">anxiety</a></strong> or other mental health issues<br></li>
+<li>Ongoing <strong><a href="/anxiety" title="">anxiety</a></strong> or other mental health issues<br></li>
 
 <li>Family history of depression<br></li>
 
@@ -137,6 +137,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>Conclusion</strong></h3>
 
-<p class="wp-block-paragraph">Depression can indeed come back after treatment — but it doesn’t have to control your life. Understanding the causes, recognizing early signs, and staying committed to long-term care make a huge difference. Recovery from depression is not a one-time event but an ongoing journey of self-awareness and resilience.<br><br>If you or a loved one is struggling with recurrent depression, remember that help is available. <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong> offers compassionate, personalized <strong><a href="/depression.php" title="">Depression Treatment in Palm Springs</a></strong> to help you regain control and live a fulfilling life — free from the shadow of depression.</p>
+<p class="wp-block-paragraph">Depression can indeed come back after treatment — but it doesn’t have to control your life. Understanding the causes, recognizing early signs, and staying committed to long-term care make a huge difference. Recovery from depression is not a one-time event but an ongoing journey of self-awareness and resilience.<br><br>If you or a loved one is struggling with recurrent depression, remember that help is available. <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong> offers compassionate, personalized <strong><a href="/depression" title="">Depression Treatment in Palm Springs</a></strong> to help you regain control and live a fulfilling life — free from the shadow of depression.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>';

@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Does Tricare Cover TMS Therapy? Everything You Need to Know
+ * Article body: does-tricare-cover-tms-therapy-everything-you-need-to-know
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">If you are a military member, veteran, or dependent and have been wondering <strong>does Tricare cover TMS therapy</strong>, you are asking exactly the right question. Transcranial Magnetic Stimulation (TMS) is an FDA-approved, non-invasive treatment that has helped thousands of people with treatment-resistant depression — and understanding your <strong>Tricare mental health coverage</strong> could open the door to this life-changing therapy. In this guide, we&#8217;ll explain what TMS is, how it works, and how to find out if you qualify for coverage.</p>
@@ -63,13 +63,13 @@ return '<p class="wp-block-paragraph">If you are a military member, veteran, or 
 <li><strong>Tricare Reserve Select:</strong> Check eligibility and prior authorization requirements</li>
 </ul>
 
-<p class="wp-block-paragraph">Coverage rules can change, so always verify your current benefits with a Tricare representative or your treatment provider before starting TMS. Our team at Karma Docs works directly with insurance providers to help navigate the authorization process. <a href="/contact.php">Contact us today</a> for personalized guidance.</p>
+<p class="wp-block-paragraph">Coverage rules can change, so always verify your current benefits with a Tricare representative or your treatment provider before starting TMS. Our team at Karma Docs works directly with insurance providers to help navigate the authorization process. <a href="/contact">Contact us today</a> for personalized guidance.</p>
 
 <h2 class="wp-block-heading">How Much Does TMS Cost Without Insurance?</h2>
 
 <p class="wp-block-paragraph">Understanding <strong>TMS cost</strong> is important if you are concerned about out-of-pocket expenses. Without insurance, a full course of TMS treatment typically includes 20–36 sessions over 4–6 weeks. Costs vary by location and provider but generally range from $6,000 to $12,000 for a complete course.</p>
 
-<p class="wp-block-paragraph">With Tricare coverage, your out-of-pocket costs can be significantly reduced to copays and cost-sharing amounts — making TMS far more accessible for military families. Our <a href="/insurance-rates.php">insurance and rates page</a> provides more details about what to expect.</p>
+<p class="wp-block-paragraph">With Tricare coverage, your out-of-pocket costs can be significantly reduced to copays and cost-sharing amounts — making TMS far more accessible for military families. Our <a href="/insurance-rates">insurance and rates page</a> provides more details about what to expect.</p>
 
 <h2 class="wp-block-heading">TMS Eligibility: Who Is a Good Candidate?</h2>
 
@@ -105,7 +105,7 @@ return '<p class="wp-block-paragraph">If you are a military member, veteran, or 
 <li><strong>Begin TMS sessions</strong> — Once approved, you can start your treatment course with minimal out-of-pocket cost</li>
 </ol>
 
-<p class="wp-block-paragraph">Our experienced team at Karma Docs has helped many Tricare beneficiaries get TMS approved and has streamlined this process to be as smooth as possible for you. We also offer support for patients with <a href="/depression.php">depression</a> and <a href="/ocd.php">OCD</a>, both of which may benefit from TMS. <strong>Ready to take the next step?</strong> <a href="/contact.php">Schedule a TMS consultation</a> with our team today.</p>
+<p class="wp-block-paragraph">Our experienced team at Karma Docs has helped many Tricare beneficiaries get TMS approved and has streamlined this process to be as smooth as possible for you. We also offer support for patients with <a href="/depression">depression</a> and <a href="/ocd">OCD</a>, both of which may benefit from TMS. <strong>Ready to take the next step?</strong> <a href="/contact">Schedule a TMS consultation</a> with our team today.</p>
 
 <h2 class="wp-block-heading">What to Expect During TMS Treatment</h2>
 
@@ -139,7 +139,7 @@ return '<p class="wp-block-paragraph">If you are a military member, veteran, or 
 <li>Want to explore non-drug options for depression treatment</li>
 </ul>
 
-<p class="wp-block-paragraph">You deserve effective, compassionate care — and TMS may be the breakthrough you have been waiting for. Our board-certified psychiatrists at Karma Docs in Palm Springs specialize in advanced depression treatments including TMS. <a href="/contact.php">Book your consultation today</a> and let us help you find the path forward.</p>
+<p class="wp-block-paragraph">You deserve effective, compassionate care — and TMS may be the breakthrough you have been waiting for. Our board-certified psychiatrists at Karma Docs in Palm Springs specialize in advanced depression treatments including TMS. <a href="/contact">Book your consultation today</a> and let us help you find the path forward.</p>
 
 <h2 class="wp-block-heading">Frequently Asked Questions About Tricare and TMS Therapy</h2>
 

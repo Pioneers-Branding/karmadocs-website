@@ -9,13 +9,13 @@ return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) th
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, MDD is a mood disorder that causes persistent feelings of sadness and loss of interest — and is one of the most studied and treatable mental health conditions in the world.</p>
 
-<p class="wp-block-paragraph">For individuals undergoing <strong><a href="/tms.php" title="">TMS Therapy in Palm Springs</a></strong>, understanding this phase is especially important so they do not feel discouraged or alarmed. A TMS dip can be unsettling, but in most cases, it is a short-term response as the brain adjusts to stimulation.</p>
+<p class="wp-block-paragraph">For individuals undergoing <strong><a href="/tms" title="">TMS Therapy in Palm Springs</a></strong>, understanding this phase is especially important so they do not feel discouraged or alarmed. A TMS dip can be unsettling, but in most cases, it is a short-term response as the brain adjusts to stimulation.</p>
 
 <p class="wp-block-paragraph">This guide explains what a TMS dip is, why it happens, how long it lasts, and how to cope with it—using clear and simple language.</p>
 
 <h3 class="wp-block-heading"><strong>Understanding TMS Dip</strong></h3>
 
-<p class="wp-block-paragraph">A TMS dip refers to a temporary increase in depressive or emotional symptoms that some patients experience during the course of TMS treatment. Instead of feeling steady improvement, individuals may notice a drop in mood, increased <strong><a href="/anxiety.php" title="">anxiety</a></strong>, or emotional heaviness for a short period.</p>
+<p class="wp-block-paragraph">A TMS dip refers to a temporary increase in depressive or emotional symptoms that some patients experience during the course of TMS treatment. Instead of feeling steady improvement, individuals may notice a drop in mood, increased <strong><a href="/anxiety" title="">anxiety</a></strong>, or emotional heaviness for a short period.</p>
 
 <p class="wp-block-paragraph">This dip does not mean the therapy has stopped working. Rather, it often occurs when the brain begins making bigger neurological changes. During this time, emotional regulation systems are being stimulated and reorganized, which can temporarily intensify feelings before stabilization occurs.</p>
 
@@ -43,7 +43,7 @@ return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) th
 
 <h3 class="wp-block-heading"><strong>Why Does a TMS Dip Occur?</strong></h3>
 
-<p class="wp-block-paragraph">TMS works by stimulating areas of the brain involved in mood, motivation, and emotional control—regions that may have been underactive for years due to <strong><a href="/depression.php" title="">depression</a></strong>.</p>
+<p class="wp-block-paragraph">TMS works by stimulating areas of the brain involved in mood, motivation, and emotional control—regions that may have been underactive for years due to <strong><a href="/depression" title="">depression</a></strong>.</p>
 
 <p class="wp-block-paragraph">As these areas become active:</p>
 
@@ -108,7 +108,7 @@ return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) th
 
 <li>Co-existing anxiety conditions</li>
 
-<li><strong><a href="/medication-management.php" title="">Medication</a></strong> use</li>
+<li><strong><a href="/medication-management" title="">Medication</a></strong> use</li>
 
 <li>Sleep quality</li>
 
@@ -151,7 +151,7 @@ return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) th
 
 <h3 class="wp-block-heading"><strong>Is TMS Dip Dangerous?</strong></h3>
 
-<p class="wp-block-paragraph">For most people, a <strong><a href="/tms.php" title="">TMS</a></strong> dip is not dangerous and does not cause lasting harm.</p>
+<p class="wp-block-paragraph">For most people, a <strong><a href="/tms" title="">TMS</a></strong> dip is not dangerous and does not cause lasting harm.</p>
 
 <p class="wp-block-paragraph">However, if symptoms include:</p>
 

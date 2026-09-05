@@ -165,4 +165,4 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">If you or a loved one is experiencing symptoms that raise concerns about schizophrenia,  early professional support can make a meaningful difference. With <a href="/" title="">Karma Doctors &amp; Associates</a>, you can access confidential, expert mental health care through secure telehealth services.</p>
 
-<p class="wp-block-paragraph"><a href="/contact.php" title="">Schedule an online consultation today</a> and take the first step toward clarity, support, and personalized care from the comfort of your home.</p>';
+<p class="wp-block-paragraph"><a href="/contact" title="">Schedule an online consultation today</a> and take the first step toward clarity, support, and personalized care from the comfort of your home.</p>';

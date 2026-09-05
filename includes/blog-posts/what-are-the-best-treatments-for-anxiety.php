@@ -66,9 +66,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
   </style></p>
 <h1>What are the Best Treatments for Anxiety?</h1>
 <p>So, what are the best treatments for anxiety? The best treatments for anxiety depend on the severity of symptoms, your medical history &amp; personal preferences.</p>
-<a href="/contact.php" target="_blank" rel="noopener"> Book Your Appointment Today </a>
+<a href="/contact" target="_blank" rel="noopener"> Book Your Appointment Today </a>
 
-<p class="wp-block-paragraph">If you’ve been asking yourself what are the best treatments for anxiety, this guide will help you understand all the available options — from therapy and lifestyle changes to medications and advanced treatments. Clinics like <strong><a title="" href="/">Karma Doctors &amp; Associates</a></strong>, known for effective <strong><a title="" href="/anxiety.php">Anxiety Treatment in Palm Springs</a></strong>, combine these methods to help people feel calm, confident, and in control again.</p>
+<p class="wp-block-paragraph">If you’ve been asking yourself what are the best treatments for anxiety, this guide will help you understand all the available options — from therapy and lifestyle changes to medications and advanced treatments. Clinics like <strong><a title="" href="/">Karma Doctors &amp; Associates</a></strong>, known for effective <strong><a title="" href="/anxiety">Anxiety Treatment in Palm Springs</a></strong>, combine these methods to help people feel calm, confident, and in control again.</p>
 
 <h2 class="wp-block-heading" id="understanding-anxiety"><strong>Understanding Anxiety</strong></h2>
 
@@ -85,7 +85,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <li><strong>Phobias:</strong> Strong fears of specific things, like heights or flying.</li>
 
-<li><strong><a title="" href="/ocd.php">OCD </a>and <a title="" href="/ptsd.php">PTSD</a>:</strong> Anxiety connected to obsessive thoughts or past trauma.</li>
+<li><strong><a title="" href="/ocd">OCD </a>and <a title="" href="/ptsd">PTSD</a>:</strong> Anxiety connected to obsessive thoughts or past trauma.</li>
 </ul>
 
 <h2 class="wp-block-heading" id="the-best-treatments-for-anxiety"><strong>The Best Treatments for Anxiety</strong></h2>
@@ -98,7 +98,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>2. Medication</strong></h3>
 
-<p class="wp-block-paragraph"><strong><a title="" href="/medication-management.php">Medication</a></strong> can play a key role in managing moderate to severe anxiety. Doctors may prescribe antidepressants like SSRIs or SNRIs to help balance brain chemicals responsible for mood regulation. In some cases, short-term medications like benzodiazepines are used to control sudden panic attacks. Beta-blockers may also be prescribed to manage physical symptoms such as rapid heartbeat or trembling. Medication alone may not cure anxiety but works best when combined with therapy and lifestyle changes.</p>
+<p class="wp-block-paragraph"><strong><a title="" href="/medication-management">Medication</a></strong> can play a key role in managing moderate to severe anxiety. Doctors may prescribe antidepressants like SSRIs or SNRIs to help balance brain chemicals responsible for mood regulation. In some cases, short-term medications like benzodiazepines are used to control sudden panic attacks. Beta-blockers may also be prescribed to manage physical symptoms such as rapid heartbeat or trembling. Medication alone may not cure anxiety but works best when combined with therapy and lifestyle changes.</p>
 
 <h3 class="wp-block-heading"><strong>3. Lifestyle Changes</strong></h3>
 
@@ -110,7 +110,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>5. TMS Therapy (Transcranial Magnetic Stimulation)</strong></h3>
 
-<p class="wp-block-paragraph">Transcranial Magnetic Stimulation, or <strong><a title="" href="/tms.php">TMS therapy</a></strong>, is a modern, non-invasive treatment for anxiety that uses gentle magnetic pulses to stimulate specific areas of the brain responsible for mood and emotion regulation. It’s especially effective for individuals who haven’t responded well to medication or talk therapy. Sessions are short, painless, and require no downtime, making it an appealing option for busy individuals. TMS has been recognized as one of the best treatment for severe anxiety, offering long-lasting relief without major side effects. </p>
+<p class="wp-block-paragraph">Transcranial Magnetic Stimulation, or <strong><a title="" href="/tms">TMS therapy</a></strong>, is a modern, non-invasive treatment for anxiety that uses gentle magnetic pulses to stimulate specific areas of the brain responsible for mood and emotion regulation. It’s especially effective for individuals who haven’t responded well to medication or talk therapy. Sessions are short, painless, and require no downtime, making it an appealing option for busy individuals. TMS has been recognized as one of the best treatment for severe anxiety, offering long-lasting relief without major side effects. </p>
 
 <h3 class="wp-block-heading"><strong>6. Holistic and Natural Treatments</strong></h3>
 
@@ -156,7 +156,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="why-choose-karma-doctors-amp-associates"><strong>Why Choose Karma Doctors &amp; Associates</strong></h2>
 
-<p class="wp-block-paragraph">When looking for effective <a title="" href="/anxiety.php"><strong>Anxiety Treatment in Palm Springs</strong>,</a> Karma Doctors &amp; Associates stands out for its compassionate and comprehensive care. Their team of mental health experts offers therapy, medication management, and advanced options like TMS therapy — all under one roof.</p>
+<p class="wp-block-paragraph">When looking for effective <a title="" href="/anxiety"><strong>Anxiety Treatment in Palm Springs</strong>,</a> Karma Doctors &amp; Associates stands out for its compassionate and comprehensive care. Their team of mental health experts offers therapy, medication management, and advanced options like TMS therapy — all under one roof.</p>
 
 <p class="wp-block-paragraph">They take time to understand each patient’s lifestyle, triggers, and symptoms to create personalized treatment plans that lead to real, lasting recovery.</p>
 
@@ -203,7 +203,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
   </style></p>
 <h2 id="what-are-the-best-treatments-for-anxiety">What are the Best Treatments for Anxiety?</h2>
 <p>So, what are the best treatments for anxiety? The best treatments for anxiety depend on the severity of symptoms, your medical history &amp; personal preferences.</p>
-<a href="/contact.php" target="_blank" rel="noopener"> Book Your Appointment Today </a>
+<a href="/contact" target="_blank" rel="noopener"> Book Your Appointment Today </a>
 
 <h2 class="wp-block-heading" id="conclusion"><strong>Conclusion</strong></h2>
 

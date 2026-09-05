@@ -55,7 +55,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Before discussing costs, it’s important to understand what psychiatrists do and why their services differ from other mental health professionals.</p>
 
-<p class="wp-block-paragraph">A <strong>psychiatrist</strong> is a <strong>medical doctor (MD or DO)</strong> who specializes in diagnosing and treating mental health conditions such as <a href="/depression.php">depression</a>, <a href="/anxiety.php">anxiety</a>, <a href="/bipolar.php">bipolar disorder</a>, <a href="/adhd.php">ADHD</a>, <a href="/ptsd.php">PTSD</a>, and addiction. <a href="/">Psychiatrist in Palm Springs</a> provides personalized mental health care for individuals seeking expert diagnosis and treatment.</p>
+<p class="wp-block-paragraph">A <strong>psychiatrist</strong> is a <strong>medical doctor (MD or DO)</strong> who specializes in diagnosing and treating mental health conditions such as <a href="/depression">depression</a>, <a href="/anxiety">anxiety</a>, <a href="/bipolar">bipolar disorder</a>, <a href="/adhd">ADHD</a>, <a href="/ptsd">PTSD</a>, and addiction. <a href="/">Psychiatrist in Palm Springs</a> provides personalized mental health care for individuals seeking expert diagnosis and treatment.</p>
 
 <p class="wp-block-paragraph">Unlike therapists or counselors, psychiatrists can:</p>
 
@@ -117,7 +117,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>4. Treatment Type</strong></h3>
 
-<p class="wp-block-paragraph">Advanced treatments like <strong>TMS therapy</strong> or <strong>neurofeedback</strong> involve specialized equipment and medical oversight, which can increase cost — though these are often covered by insurance.&nbsp; Many patients choose <a href="/tms.php">tms therapy in palm springs</a> to access advanced care with experienced providers.</p>
+<p class="wp-block-paragraph">Advanced treatments like <strong>TMS therapy</strong> or <strong>neurofeedback</strong> involve specialized equipment and medical oversight, which can increase cost — though these are often covered by insurance.&nbsp; Many patients choose <a href="/tms">tms therapy in palm springs</a> to access advanced care with experienced providers.</p>
 
 <h3 class="wp-block-heading"><strong>5. Session Length and Frequency</strong></h3>
 

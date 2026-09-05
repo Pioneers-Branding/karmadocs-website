@@ -225,7 +225,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="considering-tms-therapy-how-karmadocs-can-help"><strong>Considering TMS Therapy? How KarmaDocs Can Help</strong></h2>
 
-<p class="wp-block-paragraph">Choosing <a href="/tms.php" title="">TMS therapy in Palm Springs</a> is a significant decision, and it should never be made without expert guidance and honest discussion.</p>
+<p class="wp-block-paragraph">Choosing <a href="/tms" title="">TMS therapy in Palm Springs</a> is a significant decision, and it should never be made without expert guidance and honest discussion.</p>
 
 <p class="wp-block-paragraph">At <a href="/" title="">KarmaDocs</a>, our psychiatric providers prioritize:</p>
 

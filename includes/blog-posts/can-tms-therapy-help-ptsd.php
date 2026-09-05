@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Can TMS Therapy Help PTSD? What Trauma Survivors Need to Know
+ * Article body: can-tms-therapy-help-ptsd
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Trauma can leave lasting emotional wounds that affect every part of life, relationships, sleep, work performance, mood, and even physical health. For many people living with post-traumatic stress disorder (PTSD), symptoms don’t simply “go away with time.” Even with therapy or medication, some individuals continue to struggle with flashbacks, anxiety, emotional numbness, panic, or hypervigilance for years.</p>
@@ -11,7 +11,7 @@ return '<p class="wp-block-paragraph">Trauma can leave lasting emotional wounds 
 
 <p class="wp-block-paragraph">At <a href="https://karmadocs.com?utm_source=chatgpt.com">Karma Doctors &amp; Associates</a>, patients across Palm Springs, Rancho Mirage, 29 Palms, and surrounding communities are exploring advanced mental health treatments that go beyond traditional medication approaches. One of the most promising options is Transcranial Magnetic Stimulation (TMS) therapy, a non-invasive treatment designed to target areas of the brain linked to mood regulation, emotional processing, and trauma-related symptoms.</p>
 
-<p class="wp-block-paragraph">In this guide, we’ll explore <a href="/ptsd.php">how TMS for PTSD works</a>, who may benefit from it, and why many patients are turning to this innovative approach as part of their trauma recovery journey.</p>
+<p class="wp-block-paragraph">In this guide, we’ll explore <a href="/ptsd">how TMS for PTSD works</a>, who may benefit from it, and why many patients are turning to this innovative approach as part of their trauma recovery journey.</p>
 
 <h2 class="wp-block-heading">What Is PTSD?</h2>
 
@@ -113,7 +113,7 @@ return '<p class="wp-block-paragraph">Trauma can leave lasting emotional wounds 
 
 <h2 class="wp-block-heading">What Is TMS Therapy?</h2>
 
-<p class="wp-block-paragraph"><a href="/tms.php">TMS therapy</a>, also known as Transcranial Magnetic Stimulation, is a non-invasive FDA-cleared treatment that uses magnetic pulses to stimulate targeted areas of the brain.</p>
+<p class="wp-block-paragraph"><a href="/tms">TMS therapy</a>, also known as Transcranial Magnetic Stimulation, is a non-invasive FDA-cleared treatment that uses magnetic pulses to stimulate targeted areas of the brain.</p>
 
 <p class="wp-block-paragraph">TMS does not involve:</p>
 
@@ -375,7 +375,7 @@ return '<p class="wp-block-paragraph">Trauma can leave lasting emotional wounds 
 <li><a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Nearby Coachella Valley communities</a></li>
 </ul>
 
-<p class="wp-block-paragraph">Whether you are exploring <a href="/ptsd.php">TMS therapy for PTSD</a>, <a href="/anxiety.php">anxiety treatment</a>, or <a href="/depression.php">depression support</a>, individualized care is available to help guide your recovery journey.</p>
+<p class="wp-block-paragraph">Whether you are exploring <a href="/ptsd">TMS therapy for PTSD</a>, <a href="/anxiety">anxiety treatment</a>, or <a href="/depression">depression support</a>, individualized care is available to help guide your recovery journey.</p>
 
 <h2 class="wp-block-heading">Frequently Asked Questions About TMS for PTSD</h2>
 

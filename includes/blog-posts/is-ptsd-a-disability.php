@@ -56,7 +56,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="is-ptsd-medically-recognized-as-a-disability"><strong>Is PTSD Medically Recognized as a Disability?</strong></h2>
 
-<p class="wp-block-paragraph"><a href="/ptsd.php" title="">PTSD is a clinically recognized mental health condition</a>. Whether it qualifies as a disability depends on how significantly it limits a person’s ability to function in everyday life.</p>
+<p class="wp-block-paragraph"><a href="/ptsd" title="">PTSD is a clinically recognized mental health condition</a>. Whether it qualifies as a disability depends on how significantly it limits a person’s ability to function in everyday life.</p>
 
 <p class="wp-block-paragraph">PTSD may be considered disabling when symptoms:</p>
 
@@ -95,7 +95,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <h3 class="wp-block-heading"><strong>Emotional and Physical Health</strong></h3>
 
 <ul class="wp-block-list">
-<li><a href="/anxiety.php" title="">Anxiety </a>and <a href="/depression.php" title="">depression</a></li>
+<li><a href="/anxiety" title="">Anxiety </a>and <a href="/depression" title="">depression</a></li>
 
 <li>Sleep disturbances</li>
 

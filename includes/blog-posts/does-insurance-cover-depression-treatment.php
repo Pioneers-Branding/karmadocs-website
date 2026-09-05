@@ -91,7 +91,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Affordable Care:</strong> We work with your insurance and budget.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;"><strong>Easy Appointments:</strong> Online or in-person—whatever works for you.</span></li>
 </ul>
-<span style="font-weight: 400;"><a href="/depression.php"><strong>Depression treatment in Palm Springs</strong></a> doesn’t have to be complicated. With KarmaDocs, it’s personalized, professional, and approachable.</span>
+<span style="font-weight: 400;"><a href="/depression"><strong>Depression treatment in Palm Springs</strong></a> doesn’t have to be complicated. With KarmaDocs, it’s personalized, professional, and approachable.</span>
 <h3><b>Take the First Step</b></h3>
 <span style="font-weight: 400;">Still wondering, “Does insurance cover depression treatment?” Let us help you find out. </span><span style="font-weight: 400;">Your mental health matters. You deserve answers, support, and a plan that works. Whether you have insurance or not, depression treatment in Palm Springs is within reach.</span>
 

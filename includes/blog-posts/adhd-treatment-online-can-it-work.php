@@ -40,7 +40,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<span style="font-weight: 400;">If you’re not sure you have </span><a href="/adhd.php"><span style="font-weight: 400;">ADHD</span></a><span style="font-weight: 400;"> yet, </span><strong>Let’s get clear on the symptoms we look for when patients come to us for an evaluation. </strong>
+<span style="font-weight: 400;">If you’re not sure you have </span><a href="/adhd"><span style="font-weight: 400;">ADHD</span></a><span style="font-weight: 400;"> yet, </span><strong>Let’s get clear on the symptoms we look for when patients come to us for an evaluation. </strong>
 <h2 id="symptoms-of-adhd"><span style="font-weight: 400;">Symptoms of ADHD</span></h2>
 <span style="font-weight: 400;">Everyone experiences ADHD differently. But here are the common symptoms we look for: </span>
 
@@ -145,7 +145,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 </ul>
 &nbsp;
 <ul>
- 	<li style="font-weight: 400;" aria-level="1"><strong>Online ADHD treatment is effective, but be wary of the information you read on the internet.</strong><span style="font-weight: 400;"> In a large study of educational content about ADHD online, 14-54% of the information was inaccurate.</span><span style="font-weight: 400;"> If you want to read about mental health you can always turn to our </span><a href="/blog.php"><span style="font-weight: 400;">blog</span></a><span style="font-weight: 400;">, but </span><strong>a medical provider should be your next resource. </strong></li>
+ 	<li style="font-weight: 400;" aria-level="1"><strong>Online ADHD treatment is effective, but be wary of the information you read on the internet.</strong><span style="font-weight: 400;"> In a large study of educational content about ADHD online, 14-54% of the information was inaccurate.</span><span style="font-weight: 400;"> If you want to read about mental health you can always turn to our </span><a href="/blog"><span style="font-weight: 400;">blog</span></a><span style="font-weight: 400;">, but </span><strong>a medical provider should be your next resource. </strong></li>
 </ul>
 &nbsp;
 

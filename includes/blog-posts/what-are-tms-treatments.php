@@ -126,17 +126,17 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 <ul class="wp-block-list">
 <li>Major Depressive Disorder (MDD)</li>
 
-<li><a href="/ocd.php">Obsessive-Compulsive Disorder (OCD)</a></li>
+<li><a href="/ocd">Obsessive-Compulsive Disorder (OCD)</a></li>
 </ul>
 
 <h3 class="wp-block-heading">Off-Label / Emerging Uses:</h3>
 
 <ul class="wp-block-list">
-<li><a href="/anxiety.php">Anxiety disorders</a></li>
+<li><a href="/anxiety">Anxiety disorders</a></li>
 
-<li><a href="/ptsd.php">PTSD</a></li>
+<li><a href="/ptsd">PTSD</a></li>
 
-<li><a href="/bipolar.php">Bipolar depression</a></li>
+<li><a href="/bipolar">Bipolar depression</a></li>
 
 <li>Chronic pain syndromes</li>
 
@@ -370,6 +370,6 @@ return '<p class="wp-block-paragraph">Mental health treatment has evolved rapidl
 
 <p class="wp-block-paragraph">With strong clinical backing and increasing accessibility, TMS is becoming a <strong>first-choice advanced therapy</strong> for depression and beyond.</p>
 
-<p class="wp-block-paragraph">If you’re struggling with depression, anxiety, or other mental health conditions and haven’t found relief, our <a href="/tms.php">TMS therapy in Palm Springs</a> could be the solution you’ve been searching for.</p>
+<p class="wp-block-paragraph">If you’re struggling with depression, anxiety, or other mental health conditions and haven’t found relief, our <a href="/tms">TMS therapy in Palm Springs</a> could be the solution you’ve been searching for.</p>
 
 <p class="wp-block-paragraph">Contact us to book your consultation with <a href="/">Karma Doctors &amp; Associates</a> and take the first step toward lasting mental wellness.</p>';

@@ -53,7 +53,7 @@ return '<div class="wp-block-group table-of-contents-block has-border-color has-
 <div class="cta-box-9482x">
   <h3>Worried That OCD Symptoms May Not Go Away on Their Own?</h3>
   <p>Obsessive thoughts, compulsive behaviors, anxiety, and daily life disruptions often persist or worsen without proper treatment. Evidence-based OCD therapies can help manage symptoms effectively and improve long-term quality of life when guided by experienced mental health professionals.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
+  <a href="/contact" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
 </div>
 
 <style>
@@ -164,7 +164,7 @@ return '<div class="wp-block-group table-of-contents-block has-border-color has-
 <div class="cta-box-9482x">
   <h3>Worried That OCD Symptoms May Not Go Away on Their Own?</h3>
   <p>Obsessive thoughts, compulsive behaviors, anxiety, and daily life disruptions often persist or worsen without proper treatment. Evidence-based OCD therapies can help manage symptoms effectively and improve long-term quality of life when guided by experienced mental health professionals.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
+  <a href="/contact" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
 </div>
 
 <style>
@@ -247,7 +247,7 @@ return '<div class="wp-block-group table-of-contents-block has-border-color has-
 <div class="cta-box-9482x">
   <h3>Worried That OCD Symptoms May Not Go Away on Their Own?</h3>
   <p>Obsessive thoughts, compulsive behaviors, anxiety, and daily life disruptions often persist or worsen without proper treatment. Evidence-based OCD therapies can help manage symptoms effectively and improve long-term quality of life when guided by experienced mental health professionals.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
+  <a href="/contact" class="cta-btn-9482x">Speak With an OCD Specialist in Palm Springs</a>  
 </div>
 
 <style>

@@ -78,7 +78,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
     <p class="pigmentation-cta-text">
     “Understanding how ADHD treatment works can help individuals and families take the right steps toward better focus, control, and quality of life.&#8221;
     </p>
-    <a class="pigmentation-cta-button" href="/contact.php" target="_blank">
+    <a class="pigmentation-cta-button" href="/contact" target="_blank">
       Book Your Appointment Today
     </a>
   </div>
@@ -86,7 +86,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 </body>
 </html>
 
-<p class="wp-block-paragraph">At <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong>, we provide personalized and evidence-based <strong><a href="/adhd.php" title="">ADHD Treatment in Palm Springs</a></strong> to help individuals gain control over their symptoms and achieve long-term balance in their lives.</p>
+<p class="wp-block-paragraph">At <strong><a href="/" title="">Karma Doctors &amp; Associates</a></strong>, we provide personalized and evidence-based <strong><a href="/adhd" title="">ADHD Treatment in Palm Springs</a></strong> to help individuals gain control over their symptoms and achieve long-term balance in their lives.</p>
 
 <h3 class="wp-block-heading">Understanding ADHD</h3>
 
@@ -96,7 +96,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">How does ADHD Treatment Work?</h3>
 
-<p class="wp-block-paragraph">ADHD treatment aims to reduce symptoms and improve day-to-day functioning. While there is no permanent cure, the right combination of treatments can help individuals manage the condition effectively. Treatment usually includes a mix of <strong><a href="/medication-management.php" title="">medication</a>, </strong>therapy, behavioral changes, and lifestyle support. Each component addresses a different aspect of ADHD — together they create a strong foundation for improvement.</p>
+<p class="wp-block-paragraph">ADHD treatment aims to reduce symptoms and improve day-to-day functioning. While there is no permanent cure, the right combination of treatments can help individuals manage the condition effectively. Treatment usually includes a mix of <strong><a href="/medication-management" title="">medication</a>, </strong>therapy, behavioral changes, and lifestyle support. Each component addresses a different aspect of ADHD — together they create a strong foundation for improvement.</p>
 
 <h4 class="wp-block-heading"><strong>1. Medication</strong></h4>
 
@@ -160,7 +160,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>Benefits of ADHD Treatment</strong></h3>
 
-<p class="wp-block-paragraph">Effective <strong><a href="/adhd.php" title="">ADHD treatment</a></strong> provides a wide range of benefits, including:</p>
+<p class="wp-block-paragraph">Effective <strong><a href="/adhd" title="">ADHD treatment</a></strong> provides a wide range of benefits, including:</p>
 
 <ul class="wp-block-list">
 <li>Improved concentration and task completion<br></li>
@@ -233,7 +233,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
     <p class="pigmentation-cta-text">
     “Understanding how ADHD treatment works can help individuals and families take the right steps toward better focus, control, and quality of life.&#8221;
     </p>
-    <a class="pigmentation-cta-button" href="/contact.php" target="_blank">
+    <a class="pigmentation-cta-button" href="/contact" target="_blank">
       Book Your Appointment Today
     </a>
   </div>
@@ -245,6 +245,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">In summary, <strong><a href="/how-does-adhd-treatment-work" title="">ADHD treatment works</a></strong> by targeting the brain’s chemical imbalances, improving behavior, and strengthening emotional well-being. It combines medication, therapy, and lifestyle changes to help individuals lead balanced and productive lives. The success of treatment depends on consistency, follow-up care, and ongoing support from professionals and family.</p>
 
-<p class="wp-block-paragraph">If you or your loved one is struggling with ADHD, seeking help early can make a life-changing difference. At Karma Doctors &amp; Associates, we provide comprehensive and compassionate <strong><a href="/adhd.php" title="">ADHD Treatment in Palm Springs</a></strong>, using evidence-based strategies that deliver long-term results and empower individuals to thrive.</p>
+<p class="wp-block-paragraph">If you or your loved one is struggling with ADHD, seeking help early can make a life-changing difference. At Karma Doctors &amp; Associates, we provide comprehensive and compassionate <strong><a href="/adhd" title="">ADHD Treatment in Palm Springs</a></strong>, using evidence-based strategies that deliver long-term results and empower individuals to thrive.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions"><strong>Frequently Asked Questions</strong></h2>';

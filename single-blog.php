@@ -1,7 +1,11 @@
 <?php
 require_once __DIR__ . '/includes/blog-data.php';
 
-$slug = isset($_GET['slug']) ? trim($_GET['slug']) : '';
+// $slug may already be set by a root-level article stub (e.g. /does-tms-therapy-hurt.php).
+// Fall back to the query string so /single-blog.php?slug=... keeps working.
+if (!isset($slug) || $slug === '') {
+    $slug = isset($_GET['slug']) ? trim($_GET['slug']) : '';
+}
 $post = get_blog_post_by_slug($slug);
 
 // Unknown or missing slug: send a real 404 rather than silently showing another article.

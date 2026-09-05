@@ -54,7 +54,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Wondering If Psychiatric Treatment Really Works?</h3>
   <p>Conditions such as depression, anxiety, bipolar disorder, PTSD, and ADHD are highly treatable with the right psychiatric care. Evidence-based therapies, medication management, and personalized treatment plans have helped millions achieve meaningful, long-term improvement.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
 </div>
 
 <style>
@@ -141,7 +141,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Wondering If Psychiatric Treatment Really Works?</h3>
   <p>Conditions such as depression, anxiety, bipolar disorder, PTSD, and ADHD are highly treatable with the right psychiatric care. Evidence-based therapies, medication management, and personalized treatment plans have helped millions achieve meaningful, long-term improvement.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
 </div>
 
 <style>
@@ -222,7 +222,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Wondering If Psychiatric Treatment Really Works?</h3>
   <p>Conditions such as depression, anxiety, bipolar disorder, PTSD, and ADHD are highly treatable with the right psychiatric care. Evidence-based therapies, medication management, and personalized treatment plans have helped millions achieve meaningful, long-term improvement.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Schedule a Psychiatric Consultation Today</a>  
 </div>
 
 <style>

@@ -23,17 +23,17 @@ Despite being a critical component of total well-being, mental health is frequen
 
 <strong>In this blog,</strong> we will explore the function and significance of psychiatrist therapists in the field of mental health, highlighting the vital contributions they provide to people&#8217;s personal and societal well-being.
 <h2 id="the-role-of-a-psychiatrist">The Role of a Psychiatrist</h2>
-Psychiatry is a branch of medicine that focuses on the causes, identification, treatment, and management of mental illnesses as well as emotional and behavioral issues. Medical professionals with a focus on mental health and a deep understanding of the workings of the human mind are known as <strong><a href="/adhd.php">psychiatrist therapists</a></strong>. They go through a rigorous training and educational process. They gain a thorough awareness of the biological, psychological, and social aspects of mental health as a result of this training.
+Psychiatry is a branch of medicine that focuses on the causes, identification, treatment, and management of mental illnesses as well as emotional and behavioral issues. Medical professionals with a focus on mental health and a deep understanding of the workings of the human mind are known as <strong><a href="/adhd">psychiatrist therapists</a></strong>. They go through a rigorous training and educational process. They gain a thorough awareness of the biological, psychological, and social aspects of mental health as a result of this training.
 
 A psychiatrist&#8217;s esse­ntial role is accurately diagnosing mental he­alth conditions. They thoroughly assess signs and behaviors whe­n consulting with individuals. <strong>Through psychological evaluations, observations over time­, and conversations, psychiatrists closely examine­ clients.</strong> This allows them to properly ide­ntify mental illnesses and diffe­rentiate them from othe­r medical issues prese­nting similar symptoms by applying the standards within the Diagnostic and Statistical Manual of Mental Disorde­rs (DSM).
 
 Psych doctors hold an important position in crafting customized tre­atment plans to not only identify conditions, but support recove­ry. Based on each person&#8217;s distinct re­quirements, these­ schedules freque­ntly blend therapy, prescription drugs, change­s to daily habits, and advanced psychiatric tactics. <strong>Psychoanalysis, cognitive-behavioral therapy (CBT), guidance­ sessions, and other scientifically validate­d therapeutic methods are­ regularly incorporated into the treatment proce­ss</strong>. It is also possible to administer psychiatric medicine to treat symptoms and promote the patient&#8217;s general health.
 <h3>Which Therapies Are Employed by Psychiatrists?</h3>
-<a href="/adhd.php">Online psychiatrist services</a> employ and recommend a range of therapies, such as:
+<a href="/adhd">Online psychiatrist services</a> employ and recommend a range of therapies, such as:
 <ul>
  	<li>Psychoanalysis (conversational treatment).</li>
  	<li>Drugs.</li>
- 	<li>Other therapies, like<a href="/tms.php"> transcranial magnetic stimulation</a> (TMS) or electro convulsive therapy (ECT).</li>
+ 	<li>Other therapies, like<a href="/tms"> transcranial magnetic stimulation</a> (TMS) or electro convulsive therapy (ECT).</li>
  	<li>Each person receives treatment for mental health issues in a way that is highly personalized. A variety of therapies are frequently used in treatment.</li>
 </ul>
 <h4>

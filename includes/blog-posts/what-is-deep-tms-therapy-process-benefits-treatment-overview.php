@@ -135,11 +135,11 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p class="wp-block-paragraph">Deep TMS is commonly used to support individuals with:</p>
 
 <ul class="wp-block-list">
-<li><a href="/depression.php" title="">Major depressive disorder</a><br></li>
+<li><a href="/depression" title="">Major depressive disorder</a><br></li>
 
-<li><a href="/ocd.php" title="">Obsessive-compulsive disorder (OCD)</a><br></li>
+<li><a href="/ocd" title="">Obsessive-compulsive disorder (OCD)</a><br></li>
 
-<li><a href="/anxiety.php" title="">Anxiety-related conditions</a><br></li>
+<li><a href="/anxiety" title="">Anxiety-related conditions</a><br></li>
 
 <li>Persistent mood or cognitive symptoms</li>
 </ul>

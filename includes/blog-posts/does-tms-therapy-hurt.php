@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Does TMS Therapy Hurt?
+ * Article body: does-tms-therapy-hurt
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">If you&#8217;ve been considering <strong>TMS therapy in Palm Springs</strong> for depression, anxiety, OCD, or PTSD, chances are you&#8217;ve asked one important question:</p>
@@ -370,17 +370,17 @@ return '<p class="wp-block-paragraph">If you&#8217;ve been considering <strong>T
 <p class="wp-block-paragraph">Candidates often include individuals with:</p>
 
 <ul class="wp-block-list">
-<li><a href="/depression.php">Major depressive disorder</a></li>
+<li><a href="/depression">Major depressive disorder</a></li>
 
 <li>Treatment-resistant depression</li>
 
-<li><a href="/ocd.php">OCD</a></li>
+<li><a href="/ocd">OCD</a></li>
 
-<li><a href="/ptsd.php">PTSD</a></li>
+<li><a href="/ptsd">PTSD</a></li>
 
-<li><a href="/anxiety.php">Anxiety disorders</a></li>
+<li><a href="/anxiety">Anxiety disorders</a></li>
 
-<li><a href="/medication-management.php">Medication intolerance</a></li>
+<li><a href="/medication-management">Medication intolerance</a></li>
 
 <li>Inadequate improvement with antidepressants</li>
 </ul>
@@ -413,7 +413,7 @@ return '<p class="wp-block-paragraph">If you&#8217;ve been considering <strong>T
 <li>Integrative psychiatric care</li>
 </ul>
 
-<p class="wp-block-paragraph">Led by <strong><a href="/about.php">Dr. Keerthy Sunder</a></strong>, the practice emphasizes individualized treatment plans designed around each patient&#8217;s clinical presentation rather than a standardized protocol.</p>
+<p class="wp-block-paragraph">Led by <strong><a href="/about">Dr. Keerthy Sunder</a></strong>, the practice emphasizes individualized treatment plans designed around each patient&#8217;s clinical presentation rather than a standardized protocol.</p>
 
 <h2 class="wp-block-heading">What Does Current Research Say About TMS?</h2>
 
@@ -453,7 +453,7 @@ return '<p class="wp-block-paragraph">If you&#8217;ve been considering <strong>T
 
 <p class="wp-block-paragraph">Serving patients throughout <strong>Palm Springs, Rancho Mirage, Palm Desert, Twentynine Palms, and the Coachella Valley</strong>, our experienced psychiatric team provides comprehensive evaluations, qEEG brain mapping, and individualized treatment plans designed around your unique needs.</p>
 
-<p class="wp-block-paragraph"><a href="/contact.php">Schedule a psychiatric evaluation today</a> to learn what TMS treatment feels like, discuss your goals, verify insurance coverage, and explore whether this medication-free approach may help you move toward lasting recovery.</p>
+<p class="wp-block-paragraph"><a href="/contact">Schedule a psychiatric evaluation today</a> to learn what TMS treatment feels like, discuss your goals, verify insurance coverage, and explore whether this medication-free approach may help you move toward lasting recovery.</p>
 
 <h2 class="wp-block-heading">Frequently Asked Questions</h2>
 

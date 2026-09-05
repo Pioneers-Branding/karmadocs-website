@@ -26,7 +26,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Mental health treatments have evolved rapidly over the last decade, and one therapy that continues to raise questions is <a href="/tms.php" title="">Transcranial Magnetic Stimulation (TMS)</a>. If you or someone you love has struggled with depression or other mental health conditions without success from medications or therapy alone, you’ve probably asked:</p>
+<p class="wp-block-paragraph">Mental health treatments have evolved rapidly over the last decade, and one therapy that continues to raise questions is <a href="/tms" title="">Transcranial Magnetic Stimulation (TMS)</a>. If you or someone you love has struggled with depression or other mental health conditions without success from medications or therapy alone, you’ve probably asked:</p>
 
 <p class="wp-block-paragraph">Related reading: explore how <a href="/mental-health-palm-springs-ca-karmadocs">KarmaDocs provides comprehensive mental health care</a> in Palm Springs, CA. Also learn about <a href="/physical-symptoms-of-anxiety-most-people-dont-recognize">physical anxiety symptoms</a> that often go unrecognized.</p>
 
@@ -208,7 +208,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="accessing-tms-therapy-in-palm-springs-ca"><strong>Accessing TMS Therapy in Palm Springs, CA</strong></h2>
 
-<p class="wp-block-paragraph">For individuals exploring <a href="/tms.php" title="TMS therapy in Palm Springs, CA">TMS therapy in Palm Springs, CA</a>, choosing the right provider is just as important as the treatment itself. Receiving care locally allows for consistent monitoring, convenient scheduling, and personalized treatment planning.</p>
+<p class="wp-block-paragraph">For individuals exploring <a href="/tms" title="TMS therapy in Palm Springs, CA">TMS therapy in Palm Springs, CA</a>, choosing the right provider is just as important as the treatment itself. Receiving care locally allows for consistent monitoring, convenient scheduling, and personalized treatment planning.</p>
 
 <p class="wp-block-paragraph">Clinics offering TMS therapy in Palm Springs, CA typically provide comprehensive psychiatric evaluations to ensure the treatment aligns with each patient’s diagnosis, history, and long-term mental health goals.</p>
 
@@ -242,4 +242,4 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">At KarmaDocs, our experienced mental health professionals take a patient-first, evidence-based approach to care. We believe that no two mental health journeys are the same, which is why every TMS evaluation begins with a comprehensive psychiatric assessment.</p>
 
-<p class="wp-block-paragraph"><a href="/contact.php" title="">Schedule a consultation</a> with KarmaDocs today to learn whether TMS therapy may be a suitable part of your treatment plan.</p>';
+<p class="wp-block-paragraph"><a href="/contact" title="">Schedule a consultation</a> with KarmaDocs today to learn whether TMS therapy may be a suitable part of your treatment plan.</p>';

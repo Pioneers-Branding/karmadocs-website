@@ -32,7 +32,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<b>At </b><a href="/"><b>KarmaDocs</b></a><b>, we take care of the </b><b><i>whole</i></b><b> patient.</b><span style="font-weight: 400;"> Integrative mental health care means not just looking at a person’s diagnosis. It means considering the whole person and their entire life. We help patients who are struggling as they regain control over their minds and their lives. If you’re noticing mood fluctuations, </span><a href="/contact.php"><span style="font-weight: 400;">contact</span></a><span style="font-weight: 400;"> us for support from a team that actually cares. </span>
+<b>At </b><a href="/"><b>KarmaDocs</b></a><b>, we take care of the </b><b><i>whole</i></b><b> patient.</b><span style="font-weight: 400;"> Integrative mental health care means not just looking at a person’s diagnosis. It means considering the whole person and their entire life. We help patients who are struggling as they regain control over their minds and their lives. If you’re noticing mood fluctuations, </span><a href="/contact"><span style="font-weight: 400;">contact</span></a><span style="font-weight: 400;"> us for support from a team that actually cares. </span>
 
 &nbsp;
 
@@ -171,7 +171,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<span style="font-weight: 400;">Don’t wait to seek help if you’re struggling with depression or your gut-brain axis. Our interdisciplinary team of mental health professionals can help get to the root cause of how you&#8217;re feeling, so you can feel better sooner. </span><a href="/contact.php"><span style="font-weight: 400;">Contact us</span></a><span style="font-weight: 400;"> today to set up a remote or in-person appointment in Palm Springs or Gramercy Park. </span>
+<span style="font-weight: 400;">Don’t wait to seek help if you’re struggling with depression or your gut-brain axis. Our interdisciplinary team of mental health professionals can help get to the root cause of how you&#8217;re feeling, so you can feel better sooner. </span><a href="/contact"><span style="font-weight: 400;">Contact us</span></a><span style="font-weight: 400;"> today to set up a remote or in-person appointment in Palm Springs or Gramercy Park. </span>
 
 &nbsp;
 

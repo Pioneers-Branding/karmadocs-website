@@ -21,9 +21,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 </span></h1>
 In the evolving world of mental health treatment, Transcranial Magnetic Stimulation (TMS) has emerged as a breakthrough therapy, especially for individuals who haven’t found relief from traditional medications. If you’re considering this modern solution, one burning question is likely on your mind: how long does TMS therapy last?
 
-<span style="font-weight: 400;">Whether you&#8217;re looking for </span><a href="/tms.php"><strong><i>TMS Therapy in Palm Springs</i></strong></a><span style="font-weight: 400;"> or simply exploring options beyond antidepressants, this guide will give you a detailed, easy-to-understand overview of how long TMS takes, how long the results last, and how to make the most of your treatment.</span>
+<span style="font-weight: 400;">Whether you&#8217;re looking for </span><a href="/tms"><strong><i>TMS Therapy in Palm Springs</i></strong></a><span style="font-weight: 400;"> or simply exploring options beyond antidepressants, this guide will give you a detailed, easy-to-understand overview of how long TMS takes, how long the results last, and how to make the most of your treatment.</span>
 <h3><b>Understanding TMS Therapy</b></h3>
-TMS therapy is an FDA-approved, non-invasive procedure that uses magnetic fields to stimulate nerve cells in the brain. It’s most commonly used to treat Major Depressive Disorder (MDD), especially in people who haven’t responded well to medication or therapy. TMS has also been explored for conditions like <a href="/anxiety.php"><strong>anxiety</strong></a>, <a href="/ocd.php"><strong>OCD</strong></a>, <a href="/ptsd.php"><strong>PTSD</strong></a>, and chronic pain.
+TMS therapy is an FDA-approved, non-invasive procedure that uses magnetic fields to stimulate nerve cells in the brain. It’s most commonly used to treat Major Depressive Disorder (MDD), especially in people who haven’t responded well to medication or therapy. TMS has also been explored for conditions like <a href="/anxiety"><strong>anxiety</strong></a>, <a href="/ocd"><strong>OCD</strong></a>, <a href="/ptsd"><strong>PTSD</strong></a>, and chronic pain.
 
 <span style="font-weight: 400;">During a TMS session, a magnetic coil is placed against your scalp, delivering pulses to specific parts of the brain involved in mood regulation. Unlike medications, TMS doesn’t enter your bloodstream and usually doesn’t cause systemic side effects.</span>
 <h3><b>How long does a TMS Therapy Session last?</b></h3>
@@ -83,7 +83,7 @@ Most patients describe life after TMS as clearer, calmer, and more emotionally s
 <h3><b>Conclusion</b></h3>
 <span style="font-weight: 400;">TMS therapy is an effective, well-tolerated, and promising treatment for depression and other conditions. So, </span><b>how long does TMS therapy last?</b><span style="font-weight: 400;"> While each individual’s journey is unique, many experience months or even years of relief after a full treatment course. With proper care, lifestyle adjustments, and occasional maintenance sessions, the effects can be long-lasting.</span>
 
-<span style="font-weight: 400;">If you&#8217;re considering </span><a href="/tms.php"><b>TMS Therapy in Palm Springs</b></a><span style="font-weight: 400;">, it’s a great time to consult a specialist and explore this life-changing treatment. TMS offers a brighter, drug-free path to better mental health—and for many, it’s just the beginning of lasting recovery.</span>
+<span style="font-weight: 400;">If you&#8217;re considering </span><a href="/tms"><b>TMS Therapy in Palm Springs</b></a><span style="font-weight: 400;">, it’s a great time to consult a specialist and explore this life-changing treatment. TMS offers a brighter, drug-free path to better mental health—and for many, it’s just the beginning of lasting recovery.</span>
 <h3><b>Frequently Asked Questions</b></h3>
 <b style="font-size: 16px;">1. How long do the effects of TMS therapy last after treatment ends?
 </b>The results of TMS therapy typically last 6 to 12 months, and in many cases, even longer. Some individuals achieve long-term remission, while others may need occasional booster sessions to maintain symptom relief.
@@ -92,7 +92,7 @@ Most patients describe life after TMS as clearer, calmer, and more emotionally s
 </b>Not everyone needs boosters, but if symptoms begin to return, maintenance sessions—often just a few—can help reinforce the benefits. Your provider will guide you based on your progress and symptoms.
 
 <b style="font-size: 16px;">3. Can TMS therapy be repeated safely in the future?
-</b>Yes, <a href="/tms.php"><strong>TMS therapy</strong></a> can be repeated safely without long-term risks. If symptoms recur months or years later, many patients undergo another course and experience similar or even better results.
+</b>Yes, <a href="/tms"><strong>TMS therapy</strong></a> can be repeated safely without long-term risks. If symptoms recur months or years later, many patients undergo another course and experience similar or even better results.
 
 <b style="font-size: 16px;">4. Does completing all TMS sessions improve the chances of long-lasting results?
 </b><span style="font-size: 16px;">Absolutely. </span>Completing the full course<span style="font-size: 16px;"> (30–36 sessions) significantly increases the chances of long-term relief. Skipping sessions or stopping early may reduce effectiveness and shorten the duration of results.</span>

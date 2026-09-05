@@ -60,13 +60,13 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <ul class="wp-block-list">
 <li><a href="https://karmadocs.com/what-is-major-depressive-disorder/">Major Depressive Disorder (MDD)</a></li>
 
-<li><a href="/anxiety.php">Anxiety disorders</a></li>
+<li><a href="/anxiety">Anxiety disorders</a></li>
 
-<li><a href="/ocd.php">OCD (Obsessive-Compulsive Disorder)</a></li>
+<li><a href="/ocd">OCD (Obsessive-Compulsive Disorder)</a></li>
 
-<li><a href="/ptsd.php">PTSD</a></li>
+<li><a href="/ptsd">PTSD</a></li>
 
-<li><a href="/bipolar.php">Bipolar depression</a></li>
+<li><a href="/bipolar">Bipolar depression</a></li>
 </ul>
 
 <p class="wp-block-paragraph">TMS is typically recommended for patients who haven’t responded well to antidepressants or psychotherapy — a condition known as <strong>treatment-resistant depression</strong>.</p>
@@ -251,8 +251,8 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">So, is TMS therapy covered by insurance? — Yes, in most cases, it is. Insurance companies now recognize TMS as a proven, safe, and effective treatment for depression and related disorders.</p>
 
-<p class="wp-block-paragraph">If you meet the eligibility requirements, your insurer will likely cover the majority of your treatment cost, leaving you with minimal out-of-pocket expenses. And if you don’t have insurance, there are still affordable ways to begin your healing journey with <strong><a href="/tms.php">TMS therapy near you</a></strong>.</p>
+<p class="wp-block-paragraph">If you meet the eligibility requirements, your insurer will likely cover the majority of your treatment cost, leaving you with minimal out-of-pocket expenses. And if you don’t have insurance, there are still affordable ways to begin your healing journey with <strong><a href="/tms">TMS therapy near you</a></strong>.</p>
 
-<p class="wp-block-paragraph">At Karma Doctors, we help simplify the process — from confirming your insurance coverage to connecting you with <strong><a href="/">psychiatrists near you in Palm Springs,</a> 29 Palms, or Rancho Mirage</strong>, along with trusted providers offering <strong><a href="/tms.php">TMS therapy near you</a></strong>.</p>
+<p class="wp-block-paragraph">At Karma Doctors, we help simplify the process — from confirming your insurance coverage to connecting you with <strong><a href="/">psychiatrists near you in Palm Springs,</a> 29 Palms, or Rancho Mirage</strong>, along with trusted providers offering <strong><a href="/tms">TMS therapy near you</a></strong>.</p>
 
 <p class="wp-block-paragraph">Take control of your mental health today — explore TMS therapy and discover a new path toward lasting relief and emotional balance.</p>';

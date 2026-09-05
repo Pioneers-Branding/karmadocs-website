@@ -5,7 +5,7 @@
  */
 return '<p class="wp-block-paragraph">For many people living with mental health conditions, finding the right treatment can feel like a long and frustrating journey. While medication and therapy help countless individuals manage their symptoms, others continue to struggle despite trying multiple treatment options.</p>
 
-<p class="wp-block-paragraph">This is where <a href="/tms.php">Transcranial Magnetic Stimulation (TMS) therapy</a> can make a difference.</p>
+<p class="wp-block-paragraph">This is where <a href="/tms">Transcranial Magnetic Stimulation (TMS) therapy</a> can make a difference.</p>
 
 <p class="wp-block-paragraph">At Karma Doctors &amp; Associates, we often hear patients ask, &#8220;What does TMS therapy actually help with?&#8221; The answer is broader than many people realize. Originally developed as an innovative treatment for depression, TMS therapy is now used to help individuals facing several mental health challenges when traditional treatments haven&#8217;t provided adequate relief.</p>
 

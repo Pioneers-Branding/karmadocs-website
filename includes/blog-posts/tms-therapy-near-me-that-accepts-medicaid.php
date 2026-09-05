@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: TMS Therapy Near Me That Accepts Medicaid in Palm Springs, CA: What You Need to Know
+ * Article body: tms-therapy-near-me-that-accepts-medicaid
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">If you&#8217;ve been searching for <strong>&#8220;<a href="/">TMS therapy near me Medicaid</a>&#8220;</strong>, you&#8217;re likely looking for an effective depression treatment that&#8217;s both accessible and affordable.</p>
@@ -11,7 +11,7 @@ return '<p class="wp-block-paragraph">If you&#8217;ve been searching for <strong
 
 <h2 class="wp-block-heading">What Is TMS Therapy?</h2>
 
-<p class="wp-block-paragraph"><a href="/tms.php">Transcranial Magnetic Stimulation (TMS)</a> is an FDA-cleared treatment that uses targeted magnetic pulses to stimulate areas of the brain involved in mood regulation.</p>
+<p class="wp-block-paragraph"><a href="/tms">Transcranial Magnetic Stimulation (TMS)</a> is an FDA-cleared treatment that uses targeted magnetic pulses to stimulate areas of the brain involved in mood regulation.</p>
 
 <p class="wp-block-paragraph">Unlike medications that affect the entire body, TMS directly targets specific brain regions associated with depression and other mental health conditions.</p>
 
@@ -312,4 +312,4 @@ return '<p class="wp-block-paragraph">If you&#8217;ve been searching for <strong
 
 <p class="wp-block-paragraph">Whether you&#8217;re living in Palm Springs, Rancho Mirage, Palm Desert, Cathedral City, or anywhere in the Coachella Valley, our compassionate team is here to support you every step of the way.</p>
 
-<p class="wp-block-paragraph"><strong><a href="/contact.php">Schedule your consultation today</a></strong> to learn more about TMS therapy, discuss your Medicaid or insurance coverage, and begin exploring a personalized path toward lasting relief.</p>';
+<p class="wp-block-paragraph"><strong><a href="/contact">Schedule your consultation today</a></strong> to learn more about TMS therapy, discuss your Medicaid or insurance coverage, and begin exploring a personalized path toward lasting relief.</p>';

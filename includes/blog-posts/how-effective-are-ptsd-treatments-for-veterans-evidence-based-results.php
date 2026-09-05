@@ -25,7 +25,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h1 class="wp-block-heading">How Effective Are PTSD Treatments for Veterans? Evidence-Based Results</h1>
 
-<p class="wp-block-paragraph">For many former service members, life after the military comes with invisible wounds that are just as real as physical injuries. Veterans seeking <strong><a href="/ptsd.php" title="">PTSD treatment in Palm Springs</a></strong> often arrive with the same question on their minds: <em>do these treatments really work, and is recovery possible after everything I have been through?</em> Post-traumatic stress disorder can follow veterans for years, affecting sleep, relationships, careers, and overall quality of life. Understanding how effective modern PTSD treatments are for veterans is often the first step toward hope and healing.</p>
+<p class="wp-block-paragraph">For many former service members, life after the military comes with invisible wounds that are just as real as physical injuries. Veterans seeking <strong><a href="/ptsd" title="">PTSD treatment in Palm Springs</a></strong> often arrive with the same question on their minds: <em>do these treatments really work, and is recovery possible after everything I have been through?</em> Post-traumatic stress disorder can follow veterans for years, affecting sleep, relationships, careers, and overall quality of life. Understanding how effective modern PTSD treatments are for veterans is often the first step toward hope and healing.</p>
 
 <p class="wp-block-paragraph">Related reading: understand how <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy can be covered by insurance</a> and explore what <a href="/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS costs without insurance</a>.</p>
 
@@ -45,7 +45,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Are You or a Loved One Struggling With PTSD After Military Service?</h3>
   <p>Flashbacks, anxiety, sleep problems, emotional numbness, or difficulty adjusting to civilian life can be signs of PTSD in veterans. Evidence-based PTSD treatments have helped many veterans regain control and improve quality of life. Early, specialized care makes a real difference.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
 </div>
 
 <style>
@@ -122,7 +122,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Are You or a Loved One Struggling With PTSD After Military Service?</h3>
   <p>Flashbacks, anxiety, sleep problems, emotional numbness, or difficulty adjusting to civilian life can be signs of PTSD in veterans. Evidence-based PTSD treatments have helped many veterans regain control and improve quality of life. Early, specialized care makes a real difference.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
 </div>
 
 <style>
@@ -209,7 +209,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <div class="cta-box-9482x">
   <h3>Are You or a Loved One Struggling With PTSD After Military Service?</h3>
   <p>Flashbacks, anxiety, sleep problems, emotional numbness, or difficulty adjusting to civilian life can be signs of PTSD in veterans. Evidence-based PTSD treatments have helped many veterans regain control and improve quality of life. Early, specialized care makes a real difference.</p>
-  <a href="/contact.php" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
+  <a href="/contact" class="cta-btn-9482x">Get Expert PTSD Help for Veterans Today</a>  
 </div>
 
 <style>

@@ -20,7 +20,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <h1><strong>How TMS Helps Military Members &amp; Dependents?</strong></h1>
 Mental health challenges affect many military families, often impacting both the service member and their loved ones. The pressures of military life, exposure to trauma, frequent relocations, and long separations can cause emotional distress that doesn’t always respond well to traditional treatment methods. Transcranial Magnetic Stimulation (TMS) is now emerging as a life-changing therapy, offering hope and healing without the need for medication or invasive procedures.
 
-<span style="font-weight: 400;">This article explores how </span>TMS therapy<span style="font-weight: 400;"> is transforming mental health care for military personnel and their dependents, the process involved, its unique advantages, and how clinics like </span><a href="/"><b>Karma Doctors &amp; Associates</b></a><span style="font-weight: 400;"> are making </span><a href="/tms.php"><b>TMS Therapy in Palm Springs</b></a><span style="font-weight: 400;"> accessible for military families.</span>
+<span style="font-weight: 400;">This article explores how </span>TMS therapy<span style="font-weight: 400;"> is transforming mental health care for military personnel and their dependents, the process involved, its unique advantages, and how clinics like </span><a href="/"><b>Karma Doctors &amp; Associates</b></a><span style="font-weight: 400;"> are making </span><a href="/tms"><b>TMS Therapy in Palm Springs</b></a><span style="font-weight: 400;"> accessible for military families.</span>
 <h3><b>Understanding the Emotional Strain of Military Life</b></h3>
 <span style="font-weight: 400;">Military service demands physical endurance and mental resilience, but constant exposure to stress and danger can lead to emotional exhaustion. Even when a service member returns home, the emotional impact often lingers.</span>
 
@@ -50,7 +50,7 @@ Transcranial Magnetic Stimulation (TMS)<span style="font-weight: 400;"> is a non
 <h4><b>4. Supporting Emotional Stability in Families</b></h4>
 <span style="font-weight: 400;">When one family member struggles mentally, it affects the entire household. TMS can help military members and dependents improve mood and emotional balance, strengthening family bonds.</span>
 <h3><b>How a Typical TMS Treatment Works</b></h3>
-<span style="font-weight: 400;"><a href="/tms.php"><strong>TMS therapy</strong></a> involves a series of sessions conducted in a clinical setting. The procedure is simple, painless, and requires no downtime. Here’s what to expect:</span>
+<span style="font-weight: 400;"><a href="/tms"><strong>TMS therapy</strong></a> involves a series of sessions conducted in a clinical setting. The procedure is simple, painless, and requires no downtime. Here’s what to expect:</span>
 <ul>
  	<li style="font-weight: 400;" aria-level="1"><b>Step 1 – Initial Assessment:</b><span style="font-weight: 400;"> A mental health professional evaluates your symptoms and history to confirm eligibility for TMS.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><b>Step 2 – Treatment Planning:</b><span style="font-weight: 400;"> The provider identifies the exact brain area to target and sets up the treatment schedule.</span></li>
