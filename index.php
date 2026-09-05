@@ -316,7 +316,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Quiz CTA -->
             <div class="p-2">
                 <p class="font-bold mb-1">Is TMS Right For You?</p>
-                <a href="<?php echo url('/tms-quiz'); ?>"
+                <a href="<?php echo url('tms-quiz'); ?>"
                     class="inline-block bg-white text-brand-purple hover:bg-brand-orange hover:text-white px-6 py-1 rounded-full font-semibold uppercase text-xs tracking-wider transition-all shadow-sm transform hover:scale-105 hover:shadow-md">
                     Take 2-Min Quiz
                 </a>
@@ -378,7 +378,7 @@ require_once __DIR__ . '/includes/header.php';
             </div>
         </div>
         <div class="mt-4">
-            <a href="<?php echo url('/insurance'); ?>"
+            <a href="<?php echo url('insurance-rates'); ?>"
                 class="text-xs text-brand-purple underline hover:text-brand-orange">
                 Find Out If You're Covered
             </a>
@@ -893,7 +893,7 @@ require_once __DIR__ . '/includes/header.php';
                         <span class="text-gray-300">Sessions take less than 20 minutes</span>
                     </li>
                 </ul>
-                <a href="<?php echo url('/tms'); ?>"
+                <a href="<?php echo url('tms'); ?>"
                     class="inline-block bg-white text-brand-purple font-semibold px-8 py-3 rounded-full hover:bg-brand-orange hover:text-white transition-all shadow-md hover:shadow-lg hover:-translate-y-1 uppercase tracking-wider text-xs">
                     Learn How It Works
                 </a>

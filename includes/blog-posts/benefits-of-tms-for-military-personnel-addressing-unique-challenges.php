@@ -127,7 +127,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p class="wp-block-paragraph"><strong>Also, read these blogs:</strong></p>
 
 <ul class="wp-block-list">
-<li><a href="https://karmadocs.com/tms-helping-veterans-address-mental-health-challenges/" title="How TMS Is Helping Veterans Address Mental Health Challenges">How TMS Is Helping Veterans Address Mental Health Challenges</a></li>
+<li><a href="/blog/how-tms-is-helping-veterans-address-mental-health-challenges" title="How TMS Is Helping Veterans Address Mental Health Challenges">How TMS Is Helping Veterans Address Mental Health Challenges</a></li>
 
 <li><a href="/blog/how-tms-helps-military-members-dependents" title="How TMS Helps Military Members &amp; Dependents?">How TMS Helps Military Members &amp; Dependents</a></li>
 </ul>

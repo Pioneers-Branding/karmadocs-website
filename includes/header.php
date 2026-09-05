@@ -33,12 +33,12 @@ $is_active = function($key) use ($page_key) {
     <meta name="description" content="<?php echo htmlspecialchars($meta_desc, ENT_QUOTES, 'UTF-8'); ?>">
 
     <!-- Favicon: KDA monogram taken from the purple Karma Doctors logo -->
-    <link rel="icon" href="<?php echo url('/favicon.ico'); ?>" sizes="any">
-    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo url('/assets/favicon-16.png'); ?>">
-    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo url('/assets/favicon-32.png'); ?>">
-    <link rel="icon" type="image/png" sizes="48x48" href="<?php echo url('/assets/favicon-48.png'); ?>">
-    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo url('/assets/favicon-192.png'); ?>">
-    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo url('/assets/favicon-180.png'); ?>">
+    <link rel="icon" href="<?php echo url('favicon.ico'); ?>" sizes="any">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo url('assets/favicon-16.png'); ?>">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo url('assets/favicon-32.png'); ?>">
+    <link rel="icon" type="image/png" sizes="48x48" href="<?php echo url('assets/favicon-48.png'); ?>">
+    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo url('assets/favicon-192.png'); ?>">
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo url('assets/favicon-180.png'); ?>">
     <meta name="theme-color" content="#603177">
 
     <?php if ($page_key === 'home'): ?>
@@ -56,8 +56,8 @@ $is_active = function($key) use ($page_key) {
  "url": "https://karmadocs.com/",
  "telephone": "+1-951-297-8375",
  "email": "contact@karmadocs.com",
- "image": "<?php echo url('/assets/cloudinary/Karma-Docs-Logo-Horizental_w48ja1.webp'); ?>",
- "logo": "<?php echo url('/assets/cloudinary/Logo-2_bchwgb.webp'); ?>",
+ "image": "<?php echo url('assets/cloudinary/Karma-Docs-Logo-Horizental_w48ja1.webp'); ?>",
+ "logo": "<?php echo url('assets/cloudinary/Logo-2_bchwgb.webp'); ?>",
  "priceRange": "$$",
  "description": "Double board-certified psychiatry and FDA-cleared TMS therapy.",
  "medicalSpecialty": [
@@ -95,7 +95,7 @@ $is_active = function($key) use ($page_key) {
  "name": "Dr. Keerthy Sunder, MD",
  "jobTitle": "Double Board-Certified Psychiatrist",
  "description": "Double Board-Certified Psychiatrist with 20+ years of experience...",
- "image": "<?php echo url('/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png'); ?>",
+ "image": "<?php echo url('assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png'); ?>",
  "medicalSpecialty": [
  { "@type": "MedicalSpecialty", "name": "Psychiatry" },
  { "@type": "MedicalSpecialty", "name": "Addiction Medicine" }
@@ -172,7 +172,7 @@ $is_active = function($key) use ($page_key) {
 
     <!-- AOS Animation Library -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo url('/style.css'); ?>">
+    <link rel="stylesheet" href="<?php echo url('style.css'); ?>">
 </head>
 
 <body class="font-body text-gray-700 antialiased overflow-x-hidden">
@@ -197,13 +197,13 @@ $is_active = function($key) use ($page_key) {
         <div class="container mx-auto px-4 flex justify-between items-center">
             <!-- Logo -->
             <a href="<?php echo url('/'); ?>" class="text-2xl font-bold font-sans tracking-tight flex items-center transition-all duration-500">
-                <img src="<?php echo url('/assets/cloudinary/Karma-Docs-Logo-Horizental_w48ja1.webp'); ?>" alt="KDA logo" class="h-16 md:h-20 transition-all duration-500">
+                <img src="<?php echo url('assets/cloudinary/Karma-Docs-Logo-Horizental_w48ja1.webp'); ?>" alt="KDA logo" class="h-16 md:h-20 transition-all duration-500">
             </a>
 
             <!-- Desktop Nav -->
             <nav class="hidden lg:flex items-center space-x-8 font-semibold text-sm uppercase tracking-wide text-gray-800">
                 <a href="<?php echo url('/'); ?>" class="<?php echo $is_active('home'); ?> transition-colors">Home</a>
-                <a href="<?php echo url('/about'); ?>" class="<?php echo $is_active('about'); ?> transition-colors">About Us</a>
+                <a href="<?php echo url('about'); ?>" class="<?php echo $is_active('about'); ?> transition-colors">About Us</a>
 
                 <!-- Conditions Dropdown -->
                 <div class="group relative py-2">
@@ -213,12 +213,12 @@ $is_active = function($key) use ($page_key) {
                     </button>
                     <div class="absolute top-full left-0 pt-2 w-52 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                         <div class="bg-white rounded-xl shadow-xl border border-gray-100 py-2">
-                            <a href="<?php echo url('/anxiety'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Anxiety</a>
-                            <a href="<?php echo url('/depression'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Depression</a>
-                            <a href="<?php echo url('/ptsd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">PTSD</a>
-                            <a href="<?php echo url('/adhd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">ADHD</a>
-                            <a href="<?php echo url('/bipolar'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Bipolar Disorder</a>
-                            <a href="<?php echo url('/ocd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">OCD</a>
+                            <a href="<?php echo url('anxiety'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Anxiety</a>
+                            <a href="<?php echo url('depression'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Depression</a>
+                            <a href="<?php echo url('ptsd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">PTSD</a>
+                            <a href="<?php echo url('adhd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">ADHD</a>
+                            <a href="<?php echo url('bipolar'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Bipolar Disorder</a>
+                            <a href="<?php echo url('ocd'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">OCD</a>
                         </div>
                     </div>
                 </div>
@@ -231,8 +231,8 @@ $is_active = function($key) use ($page_key) {
                     </button>
                     <div class="absolute top-full left-0 pt-2 w-60 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                         <div class="bg-white rounded-xl shadow-xl border border-gray-100 py-2">
-                            <a href="<?php echo url('/medication-management'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Medication Management</a>
-                            <a href="<?php echo url('/tms'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">TMS Therapy</a>
+                            <a href="<?php echo url('medication-management'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Medication Management</a>
+                            <a href="<?php echo url('tms'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">TMS Therapy</a>
                         </div>
                     </div>
                 </div>
@@ -245,9 +245,9 @@ $is_active = function($key) use ($page_key) {
                     </button>
                     <div class="absolute top-full left-0 pt-2 w-60 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
                         <div class="bg-white rounded-xl shadow-xl border border-gray-100 py-2">
-                            <a href="<?php echo url('/insurance-rates'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Insurance & Rates</a>
-                            <a href="<?php echo url('/patient-education'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Patient Education</a>
-                            <a href="<?php echo url('/blog'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Blogs</a>
+                            <a href="<?php echo url('insurance-rates'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Insurance & Rates</a>
+                            <a href="<?php echo url('patient-education'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Patient Education</a>
+                            <a href="<?php echo url('blog'); ?>" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800">Blogs</a>
                             <a href="https://sunderfoundation.org/" target="_blank" rel="noopener" class="block px-4 py-2.5 hover:bg-gray-50 hover:text-brand-purple transition-colors text-xs font-bold text-gray-800 border-t border-gray-100 mt-1 pt-3">
                                 <span class="flex items-center gap-2">
                                     <i class="fas fa-heart text-brand-orange text-[10px]"></i>
@@ -260,13 +260,13 @@ $is_active = function($key) use ($page_key) {
                     </div>
                 </div>
 
-                <a href="<?php echo url('/research-publications'); ?>" class="<?php echo $is_active('research-publications'); ?> transition-colors">Research</a>
-                <a href="<?php echo url('/contact'); ?>" class="<?php echo $is_active('contact'); ?> transition-colors">Contact</a>
+                <a href="<?php echo url('research-publications'); ?>" class="<?php echo $is_active('research-publications'); ?> transition-colors">Research</a>
+                <a href="<?php echo url('contact'); ?>" class="<?php echo $is_active('contact'); ?> transition-colors">Contact</a>
             </nav>
 
             <!-- CTA & Mobile Toggle -->
             <div class="flex items-center space-x-4">
-                <a href="<?php echo url('/contact'); ?>" class="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-6 py-2.5 rounded-full font-semibold uppercase text-xs tracking-wider transition-all transform hover:-translate-y-0.5 hover:shadow-lg shadow-md">
+                <a href="<?php echo url('contact'); ?>" class="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-6 py-2.5 rounded-full font-semibold uppercase text-xs tracking-wider transition-all transform hover:-translate-y-0.5 hover:shadow-lg shadow-md">
                     Book Online
                 </a>
                 <button class="lg:hidden text-2xl text-gray-800 focus:outline-none p-2" id="mobile-menu-btn" aria-label="Toggle navigation menu">
@@ -279,7 +279,7 @@ $is_active = function($key) use ($page_key) {
         <div class="lg:hidden hidden bg-white absolute top-full left-0 w-full shadow-2xl h-[calc(100vh-80px)] overflow-y-auto z-40 transition-all duration-300 border-t border-gray-100" id="mobile-menu">
             <div class="flex flex-col px-6 py-8 space-y-6 font-semibold uppercase text-sm text-gray-800">
                 <a href="<?php echo url('/'); ?>" class="block hover:text-brand-purple transition-colors">Home</a>
-                <a href="<?php echo url('/about'); ?>" class="block hover:text-brand-purple transition-colors">About Us</a>
+                <a href="<?php echo url('about'); ?>" class="block hover:text-brand-purple transition-colors">About Us</a>
 
                 <!-- Conditions Accordion -->
                 <details class="group border-b border-gray-100 pb-2">
@@ -290,12 +290,12 @@ $is_active = function($key) use ($page_key) {
                         </span>
                     </summary>
                     <div class="flex flex-col pl-4 mt-5 space-y-5 text-xs font-semibold text-gray-500 border-l border-brand-orange/30 animate-fade-in-up">
-                        <a href="<?php echo url('/anxiety'); ?>" class="block hover:text-brand-purple transition-colors">Anxiety</a>
-                        <a href="<?php echo url('/depression'); ?>" class="block hover:text-brand-purple transition-colors">Depression</a>
-                        <a href="<?php echo url('/ptsd'); ?>" class="block hover:text-brand-purple transition-colors">PTSD</a>
-                        <a href="<?php echo url('/adhd'); ?>" class="block hover:text-brand-purple transition-colors">ADHD</a>
-                        <a href="<?php echo url('/bipolar'); ?>" class="block hover:text-brand-purple transition-colors">Bipolar Disorder</a>
-                        <a href="<?php echo url('/ocd'); ?>" class="block hover:text-brand-purple transition-colors">OCD</a>
+                        <a href="<?php echo url('anxiety'); ?>" class="block hover:text-brand-purple transition-colors">Anxiety</a>
+                        <a href="<?php echo url('depression'); ?>" class="block hover:text-brand-purple transition-colors">Depression</a>
+                        <a href="<?php echo url('ptsd'); ?>" class="block hover:text-brand-purple transition-colors">PTSD</a>
+                        <a href="<?php echo url('adhd'); ?>" class="block hover:text-brand-purple transition-colors">ADHD</a>
+                        <a href="<?php echo url('bipolar'); ?>" class="block hover:text-brand-purple transition-colors">Bipolar Disorder</a>
+                        <a href="<?php echo url('ocd'); ?>" class="block hover:text-brand-purple transition-colors">OCD</a>
                     </div>
                 </details>
 
@@ -308,8 +308,8 @@ $is_active = function($key) use ($page_key) {
                         </span>
                     </summary>
                     <div class="flex flex-col pl-4 mt-5 space-y-5 text-xs font-semibold text-gray-500 border-l border-brand-orange/30 animate-fade-in-up">
-                        <a href="<?php echo url('/medication-management'); ?>" class="block hover:text-brand-purple transition-colors">Medication Management</a>
-                        <a href="<?php echo url('/tms'); ?>" class="block hover:text-brand-purple transition-colors">TMS Therapy</a>
+                        <a href="<?php echo url('medication-management'); ?>" class="block hover:text-brand-purple transition-colors">Medication Management</a>
+                        <a href="<?php echo url('tms'); ?>" class="block hover:text-brand-purple transition-colors">TMS Therapy</a>
                     </div>
                 </details>
 
@@ -322,9 +322,9 @@ $is_active = function($key) use ($page_key) {
                         </span>
                     </summary>
                     <div class="flex flex-col pl-4 mt-5 space-y-5 text-xs font-semibold text-gray-500 border-l border-brand-orange/30 animate-fade-in-up">
-                        <a href="<?php echo url('/insurance-rates'); ?>" class="block hover:text-brand-purple transition-colors">Insurance & Rates</a>
-                        <a href="<?php echo url('/patient-education'); ?>" class="block hover:text-brand-purple transition-colors">Patient Education</a>
-                        <a href="<?php echo url('/blog'); ?>" class="block hover:text-brand-purple transition-colors">Blogs</a>
+                        <a href="<?php echo url('insurance-rates'); ?>" class="block hover:text-brand-purple transition-colors">Insurance & Rates</a>
+                        <a href="<?php echo url('patient-education'); ?>" class="block hover:text-brand-purple transition-colors">Patient Education</a>
+                        <a href="<?php echo url('blog'); ?>" class="block hover:text-brand-purple transition-colors">Blogs</a>
                         <a href="https://sunderfoundation.org/" target="_blank" rel="noopener" class="flex items-center gap-2 hover:text-brand-purple transition-colors">
                             <i class="fas fa-heart text-brand-orange text-[10px]"></i>
                             Foundation
@@ -333,11 +333,11 @@ $is_active = function($key) use ($page_key) {
                     </div>
                 </details>
 
-                <a href="<?php echo url('/research-publications'); ?>" class="block hover:text-brand-purple transition-colors">Research</a>
-                <a href="<?php echo url('/contact'); ?>" class="block hover:text-brand-purple transition-colors">Contact</a>
+                <a href="<?php echo url('research-publications'); ?>" class="block hover:text-brand-purple transition-colors">Research</a>
+                <a href="<?php echo url('contact'); ?>" class="block hover:text-brand-purple transition-colors">Contact</a>
 
                 <div class="pt-6 mt-4">
-                    <a href="<?php echo url('/contact'); ?>" class="flex items-center justify-center w-full bg-brand-orange hover:bg-brand-orangeHover text-white py-4 rounded-xl font-bold transition-colors shadow-lg shadow-brand-orange/30 mb-4">
+                    <a href="<?php echo url('contact'); ?>" class="flex items-center justify-center w-full bg-brand-orange hover:bg-brand-orangeHover text-white py-4 rounded-xl font-bold transition-colors shadow-lg shadow-brand-orange/30 mb-4">
                         Book Online Now
                     </a>
                     <a href="tel:+19512978375" class="flex items-center justify-center w-full bg-gray-50 hover:bg-gray-100 border border-gray-200 text-brand-purple py-4 rounded-xl font-bold transition-colors mb-2">

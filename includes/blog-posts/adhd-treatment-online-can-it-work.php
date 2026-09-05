@@ -155,7 +155,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 <ol>
- 	<li style="font-weight: 400;" aria-level="1"><strong>Book your consultation online</strong><span style="font-weight: 400;"> on our homepage, and fill out a few pages of </span><a href="https://karmadocs.com/content/client-forms"><span style="font-weight: 400;">paperwork</span></a><span style="font-weight: 400;">. During your first consultation, we’ll take the time to understand your symptoms and make sure that ADHD is the right diagnosis for you. You’ll fill out an ADHD screening questionnaire to get an understanding of your symptoms. </span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><strong>Book your consultation online</strong><span style="font-weight: 400;"> on our homepage, and fill out a few pages of </span><a href="/client-forms"><span style="font-weight: 400;">paperwork</span></a><span style="font-weight: 400;">. During your first consultation, we’ll take the time to understand your symptoms and make sure that ADHD is the right diagnosis for you. You’ll fill out an ADHD screening questionnaire to get an understanding of your symptoms. </span></li>
 </ol>
 &nbsp;
 <ul>

@@ -10,7 +10,7 @@ require_once __DIR__ . '/includes/header.php';
         <section class="relative bg-gradient-to-br from-purple-50 via-white to-gray-50 flex items-center overflow-hidden py-20 lg:py-0 min-h-[600px] lg:h-[70vh]">
             <!-- Right Side Background Image -->
             <div class="absolute top-0 right-0 w-full lg:w-1/2 h-full hidden lg:block z-0" style="
-                      background-image: url('<?php echo url('/assets/insurances/tms-research.webp'); ?>');
+                      background-image: url('<?php echo url('assets/insurances/tms-research.webp'); ?>');
                       background-size: cover;
                       background-repeat: no-repeat;
                   ">
@@ -114,7 +114,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <div
                                     class="absolute -inset-4 bg-gradient-to-r from-brand-purple to-brand-orange opacity-20 blur-xl rounded-2xl">
                                 </div>
-                                <img src="<?php echo url('/assets/gallery/research/Dr_sunder_Award_05.webp'); ?>"
+                                <img src="<?php echo url('assets/gallery/research/Dr_sunder_Award_05.webp'); ?>"
                                     alt="Dr. Keerthy Sunder accepting the Golden Axon Leadership Award on stage at the 2023 SBMT Gala"
                                     width="791" height="489" loading="lazy" decoding="async"
                                     class="relative rounded-xl shadow-lg w-full h-auto">
@@ -127,7 +127,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 1 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="100">
-                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto transition-transform group-hover:scale-105">
+                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Science & Innovation</h4>
                             <p class="text-sm text-gray-500">Pioneering advancements in TMS technology and personalized
                                 psychiatric treatment protocols.</p>
@@ -135,7 +135,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 2 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="200">
-                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge"
+                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Arts & Culture</h4>
                             <p class="text-sm text-gray-500">Supporting mental health awareness through partnerships
@@ -144,7 +144,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 3 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="300">
-                            <img src="<?php echo url('/assets/award_badge.png'); ?>" alt="Award Badge"
+                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Policy & Advocacy</h4>
                             <p class="text-sm text-gray-500">Active leadership in global summits to shape the future of
@@ -250,7 +250,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/Spectral%20EEG-Guided%20Adaptive%20Neuromodulation%20for%20Age-Related%20Cognitive%20Changes.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/Spectral%20EEG-Guided%20Adaptive%20Neuromodulation%20for%20Age-Related%20Cognitive%20Changes.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -293,7 +293,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/rTMS%20for%20Recurrent%20MDD%20and%20GAD%20Comorbid%20with%20Atrial%20Fibrillation.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/rTMS%20for%20Recurrent%20MDD%20and%20GAD%20Comorbid%20with%20Atrial%20Fibrillation.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -337,7 +337,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/Maintenance%20tPBM%20Following%20an%20Acute%20rTMS%20Course%20for%20Recurrent%20MDD%20and%20GAD.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/Maintenance%20tPBM%20Following%20an%20Acute%20rTMS%20Course%20for%20Recurrent%20MDD%20and%20GAD.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -379,7 +379,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/RTMS%20For%20Recurrent%20Major%20Depressive%20Disorder%20And%20Generalized%20Anxiety%20Disorder%20Comorbid%20With%20Thalamic%20Pain%20Syndrome_%20A%20Case%20Report.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/RTMS%20For%20Recurrent%20Major%20Depressive%20Disorder%20And%20Generalized%20Anxiety%20Disorder%20Comorbid%20With%20Thalamic%20Pain%20Syndrome_%20A%20Case%20Report.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -423,7 +423,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/rTMS%20for%20Recurrent%20Major%20Depressive%20Disorder%20and%20Generalized%20Anxiety%20Disorder%20Comorbid%20with%20Heart%20Failure,%20Renal%20Disease,%20%20Type%202%20Diabetes,%20and%20HIV.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/rTMS%20for%20Recurrent%20Major%20Depressive%20Disorder%20and%20Generalized%20Anxiety%20Disorder%20Comorbid%20with%20Heart%20Failure,%20Renal%20Disease,%20%20Type%202%20Diabetes,%20and%20HIV.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -466,7 +466,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/PrTMS%20in%20Pediatric%20Patients%20with%20Autism%20Chennai%20Paper.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/PrTMS%20in%20Pediatric%20Patients%20with%20Autism%20Chennai%20Paper.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -510,7 +510,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/PrTMS%20and%20tPBM%20for%20TBI%20and%20PTSD.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/PrTMS%20and%20tPBM%20for%20TBI%20and%20PTSD.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -553,7 +553,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/EEG-Spectra-Guided%20Personalized%20rTMS%20in%20PTSD%20with%20Co-%20occurring%20Psychiatric%20Disorders_%20A%20Case%20Series.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/EEG-Spectra-Guided%20Personalized%20rTMS%20in%20PTSD%20with%20Co-%20occurring%20Psychiatric%20Disorders_%20A%20Case%20Series.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -596,7 +596,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/PrTMS%20and%20Autism%20Publication.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/PrTMS%20and%20Autism%20Publication.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -638,7 +638,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/DRD%20and%20Autism.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/DRD%20and%20Autism.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -747,7 +747,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -789,7 +789,7 @@ require_once __DIR__ . '/includes/header.php';
                                     class="inline-flex items-center text-xs font-bold text-brand-orange hover:text-brand-orangeHover transition-colors">
                                     VIEW ARTICLE <i class="fas fa-external-link-alt ml-1.5 text-[10px]"></i>
                                 </a>
-                                <a href="<?php echo url('/assets/publications/PrTMS%20for%20PTSD%20in%20Miltary%20Combat%20Veterans.pdf'); ?>" target="_blank"
+                                <a href="<?php echo url('assets/publications/PrTMS%20for%20PTSD%20in%20Miltary%20Combat%20Veterans.pdf'); ?>" target="_blank"
                                     class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3 py-1 rounded-full">
                                     <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                                 </a>
@@ -890,7 +890,7 @@ require_once __DIR__ . '/includes/header.php';
                                 concussion, highlighting improvements in cognitive function, mood, and sleep quality
                                 through personalized neuromodulation protocols.
                             </p>
-                            <a href="<?php echo url('/assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
+                            <a href="<?php echo url('assets/publications/PrTMS%20for%20Concussions.pdf'); ?>" target="_blank"
                                 class="inline-flex items-center text-xs font-bold text-brand-purple hover:text-brand-purpleLight transition-colors bg-brand-purple/5 hover:bg-brand-purple/10 px-3.5 py-1.5 rounded-full">
                                 <i class="fas fa-file-pdf mr-1.5 text-brand-purple"></i> DOWNLOAD PDF
                             </a>
@@ -1009,7 +1009,7 @@ require_once __DIR__ . '/includes/header.php';
                         <div class="flex flex-col md:flex-row items-center justify-between gap-12 relative z-10">
                             <div class="md:w-1/2">
                                 <div class="flex items-center gap-4 mb-6">
-                                    <img src="<?php echo url('/assets/lotus-logo.png'); ?>"
+                                    <img src="<?php echo url('assets/lotus-logo.png'); ?>"
                                         alt="Sunder Foundation Lotus Logo" class="h-14 w-auto object-contain bg-white/10 p-2 rounded-xl backdrop-blur-sm">
                                     <div>
                                         <span class="block text-2xl font-bold font-sans text-white tracking-wider uppercase leading-tight">Sunder</span>

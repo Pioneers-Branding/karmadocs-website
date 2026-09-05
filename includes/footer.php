@@ -8,7 +8,7 @@ require_once __DIR__ . '/config.php';
 
     <!-- Subtle Logo Watermark -->
     <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] opacity-[0.06] pointer-events-none">
-        <img src="<?php echo url('/assets/cloudinary/Logo-2_bchwgb.webp'); ?>" alt="" class="w-full h-full object-contain">
+        <img src="<?php echo url('assets/cloudinary/Logo-2_bchwgb.webp'); ?>" alt="" class="w-full h-full object-contain">
     </div>
 
     <!-- Decorative Top Border -->
@@ -84,7 +84,7 @@ require_once __DIR__ . '/config.php';
                 <!-- Brand Column -->
                 <div class="md:col-span-4 lg:col-span-4">
                     <a href="<?php echo url('/'); ?>" class="inline-block mb-6">
-                        <img src="<?php echo url('/assets/cloudinary/Logo-2_bchwgb.webp'); ?>" alt="Karma Doctors" class="h-16">
+                        <img src="<?php echo url('assets/cloudinary/Logo-2_bchwgb.webp'); ?>" alt="Karma Doctors" class="h-16">
                     </a>
                     <p class="text-gray-400 text-sm leading-relaxed mb-6 max-w-xs">
                         Providing top-tier psychiatric care and TMS therapy with a compassionate, integrative approach. Your journey to wellness starts here.
@@ -130,9 +130,9 @@ require_once __DIR__ . '/config.php';
                     </h4>
                     <ul class="space-y-3">
                         <li><a href="<?php echo url('/'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Home</a></li>
-                        <li><a href="<?php echo url('/about'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">About Us</a></li>
-                        <li><a href="<?php echo url('/about#team'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Our Team</a></li>
-                        <li><a href="<?php echo url('/tms'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">TMS Therapy</a></li>
+                        <li><a href="<?php echo url('about'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">About Us</a></li>
+                        <li><a href="<?php echo url('about#team'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Our Team</a></li>
+                        <li><a href="<?php echo url('tms'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">TMS Therapy</a></li>
                     </ul>
                 </div>
 
@@ -143,12 +143,12 @@ require_once __DIR__ . '/config.php';
                         Conditions
                     </h4>
                     <ul class="space-y-3">
-                        <li><a href="<?php echo url('/depression'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Depression</a></li>
-                        <li><a href="<?php echo url('/anxiety'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Anxiety</a></li>
-                        <li><a href="<?php echo url('/ptsd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">PTSD</a></li>
-                        <li><a href="<?php echo url('/adhd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">ADHD</a></li>
-                        <li><a href="<?php echo url('/bipolar'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Bipolar Disorder</a></li>
-                        <li><a href="<?php echo url('/ocd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">OCD</a></li>
+                        <li><a href="<?php echo url('depression'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Depression</a></li>
+                        <li><a href="<?php echo url('anxiety'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Anxiety</a></li>
+                        <li><a href="<?php echo url('ptsd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">PTSD</a></li>
+                        <li><a href="<?php echo url('adhd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">ADHD</a></li>
+                        <li><a href="<?php echo url('bipolar'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">Bipolar Disorder</a></li>
+                        <li><a href="<?php echo url('ocd'); ?>" class="text-gray-400 text-sm hover:text-white transition-colors">OCD</a></li>
                     </ul>
                 </div>
 
@@ -220,9 +220,9 @@ require_once __DIR__ . '/config.php';
                     &copy; <?php echo date('Y'); ?> Karma Doctors & Associates. All rights reserved.
                 </p>
                 <div class="flex items-center gap-6 text-xs">
-                    <a href="<?php echo url('/privacy-policy'); ?>" class="text-gray-500 hover:text-white transition-colors">Privacy Policy</a>
-                    <a href="<?php echo url('/terms-conditions'); ?>" class="text-gray-500 hover:text-white transition-colors">Terms & Conditions</a>
-                    <a href="<?php echo url('/privacy-policy#hipaa-notice'); ?>" class="text-gray-500 hover:text-white transition-colors">HIPAA Compliance</a>
+                    <a href="<?php echo url('privacy-policy'); ?>" class="text-gray-500 hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="<?php echo url('terms-conditions'); ?>" class="text-gray-500 hover:text-white transition-colors">Terms & Conditions</a>
+                    <a href="<?php echo url('privacy-policy#hipaa-notice'); ?>" class="text-gray-500 hover:text-white transition-colors">HIPAA Compliance</a>
                 </div>
             </div>
         </div>
@@ -243,7 +243,7 @@ require_once __DIR__ . '/config.php';
         }
     });
 </script>
-<script src="<?php echo url('/script.js'); ?>"></script>
+<script src="<?php echo url('script.js'); ?>"></script>
 </body>
 
 </html>
