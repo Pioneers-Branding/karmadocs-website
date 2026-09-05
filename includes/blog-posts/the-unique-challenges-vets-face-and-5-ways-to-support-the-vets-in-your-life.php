@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Veterans face unique mental health challenges that benefit from specialized care. Learn about the <a href="/blog/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services</a> available at KarmaDocs and how <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can make a real difference.</p>
+<p class="wp-block-paragraph">Veterans face unique mental health challenges that benefit from specialized care. Learn about the <a href="/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services</a> available at KarmaDocs and how <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can make a real difference.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/United_States_Department_of_Veterans_Affairs" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on the U.S. Department of Veterans Affairs</a>, the VA provides a wide range of mental health services to veterans, including treatment for PTSD, depression, and substance use disorders — recognizing the disproportionate mental health burden carried by military veterans.</p>
 

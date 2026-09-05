@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">For expert psychiatric evaluation in California, visit our <a href="/blog/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health center</a>. Learn how <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">to find the best psychiatrist in California</a> for your unique needs.</p>
+<p class="wp-block-paragraph">For expert psychiatric evaluation in California, visit our <a href="/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health center</a>. Learn how <a href="/best-psychiatrist-california-how-to-find-expert-mental-health-care">to find the best psychiatrist in California</a> for your unique needs.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, psychiatrists are uniquely positioned among mental health professionals to integrate biological, psychological, and social perspectives in the treatment of mental disorders.</p>
 

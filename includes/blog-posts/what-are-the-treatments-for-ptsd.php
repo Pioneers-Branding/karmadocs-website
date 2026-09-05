@@ -22,13 +22,13 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Post-Traumatic Stress Disorder (PTSD) is a mental health condition that develops after experiencing or witnessing a traumatic event such as violence, abuse, war, accidents, natural disasters, or life-threatening situations. People with PTSD often struggle with flashbacks, nightmares, anxiety, fear, or emotional numbness long after the event has passed.</p>
 
-<p class="wp-block-paragraph">Related reading: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and explore how <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can help you or a loved one.</p>
+<p class="wp-block-paragraph">Related reading: learn about <a href="/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and explore how <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">psychiatric treatment</a> can help you or a loved one.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mental health</a>, promoting mental health is a fundamental part of public health — and involves creating environments and conditions that support mental wellbeing across all age groups.</p>
 
 <p class="wp-block-paragraph">The good news is that PTSD is treatable, and thousands of people recover with the right support and treatment plan. Modern therapies, medications, and lifestyle approaches are highly effective in reducing symptoms, improving emotional well-being, and helping individuals regain control of their lives.</p>
 
-<p class="wp-block-paragraph">If you&#8217;re searching for <em><strong><a href="/blog/what-are-the-treatments-for-ptsd" title="">what are the treatments for PTSD</a></strong></em> or trying to understand which approach works best, this detailed guide explains everything—covering both evidence-based therapies and supportive treatments.</p>
+<p class="wp-block-paragraph">If you&#8217;re searching for <em><strong><a href="/what-are-the-treatments-for-ptsd" title="">what are the treatments for PTSD</a></strong></em> or trying to understand which approach works best, this detailed guide explains everything—covering both evidence-based therapies and supportive treatments.</p>
 
 <h2 class="wp-block-heading" id="understanding-ptsd"><strong>Understanding PTSD</strong></h2>
 
@@ -54,7 +54,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="best-treatment-options-for-ptsd"><strong>Best Treatment Options for PTSD</strong></h2>
 
-<p class="wp-block-paragraph">Post-Traumatic Stress Disorder (PTSD) affects how the brain processes fear, stress, and memories after a traumatic event. Many people search for <em><strong><a href="/blog/what-are-the-treatments-for-ptsd" title="">what are the treatments for PTSD</a></strong></em> because symptoms like anxiety, flashbacks, nightmares, and emotional numbness can interfere with daily life.&nbsp;</p>
+<p class="wp-block-paragraph">Post-Traumatic Stress Disorder (PTSD) affects how the brain processes fear, stress, and memories after a traumatic event. Many people search for <em><strong><a href="/what-are-the-treatments-for-ptsd" title="">what are the treatments for PTSD</a></strong></em> because symptoms like anxiety, flashbacks, nightmares, and emotional numbness can interfere with daily life.&nbsp;</p>
 
 <h3 class="wp-block-heading"><strong>1. Cognitive Behavioral Therapy</strong></h3>
 

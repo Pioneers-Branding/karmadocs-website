@@ -36,34 +36,33 @@
     # Service hub, and services with no dedicated page on the new site
     RewriteRule ^services?/?$ /tms [R=301,L]
     RewriteRule ^services?/mood-disorders/?$ /bipolar [R=301,L]
-    RewriteRule ^services?/schizophrenia/?$ /blog/what-are-the-5-causes-of-schizophrenia [R=301,L]
+    RewriteRule ^services?/schizophrenia/?$ /what-are-the-5-causes-of-schizophrenia [R=301,L]
 
     # Articles whose slug changed during the migration
-    RewriteRule ^is-anxiety-a-disability/?$ /blog/is-anxiety-a-disability-the-legal-and-medical-truth [R=301,L]
-    RewriteRule ^tms-helping-veterans-address-mental-health-challenges/?$ /blog/how-tms-is-helping-veterans-address-mental-health-challenges [R=301,L]
-    RewriteRule ^mental-health-role-of-psychiatrists/?$ /blog/understanding-your-mental-health-the-vital-role-of-psychiatrists [R=301,L]
-    RewriteRule ^culturally-responsive-care-for-diverse-mental-health/?$ /blog/embracing-diversity-in-mental-health-care-culturally-responsive-psychiatry [R=301,L]
+    RewriteRule ^is-anxiety-a-disability/?$ /is-anxiety-a-disability-the-legal-and-medical-truth [R=301,L]
+    RewriteRule ^tms-helping-veterans-address-mental-health-challenges/?$ /how-tms-is-helping-veterans-address-mental-health-challenges [R=301,L]
+    RewriteRule ^mental-health-role-of-psychiatrists/?$ /understanding-your-mental-health-the-vital-role-of-psychiatrists [R=301,L]
+    RewriteRule ^culturally-responsive-care-for-diverse-mental-health/?$ /embracing-diversity-in-mental-health-care-culturally-responsive-psychiatry [R=301,L]
     RewriteRule ^what-is-major-depressive-disorder/?$ /depression [R=301,L]
 
     # Old /post/<slug>/ permalinks -> the article if it still exists, else the index
     RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
-    RewriteRule ^post/([a-z0-9\-]+)/?$ /blog/$1 [R=301,L]
+    RewriteRule ^post/([a-z0-9\-]+)/?$ /$1 [R=301,L]
     RewriteRule ^post/[a-z0-9\-]+/?$ /blog [R=301,L]
 
-    # Articles used to live at the site root: /does-tms-therapy-hurt/ -> /blog/<slug>.
-    # The condition means only real article slugs match, so pages are untouched.
+    # Articles live at the site root (the WordPress permalink shape).
+    # /blog/<slug> was used briefly during the rebuild -> send it to the root.
+    RewriteRule ^blog/([a-z0-9\-]+)/?$ /$1 [R=301,L]
+
+    # Canonical article URL has no trailing slash: /<slug>/ -> /<slug>
     RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
-    RewriteRule ^([a-z0-9\-]+)/?$ /blog/$1 [R=301,L]
+    RewriteRule ^([a-z0-9\-]+)/+$ /$1 [R=301,L]
 
     # Trailing slash on a real page: /tms/ -> /tms
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{DOCUMENT_ROOT}/$1.php -f
     RewriteRule ^(.+?)/+$ /$1 [R=301,L]
 
-    # Route /blog/slug to single-blog.php?slug=slug
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule ^blog/([a-z0-9\-]+)/?$ single-blog.php?slug=$1 [L,QSA]
 
     # Route /psychiatrist-near-slug to areas-we-serve/location-psychiatrist-near-slug.php
     RewriteCond %{REQUEST_FILENAME} !-f
@@ -80,6 +79,13 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f
     RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+    # Serve articles from the site root: /<slug> -> single-blog.php?slug=<slug>.
+    # Placed after the page rule above, so a real page always wins a name clash.
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
+    RewriteRule ^([a-z0-9\-]+)$ single-blog.php?slug=$1 [L,QSA]
 
     # Route directory requests to index.php
     DirectoryIndex index.php

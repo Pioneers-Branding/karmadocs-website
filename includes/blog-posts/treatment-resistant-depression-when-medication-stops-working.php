@@ -21,7 +21,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">You&#8217;ve tried antidepressant after antidepressant. You&#8217;ve given each medication the recommended six to eight weeks. You&#8217;ve followed your doctor&#8217;s instructions. And still — the depression remains. If this sounds familiar, you may be dealing with treatment-resistant depression (TRD), a frustrating and often devastating reality for millions of people. But treatment-resistant depression is not the end of the road. This guide explains what happens when antidepressants stop working and what evidence-based options exist beyond conventional medication.</p>
 
-<p class="wp-block-paragraph">If you are struggling with depression that isn&#8217;t responding to treatment, you&#8217;re not alone. TMS Therapy is one powerful option — learn more about <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS Therapy insurance coverage</a> and whether it may be right for you. You may also benefit from understanding <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">how psychiatric treatment works and its real success rates</a>.</p>
+<p class="wp-block-paragraph">If you are struggling with depression that isn&#8217;t responding to treatment, you&#8217;re not alone. TMS Therapy is one powerful option — learn more about <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS Therapy insurance coverage</a> and whether it may be right for you. You may also benefit from understanding <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">how psychiatric treatment works and its real success rates</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Treatment-resistant_depression" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on treatment-resistant depression</a>, the condition is defined as depression that does not respond adequately to at least two adequate trials of antidepressants. It affects approximately 30% of people treated for major depressive disorder.</p>
 
@@ -45,11 +45,11 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">Missed Bipolar Diagnosis</h3>
 
-<p class="wp-block-paragraph">This is critically important: antidepressants can be ineffective or even destabilizing when a person has undiagnosed bipolar disorder rather than unipolar depression. If your depression has been resistant to multiple medications, a re-evaluation for bipolar disorder is essential. Our post on <a href="/blog/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">early warning signs of bipolar disorder</a> can help you understand what to look for.</p>
+<p class="wp-block-paragraph">This is critically important: antidepressants can be ineffective or even destabilizing when a person has undiagnosed bipolar disorder rather than unipolar depression. If your depression has been resistant to multiple medications, a re-evaluation for bipolar disorder is essential. Our post on <a href="/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">early warning signs of bipolar disorder</a> can help you understand what to look for.</p>
 
 <h3 class="wp-block-heading">Chronic Stress and Trauma</h3>
 
-<p class="wp-block-paragraph">Medications alone cannot resolve depression driven primarily by ongoing trauma, adverse social circumstances, or untreated PTSD. Therapy and psychosocial intervention are essential components of comprehensive treatment. The <a href="/blog/the-link-between-trauma-and-depression-understanding-the-connection">link between trauma and depression</a> is well-established and requires integrated treatment.</p>
+<p class="wp-block-paragraph">Medications alone cannot resolve depression driven primarily by ongoing trauma, adverse social circumstances, or untreated PTSD. Therapy and psychosocial intervention are essential components of comprehensive treatment. The <a href="/the-link-between-trauma-and-depression-understanding-the-connection">link between trauma and depression</a> is well-established and requires integrated treatment.</p>
 
 <h2 class="wp-block-heading" id="evidence-based-options">Evidence-Based Options When Medication Stops Working</h2>
 
@@ -73,9 +73,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">TMS is an FDA-cleared, non-invasive neurostimulation treatment that uses magnetic pulses to stimulate underactive regions of the brain associated with mood regulation — primarily the left dorsolateral prefrontal cortex. TMS has a strong evidence base for treatment-resistant depression, with response rates of approximately 50–60% and remission rates of 30–35% in patients who have not responded to antidepressants.</p>
 
-<p class="wp-block-paragraph">Unlike medications, TMS has no systemic side effects and requires no sedation. Treatment is typically administered five days a week for four to six weeks. The <a href="/blog/the-effectiveness-of-tms-on-treatment-resistant-depression">effectiveness of TMS for treatment-resistant depression</a> has been demonstrated across multiple large-scale clinical trials.</p>
+<p class="wp-block-paragraph">Unlike medications, TMS has no systemic side effects and requires no sedation. Treatment is typically administered five days a week for four to six weeks. The <a href="/the-effectiveness-of-tms-on-treatment-resistant-depression">effectiveness of TMS for treatment-resistant depression</a> has been demonstrated across multiple large-scale clinical trials.</p>
 
-<p class="wp-block-paragraph">For those concerned about cost, TMS is covered by many insurance plans for treatment-resistant depression. Review our guide on <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> and our breakdown of <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> for detailed information.</p>
+<p class="wp-block-paragraph">For those concerned about cost, TMS is covered by many insurance plans for treatment-resistant depression. Review our guide on <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> and our breakdown of <a href="/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> for detailed information.</p>
 
 <h3 class="wp-block-heading">3. Ketamine and Esketamine (Spravato)</h3>
 
@@ -93,7 +93,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Evidence-based psychotherapies are essential components of TRD treatment, whether used alone or alongside biological treatments. Cognitive Behavioral Therapy (CBT), particularly in its adapted forms for treatment-resistant presentations, helps restructure the negative thought patterns that perpetuate depression. Other effective modalities include Behavioral Activation, Mindfulness-Based Cognitive Therapy (MBCT), and Acceptance and Commitment Therapy (ACT).</p>
 
-<p class="wp-block-paragraph">Research on <a href="/blog/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today">mindfulness for mental health</a> shows meaningful benefits for depression maintenance and relapse prevention.</p>
+<p class="wp-block-paragraph">Research on <a href="/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today">mindfulness for mental health</a> shows meaningful benefits for depression maintenance and relapse prevention.</p>
 
 <h3 class="wp-block-heading">6. Deep Brain Stimulation and Emerging Therapies</h3>
 
@@ -103,11 +103,11 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">While biological interventions are often necessary in TRD, lifestyle factors play a meaningful supporting role in treatment response. Regular aerobic exercise has demonstrated antidepressant effects comparable to medication in some studies. Sleep hygiene, nutrition, social connection, and stress reduction all influence neurobiological resilience.</p>
 
-<p class="wp-block-paragraph">Emerging research on <a href="/blog/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">the gut-brain axis and mood</a> suggests that microbiome health may influence depression treatment response — a frontier area with increasing clinical relevance.</p>
+<p class="wp-block-paragraph">Emerging research on <a href="/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">the gut-brain axis and mood</a> suggests that microbiome health may influence depression treatment response — a frontier area with increasing clinical relevance.</p>
 
 <h2 class="wp-block-heading" id="can-depression-come-back">Can Depression Come Back After It Responds to Treatment?</h2>
 
-<p class="wp-block-paragraph">Yes — relapse is a significant concern even after successful treatment of TRD. Continuation and maintenance therapy (whether medication, TMS, therapy, or a combination) significantly reduces relapse risk. Understanding the conditions under which <a href="/blog/can-depression-come-back-after-treatment">depression can return after treatment</a> is vital for long-term wellness planning.</p>
+<p class="wp-block-paragraph">Yes — relapse is a significant concern even after successful treatment of TRD. Continuation and maintenance therapy (whether medication, TMS, therapy, or a combination) significantly reduces relapse risk. Understanding the conditions under which <a href="/can-depression-come-back-after-treatment">depression can return after treatment</a> is vital for long-term wellness planning.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions About Treatment-Resistant Depression</h2>
 
@@ -121,10 +121,10 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">Should I see a specialist for treatment-resistant depression?</h3>
 
-<p class="wp-block-paragraph">Yes. If you&#8217;ve tried multiple antidepressants without success, seeing a psychiatrist who specializes in complex mood disorders and has access to advanced treatments like TMS and ketamine is strongly recommended. Our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health care team at KarmaDocs</a> provides comprehensive TRD evaluation and treatment in California.</p>
+<p class="wp-block-paragraph">Yes. If you&#8217;ve tried multiple antidepressants without success, seeing a psychiatrist who specializes in complex mood disorders and has access to advanced treatments like TMS and ketamine is strongly recommended. Our <a href="/mental-health-palm-springs-ca-karmadocs">mental health care team at KarmaDocs</a> provides comprehensive TRD evaluation and treatment in California.</p>
 
 <h2 class="wp-block-heading" id="moving-forward">Moving Forward: You Have More Options Than You Think</h2>
 
 <p class="wp-block-paragraph">Treatment-resistant depression can make you feel like the system has failed you — and that hopelessness itself is a symptom of the illness. But the reality is that the field of psychiatry has advanced dramatically, and the options available today far exceed what was possible even a decade ago. With the right specialist, the right workup, and a willingness to explore beyond first-line medications, recovery is achievable.</p>
 
-<p class="wp-block-paragraph">If you&#8217;re struggling with depression that hasn&#8217;t responded to treatment, <a href="/blog/mental-health-palm-springs-ca-karmadocs">reach out to the KarmaDocs team</a> to discuss a comprehensive evaluation and personalized treatment plan.</p>';
+<p class="wp-block-paragraph">If you&#8217;re struggling with depression that hasn&#8217;t responded to treatment, <a href="/mental-health-palm-springs-ca-karmadocs">reach out to the KarmaDocs team</a> to discuss a comprehensive evaluation and personalized treatment plan.</p>';

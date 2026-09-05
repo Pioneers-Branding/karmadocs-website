@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Learn about related mental health topics: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and understand <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of anxiety therapy</a>.</p>
+<p class="wp-block-paragraph">Learn about related mental health topics: explore <a href="/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and understand <a href="/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of anxiety therapy</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Depression_(mood)" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on depression</a>, it is one of the most common mental health conditions worldwide — affecting hundreds of millions of people and representing a leading cause of disability globally.</p>
 
@@ -23,7 +23,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<span style="font-weight: 400;">Trauma takes many forms. It may look like childhood abuse from a guardian or a single frightening event like a car accident. Survivors of natural disasters</span><i><span style="font-weight: 400;"> – like hurricanes and earthquakes –</span></i><span style="font-weight: 400;"> may feel traumatized. And </span><a href="/blog/the-unique-challenges-vets-face-and-5-ways-to-support-the-vets-in-your-life"><span style="font-weight: 400;">veterans</span></a><span style="font-weight: 400;"> often come home with intense memories of combat that make it hard to re-integrate into normal life. </span><b>The roots of trauma may be different, but these events </b><b><i>all make lasting impressions</i></b><b> on us. </b>
+<span style="font-weight: 400;">Trauma takes many forms. It may look like childhood abuse from a guardian or a single frightening event like a car accident. Survivors of natural disasters</span><i><span style="font-weight: 400;"> – like hurricanes and earthquakes –</span></i><span style="font-weight: 400;"> may feel traumatized. And </span><a href="/the-unique-challenges-vets-face-and-5-ways-to-support-the-vets-in-your-life"><span style="font-weight: 400;">veterans</span></a><span style="font-weight: 400;"> often come home with intense memories of combat that make it hard to re-integrate into normal life. </span><b>The roots of trauma may be different, but these events </b><b><i>all make lasting impressions</i></b><b> on us. </b>
 
 &nbsp;
 
@@ -62,7 +62,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 &nbsp;
 
-<b>Neurologically, trauma early in life has a direct impact on the developing brain. </b><span style="font-weight: 400;">Traumatic experiences are associated with changes in brain regions involved in emotional regulation.</span><span style="font-weight: 400;"> And these changes can lead to </span><i><span style="font-weight: 400;">overactive stress responses</span></i><span style="font-weight: 400;"> in kids and adults. Being emotionally dysregulated isn’t just associated with </span><a href="/blog/understanding-your-options-for-atypical-depression-treatment"><span style="font-weight: 400;">depression</span></a><span style="font-weight: 400;"> but also with other mood disorders, anxiety, and more.</span><span style="font-weight: 400;"> </span>
+<b>Neurologically, trauma early in life has a direct impact on the developing brain. </b><span style="font-weight: 400;">Traumatic experiences are associated with changes in brain regions involved in emotional regulation.</span><span style="font-weight: 400;"> And these changes can lead to </span><i><span style="font-weight: 400;">overactive stress responses</span></i><span style="font-weight: 400;"> in kids and adults. Being emotionally dysregulated isn’t just associated with </span><a href="/understanding-your-options-for-atypical-depression-treatment"><span style="font-weight: 400;">depression</span></a><span style="font-weight: 400;"> but also with other mood disorders, anxiety, and more.</span><span style="font-weight: 400;"> </span>
 
 &nbsp;
 
@@ -129,7 +129,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <b></b>
 <b></b>
 <ul>
- 	<li aria-level="1"><b>Use relaxation techniques when your thoughts overwhelm you.</b><span style="font-weight: 400;"> Meditation is a great way to give your brain a reset. </span><a href="/blog/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today"><span style="font-weight: 400;">Mindfulness strategies</span></a><span style="font-weight: 400;"> include deep breathing, guided meditation, yoga, and more. </span></li>
+ 	<li aria-level="1"><b>Use relaxation techniques when your thoughts overwhelm you.</b><span style="font-weight: 400;"> Meditation is a great way to give your brain a reset. </span><a href="/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today"><span style="font-weight: 400;">Mindfulness strategies</span></a><span style="font-weight: 400;"> include deep breathing, guided meditation, yoga, and more. </span></li>
 </ul>
 <b></b>
 <b></b>

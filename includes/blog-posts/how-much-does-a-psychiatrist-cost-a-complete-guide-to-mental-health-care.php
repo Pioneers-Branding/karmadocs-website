@@ -39,7 +39,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h1 class="wp-block-heading"></h1>
 
-<p class="wp-block-paragraph">Understanding psychiatrist costs helps you plan for care. Learn more about finding the <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">best psychiatrist in California</a> for your needs. If you&#8217;re exploring TMS Therapy, read about <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> and <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a>.</p>
+<p class="wp-block-paragraph">Understanding psychiatrist costs helps you plan for care. Learn more about finding the <a href="/best-psychiatrist-california-how-to-find-expert-mental-health-care">best psychiatrist in California</a> for your needs. If you&#8217;re exploring TMS Therapy, read about <a href="/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">TMS cost without insurance</a> and <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, psychiatrists are medical doctors who specialize in diagnosing, treating, and preventing mental disorders — and are the only mental health professionals who can prescribe medications in most jurisdictions.</p>
 

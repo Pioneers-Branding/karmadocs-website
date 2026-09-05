@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Anxiety disorders are highly treatable. Explore <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of anxiety therapy</a> and learn about the <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety</a> that many people don&#8217;t recognize.</p>
+<p class="wp-block-paragraph">Anxiety disorders are highly treatable. Explore <a href="/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of anxiety therapy</a> and learn about the <a href="/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety</a> that many people don&#8217;t recognize.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these are a group of mental illnesses characterized by significant and uncontrollable feelings of anxiety and fear — affecting approximately 1 in 4 people at some point in their lives.</p>
 

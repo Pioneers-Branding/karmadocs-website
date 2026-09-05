@@ -21,7 +21,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">When people think about anxiety, they tend to picture racing thoughts, worrying, or panic attacks. But anxiety is as much a physical condition as it is a mental one — and many of its most disruptive symptoms are felt in the body, not the mind. If you&#8217;ve been experiencing unexplained physical complaints that haven&#8217;t been fully explained by a medical evaluation, anxiety may be the underlying cause. This guide covers the physical symptoms of anxiety that most people don&#8217;t recognize, explaining the science behind why they occur and what you can do about them.</p>
 
-<p class="wp-block-paragraph">Anxiety disorders are among the most common mental health conditions. Learn more about <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of therapy for anxiety</a> and how professional treatment can help you manage both emotional and physical symptoms effectively.</p>
+<p class="wp-block-paragraph">Anxiety disorders are among the most common mental health conditions. Learn more about <a href="/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">the benefits of therapy for anxiety</a> and how professional treatment can help you manage both emotional and physical symptoms effectively.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s overview of anxiety</a>, the condition encompasses a range of disorders including generalized anxiety disorder (GAD), panic disorder, and social anxiety disorder — all of which can produce significant physical symptoms throughout the body.</p>
 
@@ -43,7 +43,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">The gut is often called the &#8220;second brain&#8221; because it contains more than 100 million nerve cells and is in constant bidirectional communication with the brain via the vagus nerve and the gut-brain axis. Anxiety powerfully affects gastrointestinal function, leading to symptoms such as nausea, stomach cramps, diarrhea, constipation, bloating, and acid reflux.</p>
 
-<p class="wp-block-paragraph">Irritable Bowel Syndrome (IBS) and anxiety frequently co-occur — research suggests that up to 60% of IBS patients have a comorbid anxiety or mood disorder. The <a href="/blog/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">relationship between the gut-brain axis and mood</a> is bidirectional: anxiety worsens gut symptoms, and gut dysregulation worsens anxiety.</p>
+<p class="wp-block-paragraph">Irritable Bowel Syndrome (IBS) and anxiety frequently co-occur — research suggests that up to 60% of IBS patients have a comorbid anxiety or mood disorder. The <a href="/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">relationship between the gut-brain axis and mood</a> is bidirectional: anxiety worsens gut symptoms, and gut dysregulation worsens anxiety.</p>
 
 <h3 class="wp-block-heading">3. Chronic Headaches and Migraines</h3>
 
@@ -127,11 +127,11 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <li><strong>Diaphragmatic breathing and relaxation training</strong> – Directly counteracts hyperventilation-driven symptoms</li>
 </ul>
 
-<p class="wp-block-paragraph">For a comprehensive review of available anxiety treatments, our post on <a href="/blog/what-are-the-best-treatments-for-anxiety">the best treatments for anxiety</a> is a valuable resource. We also explore how professional therapeutic support can transform mental health outcomes in our article on <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a>.</p>
+<p class="wp-block-paragraph">For a comprehensive review of available anxiety treatments, our post on <a href="/what-are-the-best-treatments-for-anxiety">the best treatments for anxiety</a> is a valuable resource. We also explore how professional therapeutic support can transform mental health outcomes in our article on <a href="/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">benefits of therapy for anxiety</a>.</p>
 
 <h2 class="wp-block-heading" id="is-anxiety-a-disability">Is Anxiety Considered a Disability?</h2>
 
-<p class="wp-block-paragraph">For those whose physical and psychological anxiety symptoms are severe enough to affect work or daily functioning, it may be worth understanding the legal landscape. Our post on <a href="/blog/is-anxiety-a-disability-the-legal-and-medical-truth">whether anxiety qualifies as a disability</a> provides a thorough legal and medical analysis.</p>
+<p class="wp-block-paragraph">For those whose physical and psychological anxiety symptoms are severe enough to affect work or daily functioning, it may be worth understanding the legal landscape. Our post on <a href="/is-anxiety-a-disability-the-legal-and-medical-truth">whether anxiety qualifies as a disability</a> provides a thorough legal and medical analysis.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>
 
@@ -145,8 +145,8 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading">Should I see a psychiatrist or a specialist for physical anxiety symptoms?</h3>
 
-<p class="wp-block-paragraph">Start with your primary care physician to rule out medical causes. If medical workup is unremarkable and symptoms persist, a psychiatrist is the most appropriate specialist to evaluate for anxiety and coordinate a comprehensive treatment plan. <a href="/blog/understanding-your-mental-health-the-vital-role-of-psychiatrists">The vital role psychiatrists play</a> in evaluating complex presentations like these is well-established.</p>
+<p class="wp-block-paragraph">Start with your primary care physician to rule out medical causes. If medical workup is unremarkable and symptoms persist, a psychiatrist is the most appropriate specialist to evaluate for anxiety and coordinate a comprehensive treatment plan. <a href="/understanding-your-mental-health-the-vital-role-of-psychiatrists">The vital role psychiatrists play</a> in evaluating complex presentations like these is well-established.</p>
 
 <h2 class="wp-block-heading" id="take-action">Take Action: Don&#8217;t Suffer Through Physical Anxiety Symptoms Alone</h2>
 
-<p class="wp-block-paragraph">Anxiety&#8217;s physical symptoms are real, disabling, and treatable. If you recognize yourself in this article, the most important step you can take is to seek a professional evaluation. The psychiatrists at KarmaDocs specialize in anxiety and its complex presentations, and we&#8217;re here to help you find relief. <a href="/blog/mental-health-palm-springs-ca-karmadocs">Contact our team today</a> to schedule a comprehensive evaluation.</p>';
+<p class="wp-block-paragraph">Anxiety&#8217;s physical symptoms are real, disabling, and treatable. If you recognize yourself in this article, the most important step you can take is to seek a professional evaluation. The psychiatrists at KarmaDocs specialize in anxiety and its complex presentations, and we&#8217;re here to help you find relief. <a href="/mental-health-palm-springs-ca-karmadocs">Contact our team today</a> to schedule a comprehensive evaluation.</p>';

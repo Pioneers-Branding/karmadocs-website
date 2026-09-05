@@ -16,7 +16,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">The connection between gut health and mental wellbeing is growing in scientific recognition. Read our related article on <a href="/blog/how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns">how to better your nutrition for mental wellness</a>. Our <a href="/blog/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> integrates holistic approaches for comprehensive care.</p>
+<p class="wp-block-paragraph">The connection between gut health and mental wellbeing is growing in scientific recognition. Read our related article on <a href="/how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns">how to better your nutrition for mental wellness</a>. Our <a href="/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> integrates holistic approaches for comprehensive care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Gut%E2%80%93brain_axis" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on the gut-brain axis</a>, this bidirectional communication network between the central nervous system and the enteric nervous system of the gastrointestinal tract is now understood to significantly influence mood, cognition, and mental health.</p>
 

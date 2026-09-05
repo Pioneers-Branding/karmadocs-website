@@ -13,9 +13,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Depression is one of the most common mental health conditions that affects how people think, feel, and function in daily life. With proper therapy, medication, and lifestyle changes, many people recover fully from depression and return to leading happy, fulfilling lives. However, a common concern among patients and their families is: <strong>“<a href="/blog/can-depression-come-back-after-treatment" title="">Can depression come back after treatment</a>?”</strong></p>
+<p class="wp-block-paragraph">Depression is one of the most common mental health conditions that affects how people think, feel, and function in daily life. With proper therapy, medication, and lifestyle changes, many people recover fully from depression and return to leading happy, fulfilling lives. However, a common concern among patients and their families is: <strong>“<a href="/can-depression-come-back-after-treatment" title="">Can depression come back after treatment</a>?”</strong></p>
 
-<p class="wp-block-paragraph">Related topics: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and learn about <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore <a href="/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and learn about <a href="/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, accurate diagnosis and an individualized treatment plan — including medication, psychotherapy, and lifestyle management — are the cornerstones of long-term stability for people living with bipolar disorder.</p>
 
@@ -43,7 +43,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>Can Depression Come Back After Treatment?</strong></h3>
 
-<p class="wp-block-paragraph">Yes, <strong><a href="/blog/can-depression-come-back-after-treatment" title="">depression can come back after treatment</a></strong>, even if the person had completely recovered. Studies show that around 50% of people who experience one episode of depression are likely to have another one in the future. For those with multiple past episodes, the risk of recurrence increases further.</p>
+<p class="wp-block-paragraph">Yes, <strong><a href="/can-depression-come-back-after-treatment" title="">depression can come back after treatment</a></strong>, even if the person had completely recovered. Studies show that around 50% of people who experience one episode of depression are likely to have another one in the future. For those with multiple past episodes, the risk of recurrence increases further.</p>
 
 <p class="wp-block-paragraph">It’s important to note that a relapse is not a failure. Depression is a medical condition that can return due to biological, psychological, or social triggers. Recognizing the early warning signs and acting quickly can help prevent a full-blown depressive episode.</p>
 
@@ -73,7 +73,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h3 class="wp-block-heading"><strong>What Increases the Risk of Recurrence?</strong></h3>
 
-<p class="wp-block-paragraph">Certain factors make it more likely that <strong><a href="/blog/can-depression-come-back-after-treatment" title="">depression will come back</a></strong>:</p>
+<p class="wp-block-paragraph">Certain factors make it more likely that <strong><a href="/can-depression-come-back-after-treatment" title="">depression will come back</a></strong>:</p>
 
 <ul class="wp-block-list">
 <li>History of multiple depressive episodes<br></li>

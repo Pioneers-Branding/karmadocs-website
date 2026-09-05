@@ -17,7 +17,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related mental health topics: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and read about <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
+<p class="wp-block-paragraph">Explore related mental health topics: learn about <a href="/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs, CA</a> and read about <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s overview of mental health</a>, access to quality mental healthcare significantly improves quality of life — and is a growing global public health priority.</p>
 

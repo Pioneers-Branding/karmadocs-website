@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Learn more about mental health treatment options: explore <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> and understand the <a href="/blog/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">cost of TMS without insurance</a>.</p>
+<p class="wp-block-paragraph">Learn more about mental health treatment options: explore <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> and understand the <a href="/tms-cost-without-insurance-what-you-need-to-know-before-starting-treatment">cost of TMS without insurance</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on TMS</a>, transcranial magnetic stimulation uses non-invasive magnetic pulses to stimulate nerve cells in the brain — and has demonstrated effectiveness in treating major depressive disorder with a favorable side-effect profile.</p>
 

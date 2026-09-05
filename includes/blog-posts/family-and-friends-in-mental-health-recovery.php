@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: learn about <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a> and explore <a href="/blog/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
+<p class="wp-block-paragraph">Related topics: learn about <a href="/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a> and explore <a href="/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on ADHD</a>, the disorder is highly comorbid with other mental health conditions — including depression, anxiety, and bipolar disorder — making comprehensive evaluation particularly important for accurate diagnosis.</p>
 
@@ -24,7 +24,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p style="text-align: left;"><span style="font-weight: 400;">It&#8217;s about reclaiming one&#8217;s sense of self and rebuilding a fulfilling life despite mental health challenges.</span></p>
 
 <h2 id="what-encompasses-mental-health-support-network"><strong>What Encompasses Mental Health Support Network ?</strong></h2>
-<p style="text-align: left;"><span style="font-weight: 400;">A </span><a href="/blog/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today"><b>mental health support network</b></a><span style="font-weight: 400;"> encompasses individuals who provide emotional, practical, and sometimes financial support to someone experiencing mental health challenges. The network consists of people closely associated with the person &#8211; family members, close friends, support groups, therapists, and healthcare professionals. Among these, family and friends hold a unique position due to their proximity, familiarity, and emotional bond with the individual.</span></p>
+<p style="text-align: left;"><span style="font-weight: 400;">A </span><a href="/the-research-behind-mindfulness-for-mental-health-and-easy-ways-to-get-started-today"><b>mental health support network</b></a><span style="font-weight: 400;"> encompasses individuals who provide emotional, practical, and sometimes financial support to someone experiencing mental health challenges. The network consists of people closely associated with the person &#8211; family members, close friends, support groups, therapists, and healthcare professionals. Among these, family and friends hold a unique position due to their proximity, familiarity, and emotional bond with the individual.</span></p>
 
 <h3 style="text-align: left;"><strong>The Backbone of Mental Wellness Support </strong></h3>
 <p style="text-align: left;"><span style="font-weight: 400;">Family dynamics significantly influence an individual&#8217;s mental health. </span></p>

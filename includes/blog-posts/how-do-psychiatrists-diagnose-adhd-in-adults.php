@@ -24,7 +24,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">If you&#8217;ve been struggling with focus, organization, or impulsivity as an adult, you may be wondering whether ADHD is to blame. The question &#8220;how do psychiatrists diagnose ADHD in adults?&#8221; is one of the most common inquiries we receive at KarmaDocs. Adult ADHD is significantly underdiagnosed, and the diagnostic process is more nuanced than many people expect. This comprehensive guide walks you through exactly what to expect.</p>
 
-<p class="wp-block-paragraph">If you&#8217;re seeking professional evaluation, learn about <a href="/blog/adhd-online-doctors">ADHD online doctors</a> and how you can get expert ADHD care from home. You should also read about <a href="/blog/does-adhd-get-worse-without-treatment-long-term-effects">what happens when ADHD goes untreated long-term</a>.</p>
+<p class="wp-block-paragraph">If you&#8217;re seeking professional evaluation, learn about <a href="/adhd-online-doctors">ADHD online doctors</a> and how you can get expert ADHD care from home. You should also read about <a href="/does-adhd-get-worse-without-treatment-long-term-effects">what happens when ADHD goes untreated long-term</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on ADHD</a>, attention deficit hyperactivity disorder is a neurodevelopmental disorder that affects approximately 5–7% of children and 2–5% of adults worldwide, with symptoms that persist into adulthood in the majority of cases.</p>
 
@@ -38,7 +38,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Many adults with ADHD were not diagnosed as children, especially women, who historically were underidentified because their ADHD symptoms tended to be more internalizing (daydreaming, emotional dysregulation) than the classic hyperactive profile. By the time adulthood arrives, people have often developed coping mechanisms that partially mask their symptoms, making diagnosis harder.</p>
 
-<p class="wp-block-paragraph">Additionally, symptoms of ADHD frequently overlap with anxiety, depression, and bipolar disorder — which can lead to misdiagnosis. If you&#8217;re wondering whether your struggles might have a different root, our post on <a href="/blog/unraveling-the-link-adhd-and-depression-comorbidity">ADHD and depression comorbidity</a> explores how these conditions interact.</p>
+<p class="wp-block-paragraph">Additionally, symptoms of ADHD frequently overlap with anxiety, depression, and bipolar disorder — which can lead to misdiagnosis. If you&#8217;re wondering whether your struggles might have a different root, our post on <a href="/unraveling-the-link-adhd-and-depression-comorbidity">ADHD and depression comorbidity</a> explores how these conditions interact.</p>
 
 <h2 class="wp-block-heading" id="adhd-diagnostic-process">The ADHD Diagnostic Process: Step by Step</h2>
 
@@ -142,19 +142,19 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Once your psychiatrist confirms an ADHD diagnosis, they will work with you to develop a personalized treatment plan. For most adults, this includes a combination of medication management and behavioral strategies.</p>
 
-<p class="wp-block-paragraph">Stimulant medications (amphetamines and methylphenidate) are first-line pharmacological treatments and are effective in approximately 70–80% of adults with ADHD. Non-stimulant options such as atomoxetine and bupropion are alternatives for those with contraindications to stimulants or co-occurring conditions. To understand what ADHD treatment looks like in practice, see our guide on <a href="/blog/how-does-adhd-treatment-work">how ADHD treatment works</a>.</p>
+<p class="wp-block-paragraph">Stimulant medications (amphetamines and methylphenidate) are first-line pharmacological treatments and are effective in approximately 70–80% of adults with ADHD. Non-stimulant options such as atomoxetine and bupropion are alternatives for those with contraindications to stimulants or co-occurring conditions. To understand what ADHD treatment looks like in practice, see our guide on <a href="/how-does-adhd-treatment-work">how ADHD treatment works</a>.</p>
 
-<p class="wp-block-paragraph">Behavioral interventions — particularly cognitive behavioral therapy (CBT) adapted for ADHD — address organizational skills, time management, and emotional regulation. Online ADHD care has also made treatment more accessible than ever; learn more about <a href="/blog/adhd-online-doctors">ADHD online doctors</a> and whether remote care is right for you.</p>
+<p class="wp-block-paragraph">Behavioral interventions — particularly cognitive behavioral therapy (CBT) adapted for ADHD — address organizational skills, time management, and emotional regulation. Online ADHD care has also made treatment more accessible than ever; learn more about <a href="/adhd-online-doctors">ADHD online doctors</a> and whether remote care is right for you.</p>
 
 <h2 class="wp-block-heading" id="can-adhd-go-untreated">Can ADHD Go Untreated in Adults?</h2>
 
-<p class="wp-block-paragraph">The consequences of untreated ADHD are significant. Research consistently shows that adults with untreated ADHD experience higher rates of job instability, relationship difficulties, substance use disorders, and comorbid depression and anxiety. Our in-depth post on <a href="/blog/does-adhd-get-worse-without-treatment-long-term-effects">whether ADHD gets worse without treatment</a> examines the long-term effects in detail.</p>
+<p class="wp-block-paragraph">The consequences of untreated ADHD are significant. Research consistently shows that adults with untreated ADHD experience higher rates of job instability, relationship difficulties, substance use disorders, and comorbid depression and anxiety. Our in-depth post on <a href="/does-adhd-get-worse-without-treatment-long-term-effects">whether ADHD gets worse without treatment</a> examines the long-term effects in detail.</p>
 
 <h2 class="wp-block-heading" id="adhd-evaluation-california">How to Get an ADHD Evaluation in California</h2>
 
-<p class="wp-block-paragraph">If you&#8217;re located in California and suspect you have ADHD, board-certified psychiatrists at KarmaDocs provide comprehensive ADHD evaluations, including clinical interviews, standardized testing, and individualized treatment planning. Our <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">California psychiatry services</a> are designed to make expert mental health care accessible, whether in-person in the Palm Springs area or via telehealth.</p>
+<p class="wp-block-paragraph">If you&#8217;re located in California and suspect you have ADHD, board-certified psychiatrists at KarmaDocs provide comprehensive ADHD evaluations, including clinical interviews, standardized testing, and individualized treatment planning. Our <a href="/best-psychiatrist-california-how-to-find-expert-mental-health-care">California psychiatry services</a> are designed to make expert mental health care accessible, whether in-person in the Palm Springs area or via telehealth.</p>
 
-<p class="wp-block-paragraph">Understanding the cost of professional psychiatric evaluation is also an important consideration. Read our <a href="/blog/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">complete guide to psychiatrist costs</a> to understand what to expect financially.</p>
+<p class="wp-block-paragraph">Understanding the cost of professional psychiatric evaluation is also an important consideration. Read our <a href="/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">complete guide to psychiatrist costs</a> to understand what to expect financially.</p>
 
 <h2 class="wp-block-heading" id="frequently-asked-questions">Frequently Asked Questions</h2>
 
@@ -172,4 +172,4 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="take-the-next-step">Take the Next Step</h2>
 
-<p class="wp-block-paragraph">If you recognize yourself in these descriptions, a professional evaluation is the only way to know for certain whether ADHD is at the root of your challenges. The psychiatrists at KarmaDocs are experienced in adult ADHD diagnosis and treatment, using evidence-based protocols to help you get the clarity and care you deserve. <a href="/blog/mental-health-palm-springs-ca-karmadocs">Contact our mental health team</a> today to schedule your evaluation.</p>';
+<p class="wp-block-paragraph">If you recognize yourself in these descriptions, a professional evaluation is the only way to know for certain whether ADHD is at the root of your challenges. The psychiatrists at KarmaDocs are experienced in adult ADHD diagnosis and treatment, using evidence-based protocols to help you get the clarity and care you deserve. <a href="/mental-health-palm-springs-ca-karmadocs">Contact our mental health team</a> today to schedule your evaluation.</p>';

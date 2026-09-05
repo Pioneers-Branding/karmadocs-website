@@ -22,7 +22,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Military members must endure significant physical, emotional, and psychological stress in an infinite number of scenarios, from combat operations to readjusting to civilian lifestyles.</p>
 
-<p class="wp-block-paragraph">Explore related resources: understand <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and learn about <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> for advanced treatment options.</p>
+<p class="wp-block-paragraph">Explore related resources: understand <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and learn about <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy insurance coverage</a> for advanced treatment options.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, depression is a leading cause of disability worldwide — but responds well to a range of evidence-based treatments when properly diagnosed and managed.</p>
 
@@ -127,9 +127,9 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p class="wp-block-paragraph"><strong>Also, read these blogs:</strong></p>
 
 <ul class="wp-block-list">
-<li><a href="/blog/how-tms-is-helping-veterans-address-mental-health-challenges" title="How TMS Is Helping Veterans Address Mental Health Challenges">How TMS Is Helping Veterans Address Mental Health Challenges</a></li>
+<li><a href="/how-tms-is-helping-veterans-address-mental-health-challenges" title="How TMS Is Helping Veterans Address Mental Health Challenges">How TMS Is Helping Veterans Address Mental Health Challenges</a></li>
 
-<li><a href="/blog/how-tms-helps-military-members-dependents" title="How TMS Helps Military Members &amp; Dependents?">How TMS Helps Military Members &amp; Dependents</a></li>
+<li><a href="/how-tms-helps-military-members-dependents" title="How TMS Helps Military Members &amp; Dependents?">How TMS Helps Military Members &amp; Dependents</a></li>
 </ul>
 
 <h2 class="wp-block-heading" id="faqs-on-tms-for-military-personnel" id="aioseo-faqs-on-tms-for-military-personnel">FAQs on TMS for Military Personnel</h2>

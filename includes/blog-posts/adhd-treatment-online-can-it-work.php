@@ -16,7 +16,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related topics on mental health care: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs</a> and understand <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
+<p class="wp-block-paragraph">Explore related topics on mental health care: learn about <a href="/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs</a> and understand <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">the evidence behind psychiatric treatment</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mental_health" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mental health</a>, mental health encompasses a person&#8217;s emotional, psychological, and social well-being — and access to quality care can significantly improve outcomes across all demographics.</p>
 

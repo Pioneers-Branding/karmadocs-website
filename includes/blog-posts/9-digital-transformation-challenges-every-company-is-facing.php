@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Digital transformation challenges affect organizations in all sectors. For healthcare organizations, managing mental health services digitally is crucial — learn about <a href="/blog/adhd-online-doctors">ADHD online doctor services</a> as an example of digital transformation in mental health care.</p>
+<p class="wp-block-paragraph">Digital transformation challenges affect organizations in all sectors. For healthcare organizations, managing mental health services digitally is crucial — learn about <a href="/adhd-online-doctors">ADHD online doctor services</a> as an example of digital transformation in mental health care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Digital_transformation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on digital transformation</a>, the process involves adopting digital technology throughout an organization — changing how it operates, delivers value, and interacts with customers.</p>
 

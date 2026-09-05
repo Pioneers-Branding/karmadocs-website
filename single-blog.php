@@ -107,7 +107,7 @@ require_once __DIR__ . '/includes/header.php';
                 </h2>
                 <div class="grid gap-6 md:grid-cols-3">
                     <?php foreach ($related as $rel): ?>
-                        <a href="<?php echo url('blog/' . $rel['slug']); ?>"
+                        <a href="<?php echo url($rel['slug']); ?>"
                            class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-shadow border border-gray-100 flex flex-col">
                             <div class="h-40 overflow-hidden">
                                 <img src="<?php echo url($rel['image']); ?>" alt="<?php echo htmlspecialchars($rel['title']); ?>"

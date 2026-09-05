@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related topics: explore our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">finding the best psychiatrist in California</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore our <a href="/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs</a> and learn about <a href="/best-psychiatrist-california-how-to-find-expert-mental-health-care">finding the best psychiatrist in California</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, treatment typically involves a combination of antidepressant medication and psychotherapy — with response rates significantly improving when both approaches are used together.</p>
 

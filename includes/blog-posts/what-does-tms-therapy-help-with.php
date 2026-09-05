@@ -318,7 +318,7 @@ return '<p class="wp-block-paragraph">For many people living with mental health 
 </div>
 </div>
 <div id="faq-question-1781359798528" class="rank-math-list-item">
-<h3 class="rank-math-question ">8. <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">Is TMS covered by insurance</a>?</h3>
+<h3 class="rank-math-question ">8. <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">Is TMS covered by insurance</a>?</h3>
 <div class="rank-math-answer ">
 
 <p>Many insurance providers offer coverage for eligible patients. Coverage depends on individual plans and medical necessity requirements.</p>

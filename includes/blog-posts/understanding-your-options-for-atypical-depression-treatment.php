@@ -19,7 +19,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">TMS therapy offers hope for conditions beyond depression. For patients with treatment-resistant conditions, read about <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage</a> and explore our guide on <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
+<p class="wp-block-paragraph">TMS therapy offers hope for conditions beyond depression. For patients with treatment-resistant conditions, read about <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage</a> and explore our guide on <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on transcranial magnetic stimulation</a>, TMS is a safe, non-invasive procedure that uses magnetic fields to stimulate specific areas of the brain — with FDA-cleared applications for depression, OCD, and now smoking cessation.</p>
 

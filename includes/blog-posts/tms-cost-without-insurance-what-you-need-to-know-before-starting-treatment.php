@@ -43,7 +43,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph"><strong>If you’re exploring Transcranial Magnetic Stimulation (TMS) therapy, one of the first questions that comes to mind is, “How much does it cost?”</strong><strong><br></strong>The <em>TMS cost without insurance</em> can vary depending on your provider, location, and number of sessions required. Typically, TMS therapy can range from <strong>$300 to $500 per session</strong>, with full treatment programs totaling <strong>$6,000 to $12,000</strong>.</p>
 
-<p class="wp-block-paragraph">If insurance doesn&#8217;t cover TMS, learn about <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a> and how to appeal a denial. For depression that has not responded to medication, explore our guide on <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
+<p class="wp-block-paragraph">If insurance doesn&#8217;t cover TMS, learn about <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS insurance coverage options</a> and how to appeal a denial. For depression that has not responded to medication, explore our guide on <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Transcranial_magnetic_stimulation" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on transcranial magnetic stimulation</a>, a full course of TMS therapy typically involves 20–30 sessions administered over 4–6 weeks — making the total cost an important planning consideration for patients.</p>
 

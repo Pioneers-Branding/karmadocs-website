@@ -31,9 +31,9 @@ return '<p class="wp-block-paragraph">If you or a loved one has been struggling 
 
 <h1 class="wp-block-heading">Who Qualifies for Medicare Coverage for TMS Therapy?</h1>
 
-<p class="wp-block-paragraph">While the answer to does Medicare cover <a href="/blog/what-are-tms-treatments">TMS therapy</a> is generally yes, not everyone automatically qualifies.</p>
+<p class="wp-block-paragraph">While the answer to does Medicare cover <a href="/what-are-tms-treatments">TMS therapy</a> is generally yes, not everyone automatically qualifies.</p>
 
-<p class="wp-block-paragraph">Most Medicare plans require patients to meet several medical criteria before approving treatment. Patients who have not improved sufficiently with traditional treatments may have <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>, a condition that can require alternative approaches such as TMS therapy.</p>
+<p class="wp-block-paragraph">Most Medicare plans require patients to meet several medical criteria before approving treatment. Patients who have not improved sufficiently with traditional treatments may have <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>, a condition that can require alternative approaches such as TMS therapy.</p>
 
 <p class="wp-block-paragraph">Common eligibility requirements include:</p>
 
@@ -73,7 +73,7 @@ return '<p class="wp-block-paragraph">If you or a loved one has been struggling 
 
 <p class="wp-block-paragraph">Patients are usually responsible for any deductible or coinsurance that applies under their Medicare plan unless they have supplemental insurance.</p>
 
-<p class="wp-block-paragraph">Because insurance policies can differ, it may also help to understand <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">whether insurance covers TMS therapy</a> and what factors can affect coverage, authorization, and out-of-pocket costs.</p>
+<p class="wp-block-paragraph">Because insurance policies can differ, it may also help to understand <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">whether insurance covers TMS therapy</a> and what factors can affect coverage, authorization, and out-of-pocket costs.</p>
 
 <h1 class="wp-block-heading">What Conditions Does Medicare Cover TMS Therapy For?</h1>
 
@@ -107,7 +107,7 @@ return '<p class="wp-block-paragraph">If you or a loved one has been struggling 
 
 <p class="wp-block-paragraph">Most patients receive a complete course of treatment rather than just a few sessions.</p>
 
-<p class="wp-block-paragraph">The number of sessions can vary depending on the individual&#8217;s condition, treatment response, and clinical plan. You can learn more about <a href="/blog/how-many-tms-sessions-do-you-need">how many TMS sessions you need</a> and what a typical course of treatment may involve.</p>
+<p class="wp-block-paragraph">The number of sessions can vary depending on the individual&#8217;s condition, treatment response, and clinical plan. You can learn more about <a href="/how-many-tms-sessions-do-you-need">how many TMS sessions you need</a> and what a typical course of treatment may involve.</p>
 
 <ul class="wp-block-list">
 <li>Five sessions per week</li>
@@ -123,7 +123,7 @@ return '<p class="wp-block-paragraph">If you or a loved one has been struggling 
 
 <h1 class="wp-block-heading">How Much Does TMS Therapy Cost with Medicare?</h1>
 
-<p class="wp-block-paragraph">Without insurance, a full course of TMS therapy can cost several thousand dollars. If you are considering treatment without insurance coverage, understanding the <a href="/blog/the-cost-of-tms-without-insurance-your-complete-guide">cost of TMS without insurance</a> can help you plan for potential out-of-pocket expenses.</p>
+<p class="wp-block-paragraph">Without insurance, a full course of TMS therapy can cost several thousand dollars. If you are considering treatment without insurance coverage, understanding the <a href="/the-cost-of-tms-without-insurance-your-complete-guide">cost of TMS without insurance</a> can help you plan for potential out-of-pocket expenses.</p>
 
 <p class="wp-block-paragraph">If Medicare approves your treatment:</p>
 
@@ -185,7 +185,7 @@ return '<p class="wp-block-paragraph">If you or a loved one has been struggling 
 
 <h1 class="wp-block-heading">What Happens During a TMS Session?</h1>
 
-<p class="wp-block-paragraph">Many first-time patients are surprised by how simple the procedure is. If you are concerned about discomfort during treatment, learning <a href="/blog/does-tms-therapy-hurt?utm_source=chatgpt.com">does TMS therapy hurt</a> can help you better understand what patients may experience during a session.</p>
+<p class="wp-block-paragraph">Many first-time patients are surprised by how simple the procedure is. If you are concerned about discomfort during treatment, learning <a href="/does-tms-therapy-hurt?utm_source=chatgpt.com">does TMS therapy hurt</a> can help you better understand what patients may experience during a session.</p>
 
 <p class="wp-block-paragraph">A typical session includes:</p>
 

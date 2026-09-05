@@ -5,7 +5,7 @@
  */
 return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) therapy has become an important treatment option for people who have not found enough relief from traditional approaches for depression and related mental health conditions. While many patients notice gradual improvement over time, some experience a temporary phase where symptoms seem to worsen. This often leads to concern and confusion, with many people asking is TMS dip normal and whether it is safe to continue treatment.</p>
 
-<p class="wp-block-paragraph">Related reading: learn about <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and explore how <a href="/blog/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy can be covered by insurance</a>.</p>
+<p class="wp-block-paragraph">Related reading: learn about <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a> and explore how <a href="/is-tms-therapy-covered-by-insurance-complete-guide-for">TMS therapy can be covered by insurance</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on major depressive disorder</a>, MDD is a mood disorder that causes persistent feelings of sadness and loss of interest — and is one of the most studied and treatable mental health conditions in the world.</p>
 

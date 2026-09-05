@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Related reading: learn more about <a href="/blog/adhd-online-doctors">ADHD online doctors</a> and how telehealth has made expert care more accessible. Also discover <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>.</p>
+<p class="wp-block-paragraph">Related reading: learn more about <a href="/adhd-online-doctors">ADHD online doctors</a> and how telehealth has made expert care more accessible. Also discover <a href="/how-do-psychiatrists-diagnose-adhd-in-adults">how psychiatrists diagnose ADHD in adults</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, this condition requires accurate diagnosis and ongoing management — making access to qualified psychiatric care essential for anyone experiencing mood disorders.</p>
 

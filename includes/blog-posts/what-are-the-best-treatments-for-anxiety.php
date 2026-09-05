@@ -22,7 +22,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Feeling anxious is a part of life — we all worry about exams, jobs, or relationships sometimes. But when anxiety becomes constant, overwhelming, or affects daily life, it may be a sign of an anxiety disorder. The good news? Anxiety can be treated effectively.</p>
 
-<p class="wp-block-paragraph">Related topics: explore <a href="/blog/best-psychiatrist-california-how-to-find-expert-mental-health-care">how to find the best psychiatrist in California</a> and learn about <a href="/blog/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">the cost of seeing a psychiatrist</a>.</p>
+<p class="wp-block-paragraph">Related topics: explore <a href="/best-psychiatrist-california-how-to-find-expert-mental-health-care">how to find the best psychiatrist in California</a> and learn about <a href="/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">the cost of seeing a psychiatrist</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, board-certified psychiatrists undergo extensive medical training — including medical school, residency, and often fellowship training — making them uniquely qualified to diagnose and treat complex mental health conditions.</p>
 
@@ -90,7 +90,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="the-best-treatments-for-anxiety"><strong>The Best Treatments for Anxiety</strong></h2>
 
-<p class="wp-block-paragraph">There is no single “best” treatment that works for everyone. The right plan depends on the type of anxiety, how severe it is, and your overall health. Let’s explore the <strong><a title="" href="/blog/what-are-the-best-treatments-for-anxiety">best treatments for anxiety</a></strong> that have helped millions of people.</p>
+<p class="wp-block-paragraph">There is no single “best” treatment that works for everyone. The right plan depends on the type of anxiety, how severe it is, and your overall health. Let’s explore the <strong><a title="" href="/what-are-the-best-treatments-for-anxiety">best treatments for anxiety</a></strong> that have helped millions of people.</p>
 
 <h3 class="wp-block-heading"><strong>1. Cognitive Behavioral Therapy (CBT)</strong></h3>
 
@@ -207,7 +207,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <h2 class="wp-block-heading" id="conclusion"><strong>Conclusion</strong></h2>
 
-<p class="wp-block-paragraph">So, <em>what are the best treatments for anxiety?</em> There isn’t a one-size-fits-all answer. The <strong><a title="" href="/blog/what-are-the-best-treatments-for-anxiety">best treatments for anxiety</a></strong> depend on the severity of symptoms, your medical history, and personal preferences. However, most successful approaches combine therapy (like CBT), medication, and self-care practices such as mindfulness, exercise, and balanced living.</p>
+<p class="wp-block-paragraph">So, <em>what are the best treatments for anxiety?</em> There isn’t a one-size-fits-all answer. The <strong><a title="" href="/what-are-the-best-treatments-for-anxiety">best treatments for anxiety</a></strong> depend on the severity of symptoms, your medical history, and personal preferences. However, most successful approaches combine therapy (like CBT), medication, and self-care practices such as mindfulness, exercise, and balanced living.</p>
 
 <p class="wp-block-paragraph">For severe or treatment-resistant anxiety, advanced options like TMS and integrated mental health programs can offer significant improvement. No matter the type or intensity of anxiety, help is available — and recovery is entirely possible with the right guidance, support, and professional care.</p>
 

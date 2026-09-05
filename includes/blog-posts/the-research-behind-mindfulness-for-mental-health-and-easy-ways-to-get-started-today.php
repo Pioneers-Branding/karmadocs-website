@@ -15,7 +15,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Mindfulness is a powerful complement to professional treatment. Explore how <a href="/blog/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">therapy for anxiety</a> works alongside mindfulness, and discover <a href="/blog/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">how the gut-brain connection</a> supports holistic mental wellness.</p>
+<p class="wp-block-paragraph">Mindfulness is a powerful complement to professional treatment. Explore how <a href="/benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health">therapy for anxiety</a> works alongside mindfulness, and discover <a href="/can-the-gut-brain-axis-influence-mood-and-recommendations-for-a-healthy-microbiome">how the gut-brain connection</a> supports holistic mental wellness.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Mindfulness" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on mindfulness</a>, it is the practice of intentionally focusing on the present moment without judgment — and has been shown in numerous clinical studies to reduce anxiety, depression, and stress when practiced regularly.</p>
 

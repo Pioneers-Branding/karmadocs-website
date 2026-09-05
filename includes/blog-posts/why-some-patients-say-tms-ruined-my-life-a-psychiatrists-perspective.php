@@ -27,7 +27,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Search forums, Reddit threads, or patient reviews about Transcranial Magnetic Stimulation (TMS), and you may eventually come across alarming statements like:</p>
 
-<p class="wp-block-paragraph">Learn more about mental health conditions: explore <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and discover our <a href="/blog/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs, CA</a>.</p>
+<p class="wp-block-paragraph">Learn more about mental health conditions: explore <a href="/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and discover our <a href="/mental-health-palm-springs-ca-karmadocs">comprehensive mental health services in Palm Springs, CA</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, the condition affects approximately 1–3% of the global population and requires long-term management — making access to expert psychiatric care a fundamental part of living well with this diagnosis.</p>
 

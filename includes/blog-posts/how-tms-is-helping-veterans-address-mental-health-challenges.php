@@ -23,7 +23,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Veterans commonly experience a number of challenges after leaving active military service, and the transition back to civilian life is not always a smooth one. Many veterans return home with invisible injuries: PTSD, depression, and anxiety, and these challenges can be just as debilitating as physical injuries.</p>
 
-<p class="wp-block-paragraph">Related resources: explore <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and learn about <a href="/blog/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
+<p class="wp-block-paragraph">Related resources: explore <a href="/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and learn about <a href="/treatment-resistant-depression-when-medication-stops-working">treatment-resistant depression</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Major_depressive_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on depression</a>, it is a mood disorder that causes persistent feelings of sadness and hopelessness — but is highly treatable with the right therapeutic approach and professional support.</p>
 
@@ -194,6 +194,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Moving forward with this breakthrough, we cannot only respect and honor veterans with gratitude but also offer them authentic remedies to restore dignity, health, and purpose.</p>
 
-<p class="wp-block-paragraph"><strong>Also, Do Read This:</strong> <a title="How TMS Helps Military Members &amp; Dependents?" href="/blog/how-tms-helps-military-members-dependents">How TMS Helps Military Members &amp; Dependents</a></p>
+<p class="wp-block-paragraph"><strong>Also, Do Read This:</strong> <a title="How TMS Helps Military Members &amp; Dependents?" href="/how-tms-helps-military-members-dependents">How TMS Helps Military Members &amp; Dependents</a></p>
 
 <h2 class="wp-block-heading" id="faqs-about-tms-for-veterans" id="aioseo-faqs-about-tms-for-veterans">FAQs About TMS for Veterans</h2>';

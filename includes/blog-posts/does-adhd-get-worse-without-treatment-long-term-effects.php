@@ -7,7 +7,7 @@ return '<p class="wp-block-paragraph">Does ADHD get worse without treatment is o
 
 <p class="wp-block-paragraph">When left unaddressed, the effects of untreated ADHD can quietly intensify over time, creating deeper challenges in education, work, relationships, and mental health. For individuals exploring <strong><a title="" href="/adhd.php">ADHD treatment in Palm Springs</a>, Karma Doctors &amp; Associates</strong>, understanding what happens when ADHD goes untreated is a crucial first step toward long term stability and growth.</p>
 
-<p class="wp-block-paragraph">Untreated ADHD can have serious long-term consequences. Learn more about <a href="/blog/how-do-psychiatrists-diagnose-adhd-in-adults">how ADHD is diagnosed in adults</a> and explore <a href="/blog/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
+<p class="wp-block-paragraph">Untreated ADHD can have serious long-term consequences. Learn more about <a href="/how-do-psychiatrists-diagnose-adhd-in-adults">how ADHD is diagnosed in adults</a> and explore <a href="/adhd-online-doctors">ADHD online doctor options</a> for convenient access to care.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder" target="_blank" rel="nofollow noopener">Wikipedia&#8217;s article on ADHD</a>, untreated ADHD in adults is associated with higher rates of job loss, relationship difficulties, substance use disorders, and accidents, underscoring the importance of proper diagnosis and treatment.</p>
 

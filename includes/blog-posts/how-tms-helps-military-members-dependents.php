@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related topics: learn about <a href="/blog/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and understand <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">the physical symptoms of anxiety</a>.</p>
+<p class="wp-block-paragraph">Explore related topics: learn about <a href="/mental-health-palm-springs-ca-karmadocs">our mental health services in Palm Springs</a> and understand <a href="/physical-symptoms-of-anxiety-most-people-dont-recognize">the physical symptoms of anxiety</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety</a>, it is one of the most prevalent mental health challenges — affecting people of all ages and backgrounds, and often presenting with physical symptoms that can be mistaken for other conditions.</p>
 
@@ -82,5 +82,5 @@ Transcranial Magnetic Stimulation (TMS)<span style="font-weight: 400;"> is a non
 <span style="font-weight: 400;">Improvements are often noticeable within 2–4 weeks, though full benefits usually appear after completing the treatment course.</span>
 <h4><b>4. Is TMS safe for someone already on medications?</b></h4>
 <span style="font-weight: 400;">Yes, TMS can be used alongside medications and therapy, or as a standalone treatment for those who prefer a drug-free option.</span>
-<h4><b>5.<a href="/blog/how-long-does-tms-therapy-last"> How long do the effects of TMS last</a>?</b></h4>
+<h4><b>5.<a href="/how-long-does-tms-therapy-last"> How long do the effects of TMS last</a>?</b></h4>
 <span style="font-weight: 400;">Many patients experience long-lasting relief. Some may need occasional maintenance sessions, depending on the severity of their condition.</span>';

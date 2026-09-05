@@ -13,7 +13,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 </div></div>
 
-<p class="wp-block-paragraph">Explore related topics: discover <a href="/blog/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and learn <a href="/blog/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">the early warning signs of bipolar disorder</a>.</p>
+<p class="wp-block-paragraph">Explore related topics: discover <a href="/bipolar-disorder-vs-mood-swings-whats-the-difference">bipolar disorder vs mood swings</a> and learn <a href="/how-do-i-know-if-i-have-bipolar-disorder-early-warning-signs">the early warning signs of bipolar disorder</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Bipolar_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on bipolar disorder</a>, it is characterized by episodes of mania and depression, with significant variation in severity and presentation — making accurate professional diagnosis essential for effective treatment.</p>
 

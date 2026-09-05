@@ -27,7 +27,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">If you’re searching for the <em>best psychiatrist California</em> has to offer, you need a doctor who combines professional expertise, compassion, and a personalized approach. Mental health treatment is not one-size-fits-all — the best psychiatrists in California tailor care to your individual needs, lifestyle, and goals.</p>
 
-<p class="wp-block-paragraph">Finding the right psychiatric care is essential. Learn about <a href="/blog/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">how much a psychiatrist costs</a> and what to budget for care. Also explore <a href="/blog/does-psychiatric-treatment-work-evidence-success-rates-real-results">evidence-based evidence on whether psychiatric treatment really works</a>.</p>
+<p class="wp-block-paragraph">Finding the right psychiatric care is essential. Learn about <a href="/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">how much a psychiatrist costs</a> and what to budget for care. Also explore <a href="/does-psychiatric-treatment-work-evidence-success-rates-real-results">evidence-based evidence on whether psychiatric treatment really works</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, the field combines medical science with the diagnosis and treatment of mental disorders — and California is home to some of the nation&#8217;s leading psychiatric institutions and practitioners.</p>
 

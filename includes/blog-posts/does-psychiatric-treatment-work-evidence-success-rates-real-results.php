@@ -22,7 +22,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">Exploring the effectiveness of psychiatric interventions in treating mental health conditions is crucial for understanding the role of psychiatry in modern healthcare. This article delves into the various aspects of mental health treatment, examining the efficacy of different therapeutic approaches and their impact on individuals&#8217; mental well-being.</p>
 
-<p class="wp-block-paragraph">Psychiatric treatment is effective for many conditions. Learn about the <a href="/blog/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">cost of psychiatric care</a> and how to access it affordably. If you&#8217;re seeking treatment options, our <a href="/blog/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> is ready to help.</p>
+<p class="wp-block-paragraph">Psychiatric treatment is effective for many conditions. Learn about the <a href="/how-much-does-a-psychiatrist-cost-a-complete-guide-to-mental-health-care">cost of psychiatric care</a> and how to access it affordably. If you&#8217;re seeking treatment options, our <a href="/mental-health-palm-springs-ca-karmadocs">Palm Springs mental health team</a> is ready to help.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Psychiatry" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on psychiatry</a>, the effectiveness of psychiatric treatment is well-supported by decades of clinical research — with treatments including medication, psychotherapy, and neuromodulation showing strong evidence for numerous mental health conditions.</p>
 

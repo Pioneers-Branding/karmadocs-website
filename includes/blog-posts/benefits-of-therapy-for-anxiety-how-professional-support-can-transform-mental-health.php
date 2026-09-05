@@ -23,7 +23,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph"></p>
 
-<p class="wp-block-paragraph">Anxiety can also manifest in unexpected physical ways. Read our guide on <a href="/blog/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety most people don&#8217;t recognize</a>. For local care, explore our <a href="/blog/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs, CA</a>.</p>
+<p class="wp-block-paragraph">Anxiety can also manifest in unexpected physical ways. Read our guide on <a href="/physical-symptoms-of-anxiety-most-people-dont-recognize">physical symptoms of anxiety most people don&#8217;t recognize</a>. For local care, explore our <a href="/mental-health-palm-springs-ca-karmadocs">mental health services in Palm Springs, CA</a>.</p>
 
 <p class="wp-block-paragraph">According to <a href="https://en.wikipedia.org/wiki/Anxiety_disorder" rel="nofollow noopener" target="_blank">Wikipedia&#8217;s article on anxiety disorders</a>, these conditions affect approximately 284 million people worldwide, making them the most prevalent category of mental health disorders globally.</p>
 
