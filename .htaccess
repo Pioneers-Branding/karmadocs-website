@@ -14,6 +14,12 @@
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^psychiatrist-near-([a-z0-9\-]+)/?$ areas-we-serve/location-psychiatrist-near-$1.php [L,QSA]
 
+    # /areas-we-serve must reach areas-we-serve.php.
+    # The generic extensionless rule below is gated on !-d, and a directory named
+    # areas-we-serve/ exists (it holds the location pages), so that rule skips this
+    # URL. Handle it explicitly, before the generic rule.
+    RewriteRule ^areas-we-serve/?$ areas-we-serve.php [L,QSA]
+
     # Route extensionless URL to PHP file if file exists (e.g. /about -> about.php)
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_FILENAME}\.php -f

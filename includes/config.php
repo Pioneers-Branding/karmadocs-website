@@ -4,11 +4,26 @@
  * Karma Doctors & Associates - Standalone PHP Site
  */
 
-// Define Base URL dynamically if needed or root relative
+// Define Base URL for the SITE ROOT.
+//
+// This must be derived from where the project lives relative to the web root,
+// NOT from the running script's directory. Pages in sub-directories such as
+// areas-we-serve/ would otherwise get a BASE_URL of "/areas-we-serve", which
+// breaks every asset path and nav link that url() builds.
 if (!defined('BASE_URL')) {
-    $script_dir = dirname($_SERVER['SCRIPT_NAME'] ?? '');
-    $base = rtrim($script_dir, '/\\');
-    define('BASE_URL', $base === '/' ? '' : $base);
+    $base         = '';
+    $project_root = realpath(dirname(__DIR__));
+    $doc_root     = isset($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT']) : false;
+
+    if ($project_root !== false && $doc_root !== false) {
+        $project_root = rtrim(str_replace('\\', '/', $project_root), '/');
+        $doc_root     = rtrim(str_replace('\\', '/', $doc_root), '/');
+        if ($doc_root !== '' && strpos($project_root . '/', $doc_root . '/') === 0) {
+            $base = rtrim(substr($project_root, strlen($doc_root)), '/');
+        }
+    }
+
+    define('BASE_URL', $base);
 }
 
 /**

@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Family and Friends in Mental Health Recovery
+ * Article body: family-and-friends-in-mental-health-recovery
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -42,7 +42,7 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p style="text-align: left;"><span style="font-weight: 400;">However, building and maintaining</span> <a href="https://www.webmd.com/depression/features/depression-asking-loved-ones-for-help" target="_blank" rel="noopener"><b>friendships and mental wellness</b></a> <span style="font-weight: 400;">can be daunting Navigating </span>social circles in mental wellness<span style="font-weight: 400;"> involves:</span></p>
 
 <ol style="text-align: left;">
- 	<li><b> Selective Disclosure:</b><span style="font-weight: 400;"> Choosing when and whom to disclose mental health struggles to can protect one&#8217;s privacy and ensure support from trustworthy individuals.<img loading="lazy" decoding="async" class="size-medium wp-image-2470 alignright" src="https://karmadocs.com/wp-content/uploads/2024/05/family-and-friends-300x198.jpg" alt="role of family in mental health" width="300" height="198" /></span></li>
+ 	<li><b> Selective Disclosure:</b><span style="font-weight: 400;"> Choosing when and whom to disclose mental health struggles to can protect one&#8217;s privacy and ensure support from trustworthy individuals.</span></li>
  	<li><b> Seeking Understanding:</b><span style="font-weight: 400;"> Surrounding oneself with friends who are empathetic, non-judgmental, and understanding fosters a supportive environment conducive to healing.</span></li>
  	<li><b> Engaging in Shared Activities:</b><span style="font-weight: 400;"> Participating in activities or hobbies with friends promotes social connection, boosts mood, and provides a sense of normalcy and enjoyment.</span></li>
  	<li><b> Mutual Support:</b><span style="font-weight: 400;"> Cultivating reciprocal relationships where both parties feel comfortable offering and receiving support strengthens friendships and enhances overall well-being.</span></li>

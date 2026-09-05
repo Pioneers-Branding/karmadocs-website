@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How does ADHD Treatment Work?
+ * Article body: how-does-adhd-treatment-work
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -98,8 +98,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">ADHD treatment aims to reduce symptoms and improve day-to-day functioning. While there is no permanent cure, the right combination of treatments can help individuals manage the condition effectively. Treatment usually includes a mix of <strong><a href="/medication-management.php" title="">medication</a>, </strong>therapy, behavioral changes, and lifestyle support. Each component addresses a different aspect of ADHD — together they create a strong foundation for improvement.</p>
 
-<figure class="wp-block-image size-full"><img decoding="async" src="https://karmadocs.com/wp-content/uploads/2025/11/visual-selection-2025-11-12T172444.749.png" alt="adhd treatment work" class="wp-image-2708"/></figure>
-
 <h4 class="wp-block-heading"><strong>1. Medication</strong></h4>
 
 <p class="wp-block-paragraph">One of the most effective ways to manage ADHD is through medication. These medicines help regulate neurotransmitters — the chemicals in the brain responsible for attention and self-control.</p>
@@ -161,8 +159,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p class="wp-block-paragraph">At home, maintaining clear communication, patience, and consistency helps individuals with ADHD feel supported and understood.</p>
 
 <h3 class="wp-block-heading"><strong>Benefits of ADHD Treatment</strong></h3>
-
-<figure class="wp-block-image size-full"><img decoding="async" src="https://karmadocs.com/wp-content/uploads/2025/11/visual-selection-2025-11-12T172854.988.png" alt="Benefits of ADHD treatment" class="wp-image-2709"/></figure>
 
 <p class="wp-block-paragraph">Effective <strong><a href="/adhd.php" title="">ADHD treatment</a></strong> provides a wide range of benefits, including:</p>
 

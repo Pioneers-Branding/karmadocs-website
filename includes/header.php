@@ -32,10 +32,14 @@ $is_active = function($key) use ($page_key) {
     <title><?php echo htmlspecialchars($page_title, ENT_QUOTES, 'UTF-8'); ?></title>
     <meta name="description" content="<?php echo htmlspecialchars($meta_desc, ENT_QUOTES, 'UTF-8'); ?>">
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/png" href="<?php echo url('/assets/favicon-purple.png'); ?>">
-    <link rel="shortcut icon" type="image/png" href="<?php echo url('/assets/favicon-purple.png'); ?>">
-    <link rel="apple-touch-icon" href="<?php echo url('/assets/favicon-purple.png'); ?>">
+    <!-- Favicon: KDA monogram taken from the purple Karma Doctors logo -->
+    <link rel="icon" href="<?php echo url('/favicon.ico'); ?>" sizes="any">
+    <link rel="icon" type="image/png" sizes="16x16" href="<?php echo url('/assets/favicon-16.png'); ?>">
+    <link rel="icon" type="image/png" sizes="32x32" href="<?php echo url('/assets/favicon-32.png'); ?>">
+    <link rel="icon" type="image/png" sizes="48x48" href="<?php echo url('/assets/favicon-48.png'); ?>">
+    <link rel="icon" type="image/png" sizes="192x192" href="<?php echo url('/assets/favicon-192.png'); ?>">
+    <link rel="apple-touch-icon" sizes="180x180" href="<?php echo url('/assets/favicon-180.png'); ?>">
+    <meta name="theme-color" content="#603177">
 
     <?php if ($page_key === 'home'): ?>
     <meta name="facebook-domain-verification" content="zgpw5nbikaspzue5i5cgtacxo1gt49" />
@@ -151,6 +155,15 @@ $is_active = function($key) use ($page_key) {
                     fontFamily: {
                         sans: ['Montserrat', 'sans-serif'],
                         body: ['Open Sans', 'sans-serif'],
+                    },
+                    keyframes: {
+                        fadeIn: {
+                            '0%': { opacity: '0', transform: 'translateY(-4px)' },
+                            '100%': { opacity: '1', transform: 'none' },
+                        }
+                    },
+                    animation: {
+                        fadeIn: 'fadeIn 0.3s ease-in-out',
                     }
                 }
             }

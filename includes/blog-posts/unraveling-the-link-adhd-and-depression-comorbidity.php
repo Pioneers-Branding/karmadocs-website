@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Unraveling the Link – ADHD and Depression Comorbidity
+ * Article body: unraveling-the-link-adhd-and-depression-comorbidity
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -32,7 +32,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <span style="font-weight: 400; color: #000000;">Often results in significant distress and impairment in various areas of life.</span>
 <h2 id="what-is-adhd-depression-comorbidity"><span style="color: #000000;"><strong>What Is ADHD Depression Comorbidity?</strong></span></h2>
-<h2 id=""><span style="font-weight: 400; color: #000000;"> <img loading="lazy" decoding="async" class="size-medium wp-image-2478 alignright" src="https://karmadocs.com/wp-content/uploads/2024/05/adhd-and-depression-300x300.jpg" alt="adhd and depression link" width="300" height="300" /></span></h2>
 <span style="font-weight: 400; color: #000000;">Research indicates a significant overlap between ADHD and depression, with studies suggesting that individuals with ADHD are at a higher risk of developing depression compared to the general population. Likewise, individuals with depression are more likely to have a history of ADHD symptoms, even if they were not formally diagnosed during childhood.</span>
 
 <span style="color: #000000;"><span style="font-weight: 400;">The coexistence of</span> ADHD depression link<span style="font-weight: 400;"> can lead to worse symptoms which further complicates treatment approaches. For instance, the executive dysfunction associated with ADHD, such as poor impulse control and difficulties with planning and organization, can amplify feelings of worthlessness and hopelessness commonly experienced in depression. Similarly, the pervasive negative thoughts and low mood characteristic of depression can further impair attention, concentration, and motivation in individuals with ADHD.</span></span>

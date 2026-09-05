@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: What are the Best Treatments for Anxiety?
+ * Article body: what-are-the-best-treatments-for-anxiety
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -92,8 +92,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 
 <p class="wp-block-paragraph">There is no single “best” treatment that works for everyone. The right plan depends on the type of anxiety, how severe it is, and your overall health. Let’s explore the <strong><a title="" href="/single-blog.php?slug=what-are-the-best-treatments-for-anxiety">best treatments for anxiety</a></strong> that have helped millions of people.</p>
 
-<figure><img decoding="async" src="https://karmadocs.com/wp-content/uploads/2025/10/visual-selection-2025-10-16T122515.675-1024x745.png" alt="Anxiety treatment Options" /></figure>
-
 <h3 class="wp-block-heading"><strong>1. Cognitive Behavioral Therapy (CBT)</strong></h3>
 
 <p class="wp-block-paragraph">Cognitive Behavioral Therapy, or CBT, is one of the best treatments for anxiety because it helps people understand how their thoughts and feelings influence their actions. It teaches you to identify negative thinking patterns that cause fear or worry and replace them with healthier, more balanced thoughts. </p>
@@ -123,8 +121,6 @@ return '<div class="wp-block-group table-of-contents-block" style="border-color:
 <p class="wp-block-paragraph">Anxiety may not always be completely cured, but it can be successfully managed and controlled with the right treatment and lifestyle approach. Many people recover fully and go on to live calm, balanced lives once they learn to understand and manage their symptoms. The goal of anxiety treatment is not to eliminate all worry, but to help individuals develop healthy coping skills, reduce triggers, and regain control over their emotions. With early intervention, therapy, and consistent self-care, anxiety can become mild or even unnoticeable.</p>
 
 <p class="wp-block-paragraph">Here are a few key ways anxiety can be managed effectively:</p>
-
-<figure><img decoding="async" src="https://karmadocs.com/wp-content/uploads/2025/10/visual-selection-2025-10-16T123102.377-1024x614.png" alt="key ways anxiety can be managed" /></figure>
 
 <ul class="wp-block-list">
 <li><strong>Therapy:</strong> Cognitive Behavioral Therapy (<strong><a title="" href="https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy" target="_blank" rel="noopener">CBT</a></strong>) helps change negative thought patterns and reduce anxiety.</li>

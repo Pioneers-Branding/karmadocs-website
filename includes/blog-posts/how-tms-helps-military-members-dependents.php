@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: How TMS Helps Military Members & Dependents?
+ * Article body: how-tms-helps-military-members-dependents
  * Migrated from karmadocs.com WordPress export.
  */
 return '<div class="wp-block-group table-of-contents-block" style="border-color:#2b6cb0;border-width:2px;border-radius:8px;background-color:#ebf8ff;padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
@@ -30,8 +30,7 @@ Mental health challenges affect many military families, often impacting both the
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Strained relationships due to long separations</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Emotional numbness or withdrawal</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Sleep problems affecting daily life</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Chronic stress impacts both the service member and their loved ones</span><span style="font-weight: 400;">
-</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Chronic stress impacts both the service member and their loved ones</span></li>
 </ul>
 <span style="font-weight: 400;">Dependents, including spouses and children, may also face anxiety, depression, or feelings of instability due to frequent relocations and the fear of losing a loved one in service. These struggles highlight the need for effective mental health solutions beyond traditional therapy and medication.</span>
 <h3><b>Understanding TMS</b></h3>
@@ -39,7 +38,7 @@ Transcranial Magnetic Stimulation (TMS)<span style="font-weight: 400;"> is a non
 
 <span style="font-weight: 400;">TMS is FDA-approved for depression and has shown positive results for conditions like post-traumatic stress disorder (PTSD), <a href="https://karmadocs.com/is-anxiety-a-disability/"><strong>Anxiety</strong></a>, and sleep disturbances—all of which are commonly reported in military communities.</span>
 <h3><b>Why TMS is Especially Beneficial for Military Families</b></h3>
-<img loading="lazy" decoding="async" class="alignnone wp-image-2667" src="https://karmadocs.com/wp-content/uploads/2025/08/Why-TMS-is-Especially-Beneficial-for-Military-Families-300x255.png" alt="Why TMS is Especially Beneficial for Military Families" width="516" height="439" />
+
 
 <span style="font-weight: 400;">Military members and their dependents often face unique emotional challenges that make TMS particularly helpful:</span>
 <h4><b>1. Addressing Trauma at Its Core</b></h4>
@@ -56,12 +55,11 @@ Transcranial Magnetic Stimulation (TMS)<span style="font-weight: 400;"> is a non
  	<li style="font-weight: 400;" aria-level="1"><b>Step 1 – Initial Assessment:</b><span style="font-weight: 400;"> A mental health professional evaluates your symptoms and history to confirm eligibility for TMS.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><b>Step 2 – Treatment Planning:</b><span style="font-weight: 400;"> The provider identifies the exact brain area to target and sets up the treatment schedule.</span></li>
  	<li style="font-weight: 400;" aria-level="1"><b>Step 3 – Daily Sessions:</b><span style="font-weight: 400;"> A small device is placed on the scalp, delivering gentle magnetic pulses. Each session lasts 20–40 minutes and is repeated over several weeks.</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><b>Step 4 – Progress Tracking:</b><span style="font-weight: 400;"> Improvements are monitored, and adjustments are made if needed to maximize results.</span><span style="font-weight: 400;">
-</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><b>Step 4 – Progress Tracking:</b><span style="font-weight: 400;"> Improvements are monitored, and adjustments are made if needed to maximize results.</span></li>
 </ul>
 <span style="font-weight: 400;">Patients can return to their daily routine immediately after each session, making it a convenient option for busy military families.</span>
 <h3><b>Transformative Effects of TMS on Mental Well-being</b></h3>
-<img loading="lazy" decoding="async" class="alignnone  wp-image-2668" src="https://karmadocs.com/wp-content/uploads/2025/08/visual-selection-64-300x296.png" alt="Transformative Effects of TMS on Mental Well-being" width="624" height="616" />
+
 
 <span style="font-weight: 400;">Military members and their families often report noticeable improvements after completing a TMS program:</span>
 <ul>
@@ -70,8 +68,7 @@ Transcranial Magnetic Stimulation (TMS)<span style="font-weight: 400;"> is a non
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Lower anxiety levels</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Improved sleep quality</span></li>
  	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Better focus and cognitive clarity</span></li>
- 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Stronger relationships due to emotional stability</span><span style="font-weight: 400;">
-</span></li>
+ 	<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Stronger relationships due to emotional stability</span></li>
 </ul>
 <span style="font-weight: 400;">These benefits not only help individuals recover but also foster a healthier home environment for their dependents.</span>
 <h3><b>The Future of Mental Health Care for Military Families</b></h3>

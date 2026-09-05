@@ -186,12 +186,12 @@ Meta Description: Searching for a top-rated psychiatrist near La Quinta, CA? Kar
             </div>
             <h2 class="lux-animate"
                 style='font-size: 46px; font-weight: 900; color: var(--brand-dark); line-height: 1.2; margin-bottom: 35px; letter-spacing: -0.02em;'>
-                Premier Mental Health <br /> <span style='color: var(--brand-purple);'>For Banning Residents.</span>
+                Premier Mental Health <br /> <span style='color: var(--brand-purple);'>For La Quinta Residents.</span>
             </h2>
             <p class="lux-animate"
                 style='font-size: 20px; line-height: 1.9; color: #4B5563; margin-bottom: 50px; max-width: 800px; margin-left: auto; margin-right: auto;'>
                 We bridge the gap
-                between innovation and accessibility in Banning, ensuring that the very best neurological care is
+                between innovation and accessibility in La Quinta, ensuring that the very best neurological care is
                 just a short drive from your home.</p>
 
             <!-- CLINIC DIRECTORY -->
