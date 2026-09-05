@@ -368,11 +368,11 @@ return '<p class="wp-block-paragraph">Trauma can leave lasting emotional wounds 
 
 <li><a href="https://www.karmatms.com/twentynine-palms" target="_blank" rel="noopener">29 Palms</a></li>
 
-<li><a href="/areas-we-serve/location-psychiatrist-near-cathedral-city.php">Cathedral City</a></li>
+<li><a href="/psychiatrist-near-cathedral-city">Cathedral City</a></li>
 
-<li><a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">Palm Desert</a></li>
+<li><a href="/psychiatrist-near-palm-desert">Palm Desert</a></li>
 
-<li><a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Nearby Coachella Valley communities</a></li>
+<li><a href="/psychiatrist-near-coachella">Nearby Coachella Valley communities</a></li>
 </ul>
 
 <p class="wp-block-paragraph">Whether you are exploring <a href="/ptsd">TMS therapy for PTSD</a>, <a href="/anxiety">anxiety treatment</a>, or <a href="/depression">depression support</a>, individualized care is available to help guide your recovery journey.</p>

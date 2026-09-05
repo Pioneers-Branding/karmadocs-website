@@ -44,6 +44,9 @@
     RewriteRule ^mental-health-role-of-psychiatrists/?$ /understanding-your-mental-health-the-vital-role-of-psychiatrists [R=301,L]
     RewriteRule ^culturally-responsive-care-for-diverse-mental-health/?$ /embracing-diversity-in-mental-health-care-culturally-responsive-psychiatry [R=301,L]
     RewriteRule ^what-is-major-depressive-disorder/?$ /depression [R=301,L]
+    RewriteRule ^adhd-depression-comorbidity/?$ /unraveling-the-link-adhd-and-depression-comorbidity [R=301,L]
+    RewriteRule ^benefits-of-therapy-for-anxiety/?$ /benefits-of-therapy-for-anxiety-how-professional-support-can-transform-mental-health [R=301,L]
+    RewriteRule ^mental-health-palm-springs/?$ /mental-health-palm-springs-ca-karmadocs [R=301,L]
 
     # Old /post/<slug>/ permalinks -> the article if it still exists, else the index
     RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f

@@ -1,6 +1,6 @@
 <?php
 /**
- * Article body: Does TMS Make You Tired? The Truth Most Clinics Won’t Tell You
+ * Article body: does-tms-make-you-tired
  * Migrated from karmadocs.com WordPress export.
  */
 return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) has become a leading non-medication treatment for depression, anxiety, and other mental health conditions. As interest grows, so do practical questions from patients—one of the most common being:</p>
@@ -236,7 +236,7 @@ return '<p class="wp-block-paragraph">Transcranial Magnetic Stimulation (TMS) ha
 
 <p class="wp-block-paragraph">If depression is affecting your energy, focus, or quality of life, TMS may be an effective alternative to medication.</p>
 
-<p class="wp-block-paragraph">Karma Doctors &amp; Associates offers expert care for patients in Palm Springs, Rancho Mirage, 29 Palms, and nearby C<a href="/areas-we-serve/location-psychiatrist-near-coachella.php">oachella Valley communities</a>.</p>
+<p class="wp-block-paragraph">Karma Doctors &amp; Associates offers expert care for patients in Palm Springs, Rancho Mirage, 29 Palms, and nearby C<a href="/psychiatrist-near-coachella">oachella Valley communities</a>.</p>
 
 <p class="wp-block-paragraph">Schedule a consultation to determine whether TMS therapy is right for you and begin a treatment plan designed to restore balance and improve daily functioning.</p>
 

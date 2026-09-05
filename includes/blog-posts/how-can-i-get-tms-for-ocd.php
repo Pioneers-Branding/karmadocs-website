@@ -5,7 +5,7 @@
  */
 return '<p class="wp-block-paragraph">Living with obsessive thoughts and compulsive behaviors can feel emotionally exhausting. For many people with OCD, daily routines become controlled by anxiety, repetitive rituals, and intrusive thoughts that are difficult to stop, even when they know those thoughts do not make sense.</p>
 
-<p class="wp-block-paragraph">The good news is that advanced, FDA-cleared <a href="/ocd">TMS therapy for OCD</a> is now available for patients throughout <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, Palm Springs, Rancho Mirage, Palm Desert, 29 Palms, and surrounding communities.</p>
+<p class="wp-block-paragraph">The good news is that advanced, FDA-cleared <a href="/ocd">TMS therapy for OCD</a> is now available for patients throughout <a href="/psychiatrist-near-coachella">Coachella Valley</a>, Palm Springs, Rancho Mirage, Palm Desert, 29 Palms, and surrounding communities.</p>
 
 <p class="wp-block-paragraph">At <a target="_blank" rel="noreferrer noopener" href="/?utm_source=chatgpt.com">Karma Doctors &amp; Associates</a>, patients struggling with treatment-resistant OCD can explore personalized, non-invasive mental health treatment options designed to help reduce intrusive thoughts and compulsive behaviors.</p>
 

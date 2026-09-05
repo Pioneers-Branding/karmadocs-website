@@ -9,7 +9,7 @@ return '<p class="wp-block-paragraph">For many people living with mental health 
 
 <p class="wp-block-paragraph">At Karma Doctors &amp; Associates, we often hear patients ask, &#8220;What does TMS therapy actually help with?&#8221; The answer is broader than many people realize. Originally developed as an innovative treatment for depression, TMS therapy is now used to help individuals facing several mental health challenges when traditional treatments haven&#8217;t provided adequate relief.</p>
 
-<p class="wp-block-paragraph">Whether you&#8217;re in <a href="/areas-we-serve/location-psychiatrist-near-palm-springs.php">Palm Springs</a>, <a href="/areas-we-serve/location-psychiatrist-near-rancho-mirage.php">Rancho Mirage</a>, <a href="/areas-we-serve/location-psychiatrist-near-twentynine-palms.php">29 Palms</a>, or a surrounding California community, understanding how TMS works and what conditions it may help treat can empower you to make informed decisions about your mental health care.</p>
+<p class="wp-block-paragraph">Whether you&#8217;re in <a href="/psychiatrist-near-palm-springs">Palm Springs</a>, <a href="/psychiatrist-near-rancho-mirage">Rancho Mirage</a>, <a href="/psychiatrist-near-twentynine-palms">29 Palms</a>, or a surrounding California community, understanding how TMS works and what conditions it may help treat can empower you to make informed decisions about your mental health care.</p>
 
 <h2 class="wp-block-heading">What Is TMS Therapy?</h2>
 

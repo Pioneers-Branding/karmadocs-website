@@ -237,7 +237,7 @@ return '<div class="wp-block-group table-of-contents-block has-border-color has-
 
 <h3 class="wp-block-heading">Finding a Mental Health Clinic in Palm Springs</h3>
 
-<p class="wp-block-paragraph">For individuals seeking treatment for OCD in Palm Springs, finding the right <a href="/mental-health-palm-springs/">mental health clinic</a> is the first step. Look for clinics that specialize in treating obsessive-compulsive disorder and have experience with exposure and response prevention therapy. Mental health professionals at these clinics should be licensed and have expertise in treating OCD. It&#8217;s essential to research different clinics, read reviews, and schedule consultations to find a provider who is a good fit. <strong>Finding a clinic that offers comprehensive assessment, individualized treatment plans, and ongoing support is crucial for successful OCD management</strong>.</p>
+<p class="wp-block-paragraph">For individuals seeking treatment for OCD in Palm Springs, finding the right <a href="/mental-health-palm-springs-ca-karmadocs">mental health clinic</a> is the first step. Look for clinics that specialize in treating obsessive-compulsive disorder and have experience with exposure and response prevention therapy. Mental health professionals at these clinics should be licensed and have expertise in treating OCD. It&#8217;s essential to research different clinics, read reviews, and schedule consultations to find a provider who is a good fit. <strong>Finding a clinic that offers comprehensive assessment, individualized treatment plans, and ongoing support is crucial for successful OCD management</strong>.</p>
 
 <h3 class="wp-block-heading">What to Expect from OCD Treatment Programs</h3>
 

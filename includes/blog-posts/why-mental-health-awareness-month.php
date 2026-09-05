@@ -5,7 +5,7 @@
  */
 return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month serves as an important reminder: mental health is just as important as physical health.</p>
 
-<p class="wp-block-paragraph">Yet many people across <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">Coachella Valley</a>, <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">Palm Desert</a>, <a href="/areas-we-serve/location-psychiatrist-near-indio.php">Indio</a>, and surrounding California communities continue to suffer silently with <a href="/anxiety">anxiety</a>, <a href="/depression">depression</a>, <a href="/ptsd">PTSD</a>, <a href="/adhd">ADHD</a>, burnout, and chronic stress.</p>
+<p class="wp-block-paragraph">Yet many people across <a href="/psychiatrist-near-coachella">Coachella Valley</a>, <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/psychiatrist-near-palm-desert">Palm Desert</a>, <a href="/psychiatrist-near-indio">Indio</a>, and surrounding California communities continue to suffer silently with <a href="/anxiety">anxiety</a>, <a href="/depression">depression</a>, <a href="/ptsd">PTSD</a>, <a href="/adhd">ADHD</a>, burnout, and chronic stress.</p>
 
 <p class="wp-block-paragraph">Some people hide their struggles behind busy schedules.<br>Others convince themselves they’re “just stressed.”<br>Many delay treatment because they fear judgment or believe they should simply “push through it.”</p>
 
@@ -97,7 +97,7 @@ return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month 
 <li>Trouble concentrating</li>
 </ul>
 
-<p class="wp-block-paragraph">Many individuals searching for a <a href="/">psychiatrist in Palm Springs</a> or <a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">anxiety treatment near Palm Desert</a> are often experiencing symptoms for months or even years before reaching out for help.</p>
+<p class="wp-block-paragraph">Many individuals searching for a <a href="/">psychiatrist in Palm Springs</a> or <a href="/psychiatrist-near-palm-desert">anxiety treatment near Palm Desert</a> are often experiencing symptoms for months or even years before reaching out for help.</p>
 
 <p class="wp-block-paragraph">The good news is that anxiety is highly treatable with proper psychiatric care, therapy support, medication management, and lifestyle interventions.</p>
 
@@ -165,7 +165,7 @@ return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month 
 <li>Avoidance behaviors</li>
 </ul>
 
-<p class="wp-block-paragraph">Many people seeking <a href="/areas-we-serve/location-psychiatrist-near-coachella.php">PTSD treatment in Coachella Valley</a> initially assume they should “just get over it.” But trauma affects the brain and nervous system deeply. Professional psychiatric support can help individuals regain emotional stability and improve daily functioning.</p>
+<p class="wp-block-paragraph">Many people seeking <a href="/psychiatrist-near-coachella">PTSD treatment in Coachella Valley</a> initially assume they should “just get over it.” But trauma affects the brain and nervous system deeply. Professional psychiatric support can help individuals regain emotional stability and improve daily functioning.</p>
 
 <h3 class="wp-block-heading">ADHD in Adults and Teens</h3>
 
@@ -321,7 +321,7 @@ return '<p class="wp-block-paragraph">Every year, Mental Health Awareness Month 
 
 <h2 class="wp-block-heading">The Silent Mental Health Crisis Affecting Coachella Valley Families</h2>
 
-<p class="wp-block-paragraph">Mental health awareness starts locally. Communities across <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/areas-we-serve/location-psychiatrist-near-palm-desert.php">Palm Desert</a>, <a href="/areas-we-serve/location-psychiatrist-near-indio.php">Indio</a>, <a href="/areas-we-serve/location-psychiatrist-near-cathedral-city.php">Cathedral City</a>, <a href="/areas-we-serve/location-psychiatrist-near-la-quinta.php">La Quinta</a>, <a href="/areas-we-serve/location-psychiatrist-near-desert-hot-springs.php">Desert Hot Springs</a>, and <a href="https://www.karmatms.com/twentynine-palms" target="_blank" rel="noopener">29 Palms</a> are increasingly recognizing the importance of accessible mental health support.</p>
+<p class="wp-block-paragraph">Mental health awareness starts locally. Communities across <a href="https://www.karmatms.com/palm-springs" target="_blank" rel="noopener">Palm Springs</a>, <a href="https://www.karmatms.com/rancho-mirage" target="_blank" rel="noopener">Rancho Mirage</a>, <a href="/psychiatrist-near-palm-desert">Palm Desert</a>, <a href="/psychiatrist-near-indio">Indio</a>, <a href="/psychiatrist-near-cathedral-city">Cathedral City</a>, <a href="/psychiatrist-near-la-quinta">La Quinta</a>, <a href="/psychiatrist-near-desert-hot-springs">Desert Hot Springs</a>, and <a href="https://www.karmatms.com/twentynine-palms" target="_blank" rel="noopener">29 Palms</a> are increasingly recognizing the importance of accessible mental health support.</p>
 
 <p class="wp-block-paragraph">This month is an opportunity to:</p>
 
