@@ -1,9 +1,31 @@
 <?php
 $page_key = 'blog';
-require_once __DIR__ . '/includes/header.php';
 require_once __DIR__ . '/includes/blog-data.php';
 
-$posts = get_all_blog_posts();
+$per_page   = 9;
+$categories = get_blog_categories();
+$active_cat = isset($_GET['cat']) ? trim($_GET['cat']) : '';
+if ($active_cat !== '' && !isset($categories[$active_cat])) {
+    $active_cat = '';
+}
+$paged = isset($_GET['paged']) ? (int) $_GET['paged'] : 1;
+$data  = get_blog_posts_paged($paged, $per_page, $active_cat);
+$posts = $data['posts'];
+
+$page_title = $active_cat !== ''
+    ? $active_cat . ' Articles | Karma Doctors Blog'
+    : 'Mental Health Blog & Insights | Karma Doctors & Associates';
+$meta_desc = 'Expert articles on TMS therapy, depression, anxiety, ADHD, PTSD and mental health from the psychiatric team at Karma Doctors & Associates.';
+
+/** Build a listing URL that keeps the active category. */
+function blog_page_url($page, $cat) {
+    $q = [];
+    if ($cat !== '')  { $q['cat'] = $cat; }
+    if ($page > 1)    { $q['paged'] = $page; }
+    return url('/blog.php' . ($q ? '?' . http_build_query($q) : ''));
+}
+
+require_once __DIR__ . '/includes/header.php';
 ?>
 
 <!-- Blog Hero -->
@@ -29,6 +51,28 @@ $posts = get_all_blog_posts();
 <!-- Blog Grid Section -->
 <section class="bg-gray-50 py-16 md:py-24">
     <div class="container mx-auto px-4">
+
+        <!-- Category Filter -->
+        <div class="flex flex-wrap justify-center gap-3 mb-12" data-aos="fade-up">
+            <a href="<?php echo blog_page_url(1, ''); ?>"
+               class="px-5 py-2 rounded-full text-sm font-semibold transition-colors border <?php echo $active_cat === '' ? 'bg-brand-purple text-white border-brand-purple' : 'bg-white text-gray-600 border-gray-200 hover:border-brand-purple hover:text-brand-purple'; ?>">
+                All <span class="opacity-60">(<?php echo count(get_blog_index()); ?>)</span>
+            </a>
+            <?php foreach ($categories as $cat_name => $cat_count): ?>
+                <a href="<?php echo blog_page_url(1, $cat_name); ?>"
+                   class="px-5 py-2 rounded-full text-sm font-semibold transition-colors border <?php echo $active_cat === $cat_name ? 'bg-brand-purple text-white border-brand-purple' : 'bg-white text-gray-600 border-gray-200 hover:border-brand-purple hover:text-brand-purple'; ?>">
+                    <?php echo htmlspecialchars($cat_name); ?> <span class="opacity-60">(<?php echo $cat_count; ?>)</span>
+                </a>
+            <?php endforeach; ?>
+        </div>
+
+        <!-- Result count -->
+        <p class="text-center text-sm text-gray-500 mb-10">
+            Showing <?php echo count($posts); ?> of <?php echo $data['total']; ?> article<?php echo $data['total'] === 1 ? '' : 's'; ?>
+            <?php if ($active_cat !== ''): ?> in <span class="font-semibold text-gray-700"><?php echo htmlspecialchars($active_cat); ?></span><?php endif; ?>
+            &nbsp;&bull;&nbsp; Page <?php echo $data['page']; ?> of <?php echo $data['total_pages']; ?>
+        </p>
+
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <?php foreach ($posts as $post): ?>
                 <!-- Post Card -->
@@ -36,7 +80,7 @@ $posts = get_all_blog_posts();
                     <!-- Image -->
                     <div class="relative h-64 overflow-hidden">
                         <a href="<?php echo url('/single-blog.php?slug=' . $post['slug']); ?>" class="block h-full w-full">
-                            <img src="<?php echo htmlspecialchars($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                            <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" width="1600" height="900" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                             <div class="absolute inset-0 bg-brand-purple/20 group-hover:bg-transparent transition-colors duration-300"></div>
                         </a>
                         <!-- Badge -->
@@ -74,6 +118,46 @@ $posts = get_all_blog_posts();
                 </article>
             <?php endforeach; ?>
         </div>
+
+        <!-- Pagination -->
+        <?php if ($data['total_pages'] > 1): ?>
+            <nav class="flex justify-center items-center gap-2 mt-16 flex-wrap" aria-label="Blog pagination">
+                <?php if ($data['page'] > 1): ?>
+                    <a href="<?php echo blog_page_url($data['page'] - 1, $active_cat); ?>" rel="prev"
+                       class="px-4 py-2.5 rounded-lg bg-white border border-gray-200 text-gray-600 hover:border-brand-purple hover:text-brand-purple transition-colors text-sm font-semibold">
+                        <i class="fas fa-chevron-left text-xs mr-1"></i> Prev
+                    </a>
+                <?php endif; ?>
+
+                <?php
+                $win_start = max(1, $data['page'] - 2);
+                $win_end   = min($data['total_pages'], $data['page'] + 2);
+                if ($win_start > 1): ?>
+                    <a href="<?php echo blog_page_url(1, $active_cat); ?>" class="w-10 h-10 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-600 hover:border-brand-purple hover:text-brand-purple transition-colors text-sm font-semibold">1</a>
+                    <?php if ($win_start > 2): ?><span class="px-1 text-gray-400">&hellip;</span><?php endif; ?>
+                <?php endif; ?>
+
+                <?php for ($i = $win_start; $i <= $win_end; $i++): ?>
+                    <a href="<?php echo blog_page_url($i, $active_cat); ?>"
+                       <?php echo $i === $data['page'] ? 'aria-current="page"' : ''; ?>
+                       class="w-10 h-10 flex items-center justify-center rounded-lg border transition-colors text-sm font-semibold <?php echo $i === $data['page'] ? 'bg-brand-purple text-white border-brand-purple' : 'bg-white border-gray-200 text-gray-600 hover:border-brand-purple hover:text-brand-purple'; ?>">
+                        <?php echo $i; ?>
+                    </a>
+                <?php endfor; ?>
+
+                <?php if ($win_end < $data['total_pages']): ?>
+                    <?php if ($win_end < $data['total_pages'] - 1): ?><span class="px-1 text-gray-400">&hellip;</span><?php endif; ?>
+                    <a href="<?php echo blog_page_url($data['total_pages'], $active_cat); ?>" class="w-10 h-10 flex items-center justify-center rounded-lg bg-white border border-gray-200 text-gray-600 hover:border-brand-purple hover:text-brand-purple transition-colors text-sm font-semibold"><?php echo $data['total_pages']; ?></a>
+                <?php endif; ?>
+
+                <?php if ($data['page'] < $data['total_pages']): ?>
+                    <a href="<?php echo blog_page_url($data['page'] + 1, $active_cat); ?>" rel="next"
+                       class="px-4 py-2.5 rounded-lg bg-white border border-gray-200 text-gray-600 hover:border-brand-purple hover:text-brand-purple transition-colors text-sm font-semibold">
+                        Next <i class="fas fa-chevron-right text-xs ml-1"></i>
+                    </a>
+                <?php endif; ?>
+            </nav>
+        <?php endif; ?>
     </div>
 </section>
 

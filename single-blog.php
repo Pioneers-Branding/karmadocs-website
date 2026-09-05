@@ -4,6 +4,35 @@ require_once __DIR__ . '/includes/blog-data.php';
 $slug = isset($_GET['slug']) ? trim($_GET['slug']) : '';
 $post = get_blog_post_by_slug($slug);
 
+// Unknown or missing slug: send a real 404 rather than silently showing another article.
+if ($post === null) {
+    http_response_code(404);
+    $page_key = 'single-blog';
+    $page_title = 'Article Not Found | Karma Doctors Blog';
+    $meta_desc = 'The article you are looking for could not be found.';
+    require_once __DIR__ . '/includes/header.php';
+    ?>
+    <section class="bg-gray-50 py-32">
+        <div class="container mx-auto px-4 text-center max-w-xl">
+            <span class="inline-flex items-center justify-center w-16 h-16 rounded-full bg-brand-purple/10 text-brand-purple mb-6">
+                <i class="fas fa-file-circle-question text-2xl"></i>
+            </span>
+            <h1 class="font-sans text-3xl md:text-4xl font-bold text-gray-900 mb-4">Article Not Found</h1>
+            <p class="text-gray-500 mb-10">
+                That article may have been moved or renamed. Browse our latest mental health articles instead.
+            </p>
+            <a href="<?php echo url('/blog.php'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
+                <i class="fas fa-arrow-left mr-2"></i> Back to All Articles
+            </a>
+        </div>
+    </section>
+    <?php
+    require_once __DIR__ . '/includes/footer.php';
+    exit;
+}
+
+$related = get_related_blog_posts($post['slug'], 3);
+
 $page_key = 'single-blog';
 $page_title = $post['title'] . ' | Karma Doctors Blog';
 $meta_desc = $post['excerpt'];
@@ -15,7 +44,7 @@ require_once __DIR__ . '/includes/header.php';
 <section class="relative h-[50vh] min-h-[400px] flex items-end pb-12">
     <!-- Background Image -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo htmlspecialchars($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" class="w-full h-full object-cover">
+        <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" class="w-full h-full object-cover">
         <!-- Overlay -->
         <div class="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent"></div>
     </div>
@@ -70,9 +99,36 @@ require_once __DIR__ . '/includes/header.php';
             <?php endif; ?>
         </div>
 
+        <!-- Related Articles -->
+        <?php if (!empty($related)): ?>
+            <div class="max-w-5xl mx-auto mt-20">
+                <h2 class="font-sans text-2xl font-bold text-gray-900 mb-8 text-center">
+                    More in <span class="text-brand-purple"><?php echo htmlspecialchars($post['category']); ?></span>
+                </h2>
+                <div class="grid gap-6 md:grid-cols-3">
+                    <?php foreach ($related as $rel): ?>
+                        <a href="<?php echo url('/single-blog.php?slug=' . $rel['slug']); ?>"
+                           class="group bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-shadow border border-gray-100 flex flex-col">
+                            <div class="h-40 overflow-hidden">
+                                <img src="<?php echo url($rel['image']); ?>" alt="<?php echo htmlspecialchars($rel['title']); ?>"
+                                     loading="lazy" decoding="async"
+                                     class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
+                            </div>
+                            <div class="p-5 flex flex-col flex-grow">
+                                <p class="text-[11px] font-semibold uppercase tracking-wider text-gray-400 mb-2"><?php echo htmlspecialchars($rel['date']); ?></p>
+                                <h3 class="font-sans font-bold text-gray-900 leading-snug group-hover:text-brand-purple transition-colors line-clamp-3">
+                                    <?php echo htmlspecialchars($rel['title']); ?>
+                                </h3>
+                            </div>
+                        </a>
+                    <?php endforeach; ?>
+                </div>
+            </div>
+        <?php endif; ?>
+
         <!-- Back to Blog Button -->
         <div class="max-w-3xl mx-auto mt-12 text-center">
-            <a href="<?php echo url('/blog'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
+            <a href="<?php echo url('/blog.php'); ?>" class="inline-flex items-center justify-center bg-brand-purple hover:bg-brand-purpleLight text-white px-8 py-3.5 rounded-full font-bold uppercase text-xs tracking-wider transition-all shadow-md">
                 <i class="fas fa-arrow-left mr-2"></i> Back to All Articles
             </a>
         </div>
