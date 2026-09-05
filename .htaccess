@@ -54,14 +54,22 @@
     # /blog/<slug> was used briefly during the rebuild -> send it to the root.
     RewriteRule ^blog/([a-z0-9\-]+)/?$ /$1 [R=301,L]
 
-    # Canonical article URL has no trailing slash: /<slug>/ -> /<slug>
-    RewriteCond %{DOCUMENT_ROOT}/includes/blog-posts/$1.php -f
-    RewriteRule ^([a-z0-9\-]+)/+$ /$1 [R=301,L]
+    # ------------------------------------------------------------------
+    # Global canonical rules. These run AFTER the specific legacy rules
+    # above, so those still resolve in a single hop.
+    # ------------------------------------------------------------------
 
-    # Trailing slash on a real page: /tms/ -> /tms
+    # Strip index.php out of any inbound URL: /index.php -> /
+    RewriteCond %{THE_REQUEST} \s/+(.*?)index\.php[\s?] [NC]
+    RewriteRule ^ /%1 [R=301,L]
+
+    # Strip a naked /index
+    RewriteRule ^index/?$ / [R=301,L]
+
+    # One canonical form for everything: no trailing slash (/tms/ -> /tms).
+    # Gated on !-d so real directories (assets/, areas-we-serve/) are left alone.
     RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{DOCUMENT_ROOT}/$1.php -f
-    RewriteRule ^(.+?)/+$ /$1 [R=301,L]
+    RewriteRule ^(.*)/$ /$1 [R=301,L]
 
 
     # Route /psychiatrist-near-slug to areas-we-serve/location-psychiatrist-near-slug.php
