@@ -70,9 +70,13 @@
     RewriteRule ^index/?$ / [R=301,L]
 
     # One canonical form for everything: no trailing slash (/tms/ -> /tms).
-    # Gated on !-d so real directories (assets/, areas-we-serve/) are left alone.
+    # Gated on !-d so real directories (assets/) are left alone.
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteRule ^(.*)/$ /$1 [R=301,L]
+
+    # /areas-we-serve is a real page, but a directory of the same name exists, so the
+    # rule above skips it. Strip the slash here so this URL matches the rest of the site.
+    RewriteRule ^areas-we-serve/$ /areas-we-serve [R=301,L]
 
 
     # Route /psychiatrist-near-slug to areas-we-serve/location-psychiatrist-near-slug.php
@@ -100,7 +104,15 @@
 
     # Route directory requests to index.php
     DirectoryIndex index.php
+
+    # Apache would otherwise 301 /areas-we-serve to /areas-we-serve/ because the
+    # directory exists, re-adding the slash we just removed. The rewrite rules above
+    # answer both forms, so this automatic redirect is not needed.
+    DirectorySlash Off
 </IfModule>
+
+# Never serve a directory listing
+Options -Indexes
 
 # Fallback 404
 ErrorDocument 404 /404.php
