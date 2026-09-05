@@ -201,12 +201,12 @@ $is_active = function($key) use ($page_key) {
             </a>
 
             <!-- Desktop Nav -->
-            <nav class="hidden lg:flex items-center space-x-8 font-semibold text-sm uppercase tracking-wide text-gray-800">
+            <nav class="hidden lg:flex items-center space-x-8 font-semibold text-sm  tracking-wide text-gray-800">
                 <a href="<?php echo url('/'); ?>" class="<?php echo $is_active('home'); ?> transition-colors">Home</a>
                 <a href="<?php echo url('about'); ?>" class="<?php echo $is_active('about'); ?> transition-colors">About Us</a>
 
                 <!-- Conditions Dropdown -->
-                <div class="group relative py-2">
+                <div class="group  relative py-2">
                     <button class="<?php echo $is_active(['anxiety', 'depression', 'ptsd', 'adhd', 'bipolar', 'ocd']); ?> transition-colors flex items-center gap-1.5 focus:outline-none">
                         Conditions
                         <i class="fas fa-chevron-down text-[10px] text-gray-400 group-hover:text-brand-purple group-hover:rotate-180 transition-transform"></i>
@@ -266,7 +266,7 @@ $is_active = function($key) use ($page_key) {
 
             <!-- CTA & Mobile Toggle -->
             <div class="flex items-center space-x-4">
-                <a href="<?php echo url('contact'); ?>" class="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-6 py-2.5 rounded-full font-semibold uppercase text-xs tracking-wider transition-all transform hover:-translate-y-0.5 hover:shadow-lg shadow-md">
+                <a href="<?php echo url('contact'); ?>" class="hidden sm:inline-flex items-center justify-center bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-6 py-2.5 rounded-full font-semibold  text-xs tracking-wider transition-all transform hover:-translate-y-0.5 hover:shadow-lg shadow-md">
                     Book Online
                 </a>
                 <button class="lg:hidden text-2xl text-gray-800 focus:outline-none p-2" id="mobile-menu-btn" aria-label="Toggle navigation menu">
@@ -277,7 +277,7 @@ $is_active = function($key) use ($page_key) {
 
         <!-- Mobile Menu -->
         <div class="lg:hidden hidden bg-white absolute top-full left-0 w-full shadow-2xl h-[calc(100vh-80px)] overflow-y-auto z-40 transition-all duration-300 border-t border-gray-100" id="mobile-menu">
-            <div class="flex flex-col px-6 py-8 space-y-6 font-semibold uppercase text-sm text-gray-800">
+            <div class="flex flex-col px-6 py-8 space-y-6 font-semibold text-sm text-gray-800">
                 <a href="<?php echo url('/'); ?>" class="block hover:text-brand-purple transition-colors">Home</a>
                 <a href="<?php echo url('about'); ?>" class="block hover:text-brand-purple transition-colors">About Us</a>
 
