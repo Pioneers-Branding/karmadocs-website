@@ -16,6 +16,17 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id' => 2280,
+            'slug' => 'does-aetna-cover-tms-therapy',
+            'title' => 'Does Aetna Cover TMS Therapy? 2026 Coverage & Approval Guide',
+            'author' => 'Karma Doctors Team',
+            'date' => 'September 7, 2026',
+            'date_iso' => '2026-09-07',
+            'category' => 'TMS Therapy',
+            'image' => '/assets/blog/does-aetna-cover-tms-therapy-insurance-coverage.webp',
+            'excerpt' => 'Does Aetna cover TMS therapy? Yes, Aetna covers Transcranial Magnetic Stimulation (TMS) for depression and OCD when medical necessity guidelines are met. Learn Aetna coverage criteria, prior authorization steps, and out-of-pocket costs.',
+        ],
+        [
             'id' => 2273,
             'slug' => 'can-anxiety-cause-hearing-loss-understanding-the-connection',
             'title' => 'Can Anxiety Cause Hearing Loss? Understanding the Connection',
