@@ -2,16 +2,6 @@
 $page_key = 'contact';
 require_once __DIR__ . '/includes/header.php';
 ?>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11034311341"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'AW-11034311341');
-</script>
-
 <!-- Breadcrumb Banner Section -->
 <section class="relative pt-32 pb-20 overflow-hidden bg-brand-purple">
     <!-- Background -->

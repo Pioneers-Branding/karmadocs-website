@@ -2,15 +2,6 @@
 $page_key = 'thank-you';
 require_once __DIR__ . '/includes/header.php';
 ?>
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-11034311341"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() { dataLayer.push(arguments); }
-    gtag('js', new Date());
-
-    gtag('config', 'AW-11034311341');
-</script>
-
 <!-- Event snippet for Submit lead form conversion page -->
 <script>
     gtag('event', 'conversion', { 'send_to': 'AW-11034311341/J6xHCO7ty6kcEK31yI0p' });

@@ -25,6 +25,7 @@ $is_active = function($key) use ($page_key) {
       gtag('js', new Date());
 
       gtag('config', 'G-22JDJ6N3W5');
+      gtag('config', 'AW-11034311341');
     </script>
 
     <meta charset="UTF-8">
