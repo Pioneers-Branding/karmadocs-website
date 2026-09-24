@@ -16,6 +16,17 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id' => 2285,
+            'slug' => 'can-tms-cause-memory-loss',
+            'title' => 'Can TMS Cause Memory Loss? What Research Shows',
+            'author' => 'Karma Doctors Team',
+            'date' => 'September 24, 2026',
+            'date_iso' => '2026-09-24',
+            'category' => 'TMS Therapy',
+            'image' => '/assets/blog/can-tms-cause-memory-loss-brain-health.webp',
+            'excerpt' => 'Can TMS cause memory loss? Learn what research says about TMS, memory, cognitive effects, and what to expect during treatment at KarmaDocs.',
+        ],
+        [
             'id' => 2280,
             'slug' => 'does-aetna-cover-tms-therapy',
             'title' => 'Does Aetna Cover TMS Therapy? 2026 Coverage & Approval Guide',
