@@ -16,6 +16,19 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id' => 2293,
+            'slug' => 'is-tms-a-hoax',
+            'title' => 'Is TMS a Hoax? The Truth Behind TMS Therapy & Results',
+            'meta_title' => 'Is TMS a Hoax? The Truth Behind TMS Therapy & Results',
+            'author' => 'Karma Doctors Team',
+            'date' => 'October 13, 2026',
+            'date_iso' => '2026-10-13',
+            'category' => 'TMS Therapy',
+            'image' => '/assets/blog/is-tms-a-hoax-medical-evidence.webp',
+            'excerpt' => 'Is TMS a hoax or legitimate science? Explore FDA clinical trials, real success rates, sham-controlled studies, and expert psychiatric insights at KarmaDocs.',
+            'meta_desc' => 'Is TMS a hoax or legitimate science? Explore FDA clinical trials, real success rates, sham-controlled studies, and expert psychiatric insights at KarmaDocs.',
+        ],
+        [
             'id' => 2285,
             'slug' => 'can-tms-cause-memory-loss',
             'title' => 'Can TMS Cause Memory Loss? What Research Shows',

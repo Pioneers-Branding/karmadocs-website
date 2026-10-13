@@ -38,8 +38,8 @@ if ($post === null) {
 $related = get_related_blog_posts($post['slug'], 3);
 
 $page_key = 'single-blog';
-$page_title = $post['title'] . ' | Karma Doctors Blog';
-$meta_desc = $post['excerpt'];
+$page_title = !empty($post['meta_title']) ? $post['meta_title'] : $post['title'] . ' | Karma Doctors Blog';
+$meta_desc = !empty($post['meta_desc']) ? $post['meta_desc'] : $post['excerpt'];
 
 require_once __DIR__ . '/includes/header.php';
 ?>
