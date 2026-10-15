@@ -745,6 +745,8 @@ require_once __DIR__ . '/includes/header.php';
                     <h2>Schedule a Consultation</h2>
                     <p class="lp-card-sub">We'll reach out within one business day</p>
 
+                    <p class="priority-commitment" style="display:flex;align-items:flex-start;gap:10px;margin:0 0 18px;padding:12px 16px;font-size:0.95rem;line-height:1.55;color:#3b1d4a;background:#f5edf9;border-left:3px solid #603177;border-radius:10px;text-align:left;"><span aria-hidden="true" style="flex-shrink:0;color:#603177;font-weight:700;">&#10003;</span><span>Getting you an appointment on priority is our commitment, and detailed follow-ups with our doctors are an integral part of your care journey with us.</span></p>
+
                     <form id="lp-heroForm" accept-charset="UTF-8"
                         action="https://app.formester.com/forms/RwHkLHT6l/submissions" method="POST">
                         <div class="lp-fld">

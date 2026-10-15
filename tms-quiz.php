@@ -28,6 +28,7 @@ require_once __DIR__ . '/includes/header.php';
             </p>
         </div>
 
+        <p class="priority-commitment" style="display:flex;align-items:flex-start;gap:10px;margin:0 0 20px;padding:12px 16px;font-size:0.95rem;line-height:1.55;color:#fff;background:rgba(255,255,255,0.1);border-left:3px solid #F48F12;border-radius:10px;text-align:left;"><span aria-hidden="true" style="flex-shrink:0;color:#F48F12;font-weight:700;">&#10003;</span><span>Getting you an appointment on priority is our commitment, and detailed follow-ups with our doctors are an integral part of your care journey with us.</span></p>
         <div class="bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl shadow-2xl p-4 md:p-6 text-white">
             <iframe src="https://api.leadconnectorhq.com/widget/survey/kvUSP2yeaUszFuJICuHs" style="border:none;width:100%;min-height:600px;" scrolling="no" id="kvUSP2yeaUszFuJICuHs" title="survey"></iframe>
         </div>

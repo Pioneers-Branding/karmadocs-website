@@ -123,6 +123,7 @@ require_once __DIR__ . '/includes/header.php';
 
             <div class="bg-white p-8 md:p-10 rounded-3xl shadow-xl shadow-brand-purple/5 border border-white"
                 style="min-height:587px;">
+                <p class="priority-commitment" style="display:flex;align-items:flex-start;gap:10px;margin:0 0 20px;padding:12px 16px;font-size:0.95rem;line-height:1.55;color:#3b1d4a;background:#f5edf9;border-left:3px solid #603177;border-radius:10px;text-align:left;"><span aria-hidden="true" style="flex-shrink:0;color:#603177;font-weight:700;">&#10003;</span><span>Getting you an appointment on priority is our commitment, and detailed follow-ups with our doctors are an integral part of your care journey with us.</span></p>
                 <iframe src="https://api.leadconnectorhq.com/widget/booking/NnrNPoCmcV0sGSikAHut" style="width: 100%;border:none;overflow: hidden;" scrolling="no" id="AAjmUonkItXEagyoj0U7_1783492554320"></iframe><br><script src="https://link.msgsndr.com/js/form_embed.js" type="text/javascript"></script>
             </div>
 

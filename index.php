@@ -273,6 +273,7 @@ require_once __DIR__ . '/includes/header.php';
         <p class="text-lg md:text-xl text-gray-100 mb-8 max-w-2xl mx-auto drop-shadow-md font-medium">
             Advanced, non-invasive TMS therapy for depression <br>and mental wellness.
         </p>
+        <p class="priority-commitment" style="display:flex;align-items:flex-start;gap:10px;max-width:36rem;margin:-8px auto 28px;padding:12px 16px;font-size:0.95rem;line-height:1.55;color:#fff;background:rgba(255,255,255,0.12);border-left:3px solid #F48F12;border-radius:10px;text-align:left;backdrop-filter:blur(4px);"><span aria-hidden="true" style="flex-shrink:0;color:#F48F12;font-weight:700;">&#10003;</span><span>Getting you an appointment on priority is our commitment, and detailed follow-ups with our doctors are an integral part of your care journey with us.</span></p>
         <a href="<?php echo url('contact'); ?>"
             class="inline-block bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-8 py-3.5 rounded-full font-bold uppercase tracking-wider shadow-lg hover:shadow-brand-orange/40 hover:-translate-y-1 transition-all transform text-sm md:text-base">
             Start Your Journey
@@ -1287,6 +1288,7 @@ require_once __DIR__ . '/includes/header.php';
         <p class="text-md opacity-90 mb-2 max-w-2xl mx-auto">Schedule your Board-Certified Psychiatric Evaluation today
             and take the first
             step towards a brighter, healthier future.</p>
+        <p class="priority-commitment" style="display:flex;align-items:flex-start;gap:10px;max-width:40rem;margin:14px auto 18px;padding:12px 16px;font-size:0.95rem;line-height:1.55;color:#fff;background:rgba(255,255,255,0.12);border-left:3px solid #F48F12;border-radius:10px;text-align:left;backdrop-filter:blur(4px);"><span aria-hidden="true" style="flex-shrink:0;color:#F48F12;font-weight:700;">&#10003;</span><span>Getting you an appointment on priority is our commitment, and detailed follow-ups with our doctors are an integral part of your care journey with us.</span></p>
         <div class="flex flex-col sm:flex-row justify-center gap-4">
             <a href="<?php echo url('contact'); ?>"
                 class="bg-gradient-to-r from-brand-orange to-brand-orangeHover text-white px-6 py-2 rounded-full font-bold uppercase tracking-wider transition-all transform hover:scale-105 hover:-translate-y-1 text-xs">
