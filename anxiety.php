@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=1920&q=80"
+            <img src="<?php echo url('assets/img/ext/photo-1493836512294-502baa1986e2.webp'); ?>"
                 alt="Calm nature background" class="w-full h-full object-cover">
             <div
                 class="absolute inset-0 bg-gradient-to-r from-brand-purple/95 via-brand-purple/80 to-brand-purple/60 mix-blend-multiply">
@@ -32,19 +32,17 @@ require_once __DIR__ . '/includes/header.php';
                     Conditions We Treat
                 </span>
             </div>
-            <h1 class="font-sans text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight"
-                data-aos="fade-up" data-aos-delay="100">
+            <h1 class="font-sans text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight hero-anim hero-up hero-d1">
                 Anxiety Treatment <br class="hidden md:block">in <span
                     class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-yellow-300">Palm
                     Springs</span>
             </h1>
-            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90"
-                data-aos="fade-up" data-aos-delay="200">
+            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90 hero-anim hero-up hero-d2">
                 You don't have to face it alone. We offer a comprehensive, compassionate path to reclaiming your peace
                 of mind.
             </p>
 
-            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
+            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center hero-anim hero-up hero-d3">
                 <a href="#treatments"
                     class="px-8 py-3.5 rounded-full bg-brand-orange hover:bg-brand-orangeHover text-white font-bold uppercase tracking-wider transition-all shadow-lg hover:shadow-brand-orange/50 hover:-translate-y-1">
                     Explore FDA-Cleared Protocols
@@ -72,7 +70,7 @@ require_once __DIR__ . '/includes/header.php';
                     <div
                         class="absolute -inset-4 bg-gradient-to-br from-brand-orange/20 to-brand-purple/20 rounded-3xl blur-xl overflow-hidden">
                     </div>
-                    <img src="https://images.unsplash.com/photo-1677285996629-78442508281a?q=80&w=1625&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                    <img src="<?php echo url('assets/img/ext/photo-1677285996629-78442508281a.webp'); ?>"
                         alt="Doctor consulting patient"
                         class="relative rounded-2xl shadow-2xl border-4 border-white w-full object-cover h-[500px] z-10 transform transition-transform hover:scale-[1.01] duration-500">
 
@@ -387,7 +385,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="group bg-white rounded-[2.5rem] p-2 hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 h-full flex flex-col"
                     data-aos="fade-up">
                     <div class="relative h-48 overflow-hidden rounded-[2rem] mb-4">
-                        <img src="https://images.unsplash.com/photo-1544027993-37dbfe43562a?w=800&q=80" alt="Therapy"
+                        <img src="<?php echo url('assets/img/ext/photo-1544027993-37dbfe43562a.webp'); ?>" alt="Therapy"
                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors"></div>
                         <div
@@ -415,7 +413,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="group bg-white rounded-[2.5rem] p-2 hover:shadow-2xl transition-all duration-500 hover:-translate-y-1 h-full flex flex-col"
                     data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-48 overflow-hidden rounded-[2rem] mb-4">
-                        <img src="https://images.unsplash.com/photo-1585435557343-3b092031a831?w=800&q=80"
+                        <img src="<?php echo url('assets/img/ext/photo-1585435557343-3b092031a831.webp'); ?>"
                             alt="Medication"
                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                         <div class="absolute inset-0 bg-black/10 group-hover:bg-transparent transition-colors"></div>

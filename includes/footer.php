@@ -230,7 +230,7 @@ require_once __DIR__ . '/config.php';
 </footer>
 
 <!-- Scripts -->
-<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="<?php echo url('assets/vendor/aos/aos.js'); ?>?v=20261017" defer></script>
 <script>
     document.addEventListener('DOMContentLoaded', function () {
         if (typeof AOS !== 'undefined') {
@@ -239,11 +239,12 @@ require_once __DIR__ . '/config.php';
                 once: true,
                 offset: 100,
                 easing: 'ease-out-cubic',
+                disable: window.matchMedia('(prefers-reduced-motion: reduce)').matches,
             });
         }
     });
 </script>
-<script src="<?php echo url('script.js'); ?>"></script>
+<script src="<?php echo url('script.js'); ?>?v=20261017" defer></script>
 </body>
 
 </html>

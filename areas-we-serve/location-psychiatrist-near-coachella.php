@@ -470,7 +470,7 @@ Meta Description: Searching for a top-rated psychiatrist near Coachella, CA? Kar
         <div
             style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 80px; align-items: center;">
             <div>
-                <img src="<?php echo url(''); ?>/assets/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.webp"
                     alt="Dr. Keerthy Sunder, MD — Founder, <a href='<?php echo url('/'); ?>' style='color: var(--brand-orange); text-decoration: none; font-weight: 700;'>Karma Doctors & Associates</a>"
                     style="width: 100%; height: auto; border-radius: 40px; display: block; box-shadow: 0 20px 50px rgba(0,0,0,0.15);" />
             </div>

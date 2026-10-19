@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative h-[45vh] min-h-[350px] flex items-center justify-center overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1450133064473-71024230f91b?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+            <img src="<?php echo url('assets/img/ext/photo-1450133064473-71024230f91b.webp'); ?>"
                 alt="Terms & Conditions Background" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-brand-purple/60 mix-blend-multiply"></div>
             <div class="absolute inset-0 bg-gradient-to-t from-gray-950/60 to-black/30"></div>

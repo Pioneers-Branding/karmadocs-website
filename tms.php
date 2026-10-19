@@ -6,7 +6,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=2071&auto=format&fit=crop"
+            <img decoding="async" src="<?php echo url('assets/img/ext/photo-1559757175-5700dde675bc.webp'); ?>"
                 alt="TMS Therapy" class="w-full h-full object-cover">
             <div
                 class="absolute inset-0 bg-gradient-to-r from-brand-purple/95 via-brand-purple/80 to-brand-purple/60 mix-blend-multiply">
@@ -22,18 +22,16 @@ require_once __DIR__ . '/includes/header.php';
                     Advanced Treatment
                 </span>
             </div>
-            <h1 class="font-sans text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight"
-                data-aos="fade-up" data-aos-delay="100">
+            <h1 class="font-sans text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight hero-anim hero-up hero-d1">
                 TMS Therapy <br class="hidden md:block">for <span
                     class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-yellow-300">Depression</span>
             </h1>
-            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90"
-                data-aos="fade-up" data-aos-delay="200">
+            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90 hero-anim hero-up hero-d2">
                 When antidepressants fail, TMS offers a new path forward. An FDA-cleared, non-invasive breakthrough that
                 uses magnetic pulses to awaken the brain's natural ability to heal.
             </p>
 
-            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
+            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center hero-anim hero-up hero-d3">
                 <a href="<?php echo url('contact'); ?>"
                     class="px-8 py-3.5 rounded-full bg-brand-orange hover:bg-brand-orangeHover text-white font-bold uppercase tracking-wider transition-all shadow-lg hover:shadow-brand-orange/50 hover:-translate-y-1">
                     Am I a Candidate?
@@ -55,7 +53,7 @@ require_once __DIR__ . '/includes/header.php';
                         <div
                             class="absolute -inset-4 bg-gradient-to-tr from-brand-orange/20 to-brand-purple/20 rounded-full blur-2xl opacity-70">
                         </div>
-                        <img src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.webp"
                             alt="Brain Neural Network"
                             class="relative rounded-2xl shadow-2xl border-4 border-white w-full object-cover z-10">
                         <!-- Stat Badge -->
@@ -154,7 +152,7 @@ require_once __DIR__ . '/includes/header.php';
             <!-- Candidates Section -->
             <div class="grid md:grid-cols-2 gap-8 bg-brand-dark rounded-3xl overflow-hidden shadow-2xl relative">
                 <div
-                    class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/stardust.png')] opacity-10">
+                    class="absolute inset-0 bg-texture-stardust opacity-10">
                 </div>
                 <div class="p-10 lg:p-14 flex flex-col justify-center relative z-10">
                     <h3 class="text-white text-3xl font-bold mb-6">Is TMS Right For You?</h3>
@@ -184,7 +182,7 @@ require_once __DIR__ . '/includes/header.php';
                     </div>
                 </div>
                 <div class="relative h-64 md:h-auto">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/IMG_9560_VSCO_2_nkpa9c.jpg"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/IMG_9560_VSCO_2_nkpa9c.webp"
                         alt="Peace of Mind"
                         class="absolute inset-0 w-full h-full object-cover opacity-80 mix-blend-overlay">
                     <div class="absolute inset-0 bg-gradient-to-r from-brand-dark to-transparent"></div>
@@ -515,7 +513,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="py-20 relative overflow-hidden">
         <div class="absolute inset-0 bg-brand-dark"></div>
         <div class="absolute inset-0 bg-gradient-to-r from-brand-purple/50 to-brand-orange/20 mix-blend-overlay"></div>
-        <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10">
+        <div class="absolute inset-0 bg-texture-cubes opacity-10">
         </div>
 
         <div class="container mx-auto px-4 relative z-10 text-center">

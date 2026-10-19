@@ -256,7 +256,7 @@ require_once __DIR__ . '/includes/header.php';
 <section class="relative w-full h-screen min-h-[600px] overflow-hidden">
     <!-- Video Container - Full Screen -->
     <div class="absolute inset-0 w-full h-full z-0">
-        <video autoplay muted loop playsinline class="w-full h-full object-cover scale-110">
+        <video autoplay muted loop playsinline poster="<?php echo url(''); ?>/assets/img/hero-video-poster.webp" class="w-full h-full object-cover scale-110">
             <source src="<?php echo url(''); ?>/assets/hero-video.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
@@ -334,43 +334,43 @@ require_once __DIR__ . '/includes/header.php';
         <div
             class="flex flex-wrap justify-center items-center gap-6 md:gap-8 lg:gap-12 hover:opacity-100 transition-all duration-500">
             <!-- <div class="h-12 w-auto flex items-center justify-center">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/logo-bcbssc-mobile-2x_ytdpm3.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/logo-bcbssc-mobile-2x_ytdpm3.png"
                         alt="BlueCross BlueShield" class="h-full object-contain">
                 </div> -->
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/cloudinary/Cigna_Healthcare_Logo_2_yxpvat.webp"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Cigna_Healthcare_Logo_2_yxpvat.webp"
                     alt="Cigna" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/cloudinary/idbC40zm_a_logos_addxec.png"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/idbC40zm_a_logos_addxec.png"
                     alt="Tricare" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/cloudinary/Aetna_Logo_ss_Violet_RGB_Coated_vchoob.svg"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Aetna_Logo_ss_Violet_RGB_Coated_vchoob.svg"
                     alt="Aetna" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/cloudinary/download_ijs4qw.svg"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/download_ijs4qw.svg"
                     alt="Insurance" class="h-full object-contain">
             </div>
             <div class="h-12 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/insurances/desert-oasis-logo.jpg"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/desert-oasis-logo.jpg"
                     alt="Desert Oasis Healthcare" class="h-full object-contain scale-110 mix-blend-multiply">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/insurances/health-net.png"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/health-net.png"
                     alt="Health Net" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/insurances/iehp.png"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/iehp.png"
                     alt="IEHP" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/insurances/medicare.webp"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/medicare.webp"
                     alt="Medicare" class="h-full object-contain">
             </div>
             <div class="h-10 w-auto flex items-center justify-center">
-                <img src="<?php echo url(''); ?>/assets/insurances/triwest.png"
+                <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/triwest.png"
                     alt="TriWest" class="h-full object-contain">
             </div>
             <div
@@ -389,7 +389,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <!-- Why We Stand Out (Parallax & Glass) -->
 <section class="relative py-10 bg-fixed bg-cover bg-center overflow-hidden" id="about"
-    style="background-image: url('https://images.unsplash.com/photo-1641139074977-dd526ad71433?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');">
+    style="background-image: url('<?php echo url('assets/img/ext/photo-1641139074977-dd526ad71433.webp'); ?>');">
     <div class="absolute inset-0 bg-brand-purple/20 backdrop-blur-[2px]"></div>
 
     <div class="container mx-auto px-4 relative z-10">
@@ -583,7 +583,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('depression'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="0">
-                    <img src="<?php echo url(''); ?>/assets/aws/460c9673-d421-40be-a576-8470fafd54e6.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/aws/460c9673-d421-40be-a576-8470fafd54e6.webp"
                         alt="Depression"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -612,7 +612,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('anxiety'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="100">
-                    <img src="https://images.unsplash.com/photo-1493836512294-502baa1986e2?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80"
+                    <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1493836512294-502baa1986e2.webp'); ?>"
                         alt="Anxiety"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -641,7 +641,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('ptsd'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="200">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_pl82z1pl82z1pl82_pqce33.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_pl82z1pl82z1pl82_pqce33.webp"
                         alt="PTSD"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -671,7 +671,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('adhd'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="300">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_ezawtnezawtnezaw_e5bgqx.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_ezawtnezawtnezaw_e5bgqx.webp"
                         alt="ADHD"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -701,7 +701,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('bipolar'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="400">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_kailvakailvakail_shww2m.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_kailvakailvakail_shww2m.webp"
                         alt="Bipolar Disorder"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -731,7 +731,7 @@ require_once __DIR__ . '/includes/header.php';
                 <a href="<?php echo url('ocd'); ?>"
                     class="relative group block overflow-hidden rounded-2xl h-64 cursor-pointer" data-aos="fade-up"
                     data-aos-delay="500">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_g8re93g8re93g8re_vgiygt.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Gemini_Generated_Image_g8re93g8re93g8re_vgiygt.webp"
                         alt="OCD"
                         class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                     <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -793,7 +793,7 @@ require_once __DIR__ . '/includes/header.php';
                     </div>
 
                     <!-- Main Image -->
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.webp"
                         alt="Dr. Keerthy Sunder"
                         class="rounded-2xl shadow-xl w-full max-w-sm object-cover object-top h-[420px]">
                 </div>
@@ -863,7 +863,7 @@ require_once __DIR__ . '/includes/header.php';
     <!-- Background decorative elements -->
     <div class="absolute top-0 right-0 w-1/2 h-full bg-brand-purple/20 skew-x-12 transform origin-top-right"></div>
     <div class="absolute inset-0 z-0 opacity-40">
-        <img src="https://images.unsplash.com/photo-1641139074977-dd526ad71433?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1641139074977-dd526ad71433.webp'); ?>"
             alt="Clinic Background" class="w-full h-full object-cover">
     </div>
 
@@ -904,7 +904,7 @@ require_once __DIR__ . '/includes/header.php';
             <div class="w-full lg:w-1/2">
                 <div
                     class="relative bg-black rounded-2xl shadow-2xl overflow-hidden aspect-video border-4 border-gray-800">
-                    <iframe src="https://www.youtube.com/embed/5gzxAF5TZoE?rel=0" class="inset-0 w-full h-full"
+                    <iframe src="https://www.youtube.com/embed/5gzxAF5TZoE?rel=0" class="inset-0 w-full h-full" loading="lazy" title="Karma Doctors TMS Therapy"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen style="height:400px"></iframe>

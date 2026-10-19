@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Open+Sans:wght@300;400;600;700&display=swap");
-
 /* Base Styles */
 html {
   scroll-behavior: smooth;
@@ -298,4 +296,107 @@ h6,
 
 .prose a {
   overflow-wrap: anywhere;
+}
+
+/* ---------------------------------------------------------------
+   Hero entrance animations (CSS-only replacements for AOS on the
+   first-screen hero elements). AOS keeps elements hidden until its
+   JS runs, which delays first paint / LCP; these classes start the
+   same animation as soon as CSS applies. Distances/durations match
+   the AOS fade-up / fade-right defaults so the look is identical.
+   --------------------------------------------------------------- */
+.hero-anim {
+  animation-duration: 0.4s;
+  animation-timing-function: ease;
+  animation-fill-mode: both;
+}
+
+.hero-up {
+  animation-name: heroFadeUp;
+}
+
+.hero-right {
+  animation-name: heroFadeRight;
+}
+
+.hero-left {
+  animation-name: heroFadeLeft;
+}
+
+.hero-down {
+  animation-name: heroFadeDown;
+}
+
+.hero-d1 {
+  animation-delay: 0.1s;
+}
+
+.hero-d2 {
+  animation-delay: 0.2s;
+}
+
+.hero-d3 {
+  animation-delay: 0.3s;
+}
+
+@keyframes heroFadeUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 100px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes heroFadeRight {
+  from {
+    opacity: 0;
+    transform: translate3d(-100px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes heroFadeLeft {
+  from {
+    opacity: 0;
+    transform: translate3d(100px, 0, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes heroFadeDown {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -100px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-anim {
+    animation: none;
+  }
+}
+
+/* Self-hosted subtle background textures (previously loaded from
+   transparenttextures.com; same patterns, served locally) */
+.bg-texture-stardust {
+  background-image: url("assets/img/textures/stardust.webp");
+  background-repeat: repeat;
+}
+
+.bg-texture-cubes {
+  background-image: url("assets/img/textures/cubes.webp");
+  background-repeat: repeat;
 }

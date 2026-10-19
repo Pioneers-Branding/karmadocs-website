@@ -14,11 +14,8 @@ require_once __DIR__ . '/includes/config.php';
     ?>
     <title><?php wp_title('| KarmaDocs', true, 'right'); ?></title>
 
-    <!-- Preconnect for fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
+    <!-- Outfit used by this landing page (self-hosted variable woff2) -->
+    <link rel="preload" href="<?php echo url('assets/fonts/outfit.woff2'); ?>" as="font" type="font/woff2" crossorigin>
 
     <?php
 $page_key = 'karma-psychiatric-and-medicine-management';
@@ -674,7 +671,7 @@ require_once __DIR__ . '/includes/header.php';
     <nav class="lp-nav" id="lp-nav">
         <div class="lp-nav-inner">
             <a href="<?php echo url('/'); ?>">
-                <img class="lp-logo" src="<?php echo url(''); ?>/assets/banner-video.mp4"
+                <img class="lp-logo" src="https://res.cloudinary.com/de4kw1t2i/image/upload/v1766060387/Karma-Docs-Logo-Horizental_w48ja1.webp" decoding="async"
                     alt="KarmaDocs" style="height:64px;">
             </a>
             <div class="lp-loc-desktop">

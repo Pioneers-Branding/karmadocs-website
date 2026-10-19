@@ -6,7 +6,7 @@
 return '<p class="wp-block-paragraph">If you are a military member, veteran, or dependent and have been wondering <strong>does Tricare cover TMS therapy</strong>, you are asking exactly the right question. Transcranial Magnetic Stimulation (TMS) is an FDA-approved, non-invasive treatment that has helped thousands of people with treatment-resistant depression — and understanding your <strong>Tricare mental health coverage</strong> could open the door to this life-changing therapy. In this guide, we&#8217;ll explain what TMS is, how it works, and how to find out if you qualify for coverage.</p>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&amp;q=80" alt="TMS therapy treatment session at a psychiatry clinic"/><figcaption class="wp-element-caption">TMS therapy uses magnetic pulses to stimulate areas of the brain associated with mood regulation.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1559757148-5c350d0d3c56.webp" alt="TMS therapy treatment session at a psychiatry clinic"/><figcaption class="wp-element-caption">TMS therapy uses magnetic pulses to stimulate areas of the brain associated with mood regulation.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">What Is TMS Therapy?</h2>
@@ -44,7 +44,7 @@ return '<p class="wp-block-paragraph">If you are a military member, veteran, or 
 </ul>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1584438784894-089d6a62b8fa?w=800&amp;q=80" alt="Insurance coverage for mental health TMS therapy"/><figcaption class="wp-element-caption">Tricare may cover TMS therapy when medically necessary for treatment-resistant depression.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1584438784894-089d6a62b8fa.webp" alt="Insurance coverage for mental health TMS therapy"/><figcaption class="wp-element-caption">Tricare may cover TMS therapy when medically necessary for treatment-resistant depression.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">Which Tricare Plans Cover TMS?</h2>

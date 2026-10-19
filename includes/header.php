@@ -17,8 +17,10 @@ $is_active = function($key) use ($page_key) {
 <html lang="en">
 
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-22JDJ6N3W5"></script>
+    <!-- Google tag (gtag.js): loaded on first user interaction, or shortly
+         after the load event, so its evaluation does not block the page's
+         main thread while it is still becoming interactive. Calls made
+         before it loads are queued in dataLayer, so tracking still works. -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
@@ -26,6 +28,29 @@ $is_active = function($key) use ($page_key) {
 
       gtag('config', 'G-22JDJ6N3W5');
       gtag('config', 'AW-11034311341');
+
+      (function () {
+        var loaded = false;
+        function loadGtag() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=G-22JDJ6N3W5';
+          document.head.appendChild(s);
+        }
+        ['pointerdown', 'keydown', 'touchstart', 'scroll'].forEach(function (ev) {
+          window.addEventListener(ev, loadGtag, { once: true, passive: true });
+        });
+        function afterLoad() {
+          setTimeout(function () {
+            if ('requestIdleCallback' in window) { requestIdleCallback(loadGtag, { timeout: 4000 }); }
+            else { loadGtag(); }
+          }, 2000);
+        }
+        if (document.readyState === 'complete') { afterLoad(); }
+        else { window.addEventListener('load', afterLoad); }
+      })();
     </script>
 
     <meta charset="UTF-8">
@@ -96,7 +121,7 @@ $is_active = function($key) use ($page_key) {
  "name": "Dr. Keerthy Sunder, MD",
  "jobTitle": "Double Board-Certified Psychiatrist",
  "description": "Double Board-Certified Psychiatrist with 20+ years of experience...",
- "image": "<?php echo url('assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png'); ?>",
+ "image": "<?php echo url('assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.webp'); ?>",
  "medicalSpecialty": [
  { "@type": "MedicalSpecialty", "name": "Psychiatry" },
  { "@type": "MedicalSpecialty", "name": "Addiction Medicine" }
@@ -130,50 +155,15 @@ $is_active = function($key) use ($page_key) {
 }
 </script>
 
-    <!-- Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <!-- Fonts (self-hosted + preloaded) -->
+    <link rel="preload" as="font" type="font/woff2" href="<?php echo url('assets/fonts/montserrat.woff2'); ?>" crossorigin>
+    <link rel="stylesheet" href="<?php echo url('assets/css/fonts.css'); ?>?v=20261017">
 
-    <!-- FontAwesome for Icons -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-
-    <!-- Tailwind CDN -->
-    <script src="https://cdn.tailwindcss.com?plugins=forms,typography,aspect-ratio,line-clamp"></script>
-    <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        brand: {
-                            purple: '#603177',
-                            purpleLight: '#7A4D8F',
-                            orange: '#F48F12',
-                            orangeHover: '#D67A0A',
-                            dark: '#1F2937',
-                        }
-                    },
-                    fontFamily: {
-                        sans: ['Montserrat', 'sans-serif'],
-                        body: ['Open Sans', 'sans-serif'],
-                    },
-                    keyframes: {
-                        fadeIn: {
-                            '0%': { opacity: '0', transform: 'translateY(-4px)' },
-                            '100%': { opacity: '1', transform: 'none' },
-                        }
-                    },
-                    animation: {
-                        fadeIn: 'fadeIn 0.3s ease-in-out',
-                    }
-                }
-            }
-        }
-    </script>
-
-    <!-- AOS Animation Library -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo url('style.css'); ?>">
+    <!-- Site styles: prebuilt Tailwind, subset Font Awesome, AOS, custom -->
+    <link rel="stylesheet" href="<?php echo url('assets/css/tailwind.min.css'); ?>?v=20261017">
+    <link rel="stylesheet" href="<?php echo url('assets/css/fontawesome.min.css'); ?>?v=20261017">
+    <link rel="stylesheet" href="<?php echo url('assets/vendor/aos/aos.css'); ?>?v=20261017">
+    <link rel="stylesheet" href="<?php echo url('style.css'); ?>?v=20261017">
 </head>
 
 <body class="font-body text-gray-700 antialiased overflow-x-hidden">

@@ -255,4 +255,40 @@ ErrorDocument 404 /404.php
     ExpiresByType image/svg+xml "access plus 1 year"
     ExpiresByType text/css "access plus 1 month"
     ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType video/mp4 "access plus 1 month"
+</IfModule>
+
+# Correct MIME types (safe on servers that lack a default mapping)
+<IfModule mod_mime.c>
+    AddType image/webp .webp
+    AddType font/woff2 .woff2
+</IfModule>
+
+# Compression for text-based responses (HTML is sent by PHP)
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css
+    AddOutputFilterByType DEFLATE application/javascript text/javascript
+    AddOutputFilterByType DEFLATE application/json application/xml
+    AddOutputFilterByType DEFLATE image/svg+xml
+</IfModule>
+
+# Brotli when the server has it (Hostinger often does)
+<IfModule mod_brotli.c>
+    AddOutputFilterByType BROTLI_COMPRESS text/html text/plain text/xml text/css
+    AddOutputFilterByType BROTLI_COMPRESS application/javascript text/javascript
+    AddOutputFilterByType BROTLI_COMPRESS application/json application/xml
+    AddOutputFilterByType BROTLI_COMPRESS image/svg+xml
+</IfModule>
+
+# Cache-Control for versioned static assets.
+# CSS/JS/fonts are referenced with ?v=<date> query strings, so a long
+# immutable lifetime is safe: a change ships under a new query string.
+# (HTML/PHP responses are deliberately NOT given a policy here.)
+<IfModule mod_headers.c>
+    <FilesMatch "\.(css|js|woff2)$">
+        Header set Cache-Control "public, max-age=31536000, immutable"
+    </FilesMatch>
+    <FilesMatch "\.(png|jpe?g|webp|gif|svg|ico|mp4|webm)$">
+        Header set Cache-Control "public, max-age=31536000"
+    </FilesMatch>
 </IfModule>

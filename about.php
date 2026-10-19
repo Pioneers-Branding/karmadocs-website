@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/header.php';
 <section class="relative h-[65vh] min-h-[500px] flex items-center">
     <!-- Background Image -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo url(''); ?>/assets/cloudinary/-7261_itcxch.png" alt="Hero Background"
+        <img decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/-7261_itcxch.webp" alt="Hero Background"
             class="w-full h-full object-cover">
         <!-- Subtle Overlay -->
         <div class="absolute inset-0 bg-gradient-to-r from-black/50 via-black/20 to-transparent mix-blend-multiply">
@@ -16,13 +16,12 @@ require_once __DIR__ . '/includes/header.php';
 
     <div class="container mx-auto px-6 relative z-10 pt-20">
         <div class="max-w-3xl">
-            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-6 leading-tight text-white drop-shadow-md"
-                data-aos="fade-right">
+            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-6 leading-tight text-white drop-shadow-md hero-anim hero-right">
                 Empowering Minds. <br><span class="text-brand-orange">Enhancing Lives.</span>
             </h1>
 
             <!-- SVG Divider -->
-            <div class="w-72 mb-8 opacity-90" data-aos="fade-right" data-aos-delay="100">
+            <div class="w-72 mb-8 opacity-90 hero-anim hero-right hero-d1">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" class="w-full h-full">
                     <path d="M450 65H130l-10-10h320l10 10z" fill="#F48F12" />
                     <path d="M500 15l35 35-35 35-35-35z" fill="#ffffff" />
@@ -30,8 +29,7 @@ require_once __DIR__ . '/includes/header.php';
                 </svg>
             </div>
 
-            <p class="text-xl text-gray-50 font-medium leading-relaxed max-w-xl" data-aos="fade-right"
-                data-aos-delay="200">
+            <p class="text-xl text-gray-50 font-medium leading-relaxed max-w-xl hero-anim hero-right hero-d2">
                 Experience a new standard of psychiatric care where science meets serenity.
             </p>
         </div>
@@ -59,7 +57,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="grid md:grid-cols-2">
         <!-- Image Side -->
         <div class="max-h-[500px] md:h-auto relative overflow-hidden group">
-            <img src="https://images.unsplash.com/photo-1754294437684-7898b3701ac7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+            <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1754294437684-7898b3701ac7.webp'); ?>"
                 alt="Integrative Psychiatry"
                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
             <div class="absolute inset-0 bg-brand-purple/20 group-hover:bg-transparent transition-colors duration-500">
@@ -113,7 +111,7 @@ require_once __DIR__ . '/includes/header.php';
 
         <!-- Image Side -->
         <div class="max-h-[500px] md:h-auto relative overflow-hidden group order-1 md:order-2">
-            <img src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.png"
+            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/apollo-consultation_1_peyxur_1_fuidsc.webp"
                 alt="Advanced Technology"
                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
             <div class="absolute inset-0 bg-brand-dark/20 group-hover:bg-transparent transition-colors duration-500">
@@ -125,7 +123,7 @@ require_once __DIR__ . '/includes/header.php';
     <div class="grid md:grid-cols-2">
         <!-- Image Side -->
         <div class="max-h-[500px] md:h-auto relative overflow-hidden group">
-            <img src="<?php echo url(''); ?>/assets/team/team.png" alt="Good Karma"
+            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/team.webp" alt="Good Karma"
                 class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
             <div class="absolute inset-0 bg-brand-orange/10 group-hover:bg-transparent transition-colors duration-500">
             </div>
@@ -180,14 +178,14 @@ require_once __DIR__ . '/includes/header.php';
                     <span class="text-sm text-gray-500 uppercase tracking-wide">Board Certified</span>
                 </div>
                 <div class="text-center md:text-left hidden lg:block">
-                    <img src="<?php echo url(''); ?>/assets/cloudinary/Logo-2_bchwgb.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/Logo-2_bchwgb.webp"
                         alt="Logo" class="h-12 opacity-50 invert">
                 </div>
             </div>
         </div>
         <!-- Image Side (5/12) -->
         <div class="lg:col-span-6 relative h-[500px] lg:h-auto bg-gray-200">
-            <img src="<?php echo url(''); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.png"
+            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/4990c7a6-07b7-48c2-9a5f-cd188d2ad944.webp"
                 alt="Dr. Keerthy Sunder" class="absolute inset-0 w-full h-full object-cover object-top">
             <div class="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent lg:hidden"></div>
             <div class="absolute bottom-6 left-6 text-white lg:hidden">
@@ -280,7 +278,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/dr-lyle-forehand.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/dr-lyle-forehand.webp"
                             alt="Dr. Lyle Forehand"
                             class="w-full h-full object-cover object-[50%_30%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -337,7 +335,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/dr-ben.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/dr-ben.webp"
                             alt="Dr. Benjamin Vanderschelden"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -375,7 +373,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/dr-chen.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/dr-chen.webp"
                             alt="Dr. Yucui Chen, M.D."
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -412,7 +410,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/bethany-minick.jpeg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/bethany-minick.webp"
                             alt="Bethany Minick, LMFT"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -459,7 +457,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/raymond-chung.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/raymond-chung.webp"
                             alt="Raymond Chung, LMFT"
                             class="w-full h-full object-cover object-[50%_30%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -513,7 +511,7 @@ require_once __DIR__ . '/includes/header.php';
                 <!-- <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/giovanni-birrueta.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/giovanni-birrueta.webp"
                             alt="Giovanni Birrueta, PMHNP-BC"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -560,7 +558,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/emily-luu.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/emily-luu.webp"
                             alt="Emily Luu, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -616,7 +614,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Nicole-Wright.png"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/nicole-wright.webp"
                             alt="Nicole Wright, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -653,7 +651,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Kenneth-Granados.PNG"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/kenneth-granados.webp"
                             alt="Dr. Kenneth Granados, DMSc, MSPAS, PA"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -690,7 +688,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Jordan-Wilkins.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Jordan-Wilkins.jpg"
                             alt="Jordan Wilkins, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -725,7 +723,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Punit.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Punit.webp"
                             alt="Punit Patel, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -761,7 +759,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/rachel-parker.jpg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/rachel-parker.webp"
                             alt="Rachel Parker, PA-C"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -808,7 +806,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="provider" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Tracy-Mason.jpeg"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Tracy-Mason.webp"
                             alt="Tracy Mason, PMHNP-BC"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -848,7 +846,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Anjali-Krishna.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Anjali-Krishna.webp"
                             alt="Anjali Krishna, Director of Operations"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -886,7 +884,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="100">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/josh.png"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/josh.webp"
                             alt="Joshua Smith, Practice Director"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -922,7 +920,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="200">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Rachel-c.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Rachel-c.webp"
                             alt="Rachel Carranza, Practice Manager"
                             class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -961,7 +959,7 @@ require_once __DIR__ . '/includes/header.php';
                 <div class="team-card group bg-white rounded-2xl shadow-sm hover:shadow-xl transition-all duration-500 overflow-hidden border border-gray-100"
                     data-category="admin" data-aos="fade-up" data-aos-delay="0">
                     <div class="relative h-80 overflow-hidden">
-                        <img src="<?php echo url(''); ?>/assets/team/Ricardo.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/Ricardo.webp"
                             alt="Ricardo Hernandez, Director of Communications"
                             class="w-full h-full object-cover object-[50%_20%] transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent">
@@ -1005,7 +1003,7 @@ require_once __DIR__ . '/includes/header.php';
                  
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="0">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo url(''); ?>/assets/team/mark-odron.jpg"
+                            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/mark-odron.webp"
                                 alt="Mark Odron, MD"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1030,7 +1028,7 @@ require_once __DIR__ . '/includes/header.php';
                     
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="50">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo url(''); ?>/assets/team/jossie-avalos.jpeg"
+                            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/jossie-avalos.webp"
                                 alt="Jossie Avalos, LVN"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1055,7 +1053,7 @@ require_once __DIR__ . '/includes/header.php';
                   
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="100">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo url(''); ?>/assets/team/casey-phillips.jpg"
+                            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/casey-phillips.webp"
                                 alt="Casey Phillips"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1080,7 +1078,7 @@ require_once __DIR__ . '/includes/header.php';
               
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="150">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo url(''); ?>/assets/team/vipul-reddy.jpg"
+                            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/vipul-reddy.webp"
                                 alt="Vipul Reddy"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1107,7 +1105,7 @@ require_once __DIR__ . '/includes/header.php';
                  
                     <div class="group bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-500 overflow-hidden border border-gray-100 text-center" data-aos="fade-up" data-aos-delay="200">
                         <div class="relative h-56 overflow-hidden">
-                            <img src="<?php echo url(''); ?>/assets/team/brianna-dela-cruz.jpg"
+                            <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/team/brianna-dela-cruz.webp"
                                 alt="Brianna Dela Cruz"
                                 class="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-105">
                             <div class="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent"></div>
@@ -1229,7 +1227,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <!-- Philosophy - Premium Glass Design -->
 <section class="relative  py-6 bg-fixed bg-cover bg-center md:my-10"
-    style="background-image: url('https://images.unsplash.com/photo-1518531933037-8845d8adc04c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80');">
+    style="background-image: url('https://images.unsplash.com/photo-1518531933037-8845d8adc04c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80');">
     <!-- Deep Overlay -->
     <div
         class="absolute inset-0 bg-gradient-to-b from-brand-dark/95 via-brand-purple/90 to-brand-dark/95 mix-blend-multiply container mx-auto md:rounded-full ">

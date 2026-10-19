@@ -6,15 +6,15 @@ require_once __DIR__ . '/includes/header.php';
 <section class="relative pt-32 pb-20 overflow-hidden bg-brand-purple">
     <!-- Background -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo url(''); ?>/assets/cloudinary/85f47624-7140-4d90-bfc8-2869d5d1d4c0.png"
+        <img decoding="async" src="<?php echo url(''); ?>/assets/cloudinary/85f47624-7140-4d90-bfc8-2869d5d1d4c0.webp"
             alt="Banner Background" class="w-full h-full object-cover opacity-40 mix-blend-multiply">
         <div class="absolute inset-0 bg-gradient-to-b from-white/50 to-brand-purpleLight/30"></div>
     </div>
 
     <div class="container mx-auto px-4 relative z-10 text-center">
-        <h1 class="text-3xl md:text-5xl font-bold text-white mb-4 font-sans tracking-tight" data-aos="fade-up">
+        <h1 class="text-3xl md:text-5xl font-bold text-white mb-4 font-sans tracking-tight hero-anim hero-up">
             Contact Us</h1>
-        <nav class="flex justify-center" aria-label="Breadcrumb" data-aos="fade-up" data-aos-delay="100">
+        <nav class="flex justify-center hero-anim hero-up hero-d1" aria-label="Breadcrumb">
             <ol class="inline-flex items-center space-x-1 md:space-x-3 text-sm font-medium text-white/80">
                 <li class="inline-flex items-center">
                     <a href="<?php echo url('/'); ?>" class="hover:text-white transition-colors flex items-center">
@@ -40,7 +40,7 @@ require_once __DIR__ . '/includes/header.php';
         class="lg:w-5/12 relative bg-brand-purple text-white flex flex-col justify-center lg:sticky lg:top-[85px] lg:h-[calc(100vh-85px)] overflow-hidden min-h-[600px] border-r border-white/10">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0">
-            <img src="https://images.unsplash.com/photo-1620916566398-39f1143ab7be?ixlib=rb-4.0.3&auto=format&fit=crop&w=1887&q=80"
+            <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1620916566398-39f1143ab7be.webp'); ?>"
                 alt="Calming Nature" class="w-full h-full object-cover opacity-20 mix-blend-overlay">
             <div class="absolute inset-0 bg-gradient-to-br from-brand-purple/95 to-brand-dark/95"></div>
         </div>
@@ -210,7 +210,7 @@ $gallery_images = array(
                     data-alt="<?php echo esc_attr($img['alt']); ?>"
                     aria-label="<?php echo esc_attr('View larger image: ' . $img['caption']); ?>"
                     data-aos="fade-up" data-aos-delay="<?php echo ($i % 3) * 100; ?>">
-                    <img src="<?php echo esc_url($gallery_uri . '/thumbs/' . $img['file']); ?>"
+                    <img loading="lazy" decoding="async" src="<?php echo esc_url($gallery_uri . '/thumbs/' . $img['file']); ?>"
                         alt="<?php echo esc_attr($img['alt']); ?>"
                         width="<?php echo esc_attr($img['w']); ?>" height="<?php echo esc_attr($img['h']); ?>"
                         loading="lazy" decoding="async"

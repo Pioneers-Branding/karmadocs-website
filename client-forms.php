@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative h-[50vh] min-h-[400px] flex items-center justify-center">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1550831107-1553da8c8464?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+            <img src="<?php echo url('assets/img/ext/photo-1550831107-1553da8c8464.webp'); ?>"
                 alt="Client Forms" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-brand-purple/50 mix-blend-multiply"></div>
             <div class="absolute inset-0 bg-black/40"></div>

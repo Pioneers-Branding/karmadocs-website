@@ -58,7 +58,7 @@ return '<p class="wp-block-paragraph">If you or someone you love has been diagno
 <p class="wp-block-paragraph">For children and college students, ADHD may qualify for accommodations under <strong>Section 504</strong> of the Rehabilitation Act or the Individuals with Disabilities Education Act (IDEA). These plans can include extra test time, preferential seating, or modified assignments.</p>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&amp;q=80" alt="Student studying with ADHD accommodations"/><figcaption class="wp-element-caption">Students with ADHD may qualify for school accommodations under federal law.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1434030216411-0b793f4b4173.webp" alt="Student studying with ADHD accommodations"/><figcaption class="wp-element-caption">Students with ADHD may qualify for school accommodations under federal law.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">Can You Get ADHD Disability Benefits?</h2>
@@ -110,7 +110,7 @@ return '<p class="wp-block-paragraph">If you or someone you love has been diagno
 <p class="wp-block-paragraph">You do not have to manage ADHD alone. Our board-certified psychiatrists specialize in diagnosing and treating ADHD in adults and children. <a href="/contact">Book your appointment today</a>, taking that first step can truly change your life.</p>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&amp;q=80" alt="Doctor consulting patient about ADHD"/><figcaption class="wp-element-caption">Speaking with a psychiatrist is the best first step toward understanding your ADHD and your rights.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1576091160399-112ba8d25d1d.webp" alt="Doctor consulting patient about ADHD"/><figcaption class="wp-element-caption">Speaking with a psychiatrist is the best first step toward understanding your ADHD and your rights.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">Frequently Asked Questions About ADHD as a Disability</h2>

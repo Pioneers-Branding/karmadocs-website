@@ -1,2 +1,5 @@
 .DS_Store
 *.log
+
+# Build tooling dependencies
+tools/*/node_modules/

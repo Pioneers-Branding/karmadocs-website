@@ -48,7 +48,7 @@ require_once __DIR__ . '/includes/header.php';
 <section class="relative h-[50vh] min-h-[400px] flex items-end pb-12">
     <!-- Background Image -->
     <div class="absolute inset-0 z-0">
-        <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" class="w-full h-full object-cover">
+        <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" decoding="async" fetchpriority="high" class="w-full h-full object-cover">
         <!-- Overlay -->
         <div class="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent"></div>
     </div>

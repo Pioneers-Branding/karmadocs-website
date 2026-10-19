@@ -7,7 +7,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative pt-32 pb-20 lg:pt-40 lg:pb-32 overflow-hidden">
         <!-- Background Image with Overlay -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=2070&auto=format&fit=crop"
+            <img src="<?php echo url('assets/img/ext/photo-1576091160399-112ba8d25d1d.webp'); ?>"
                 alt="Medication Management" class="w-full h-full object-cover">
             <div
                 class="absolute inset-0 bg-gradient-to-r from-brand-purple/95 via-brand-purple/80 to-brand-purple/60 mix-blend-multiply">
@@ -23,19 +23,17 @@ require_once __DIR__ . '/includes/header.php';
                     Our Services
                 </span>
             </div>
-            <h1 class="font-sans text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight"
-                data-aos="fade-up" data-aos-delay="100">
+            <h1 class="font-sans text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight drop-shadow-lg tracking-tight hero-anim hero-up hero-d1">
                 Comprehensive <br class="hidden md:block">Medication <span
                     class="text-transparent bg-clip-text bg-gradient-to-r from-brand-orange to-yellow-300">Management</span>
             </h1>
-            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90"
-                data-aos="fade-up" data-aos-delay="200">
+            <p class="text-lg md:text-xl text-gray-100 max-w-2xl mx-auto font-medium leading-relaxed drop-shadow-md opacity-90 hero-anim hero-up hero-d2">
                 Finding the right balance. We provide expert psychiatric evaluation and personalized medication
                 strategies to help you reclaim your life. Our approach combines clinical expertise with compassionate,
                 human-centered care to ensure you feel heard, understood, and supported at every step.
             </p>
 
-            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center" data-aos="fade-up" data-aos-delay="300">
+            <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center hero-anim hero-up hero-d3">
                 <a href="<?php echo url('contact'); ?>"
                     class="px-8 py-3.5 rounded-full bg-brand-orange hover:bg-brand-orangeHover text-white font-bold uppercase tracking-wider transition-all shadow-lg hover:shadow-brand-orange/50 hover:-translate-y-1">
                     Book Board-Certified Psychiatric Evaluation
@@ -99,10 +97,10 @@ require_once __DIR__ . '/includes/header.php';
                         <div class="mt-8 flex items-center gap-4">
                             <div class="flex -space-x-4">
                                 <img class="w-10 h-10 rounded-full border-2 border-white"
-                                    src="https://ui-avatars.com/api/?name=Dr+S&background=603177&color=fff"
+                                    src="<?php echo url('assets/img/ext/avatar-dr-s.webp'); ?>"
                                     alt="Doctor">
                                 <img class="w-10 h-10 rounded-full border-2 border-white"
-                                    src="https://ui-avatars.com/api/?name=Dr+M&background=F48F12&color=fff"
+                                    src="<?php echo url('assets/img/ext/avatar-dr-m.webp'); ?>"
                                     alt="Doctor">
                                 <span
                                     class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-white bg-gray-100 text-xs font-bold text-gray-600">+4</span>
@@ -271,7 +269,7 @@ require_once __DIR__ . '/includes/header.php';
                         </div>
                     </div>
                     <div class="relative h-[400px] rounded-2xl overflow-hidden group">
-                        <img src="https://images.unsplash.com/photo-1682352689072-7b2c0b8580c2?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        <img src="<?php echo url('assets/img/ext/photo-1682352689072-7b2c0b8580c2.webp'); ?>"
                             alt="Doctor with Patient"
                             class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105">
                         <div class="absolute inset-0 bg-gradient-to-t from-brand-purple/60 to-transparent"></div>
@@ -550,7 +548,7 @@ require_once __DIR__ . '/includes/header.php';
     <section class="py-20 relative overflow-hidden">
         <div class="absolute inset-0 bg-brand-dark"></div>
         <div class="absolute inset-0 bg-gradient-to-r from-brand-purple/50 to-brand-orange/20 mix-blend-overlay"></div>
-        <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10">
+        <div class="absolute inset-0 bg-texture-cubes opacity-10">
         </div>
 
         <div class="container mx-auto px-4 relative z-10 text-center">

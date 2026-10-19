@@ -29,19 +29,19 @@ require_once __DIR__ . '/includes/header.php';
 ?>
 
 <!-- Blog Hero -->
-<section class="relative h-[65vh] min-h-[500px] flex items-center bg-fixed bg-cover bg-center" style="background-image: url('<?php echo url('assets/cloudinary/-7261_itcxch.png'); ?>');">
+<section class="relative h-[65vh] min-h-[500px] flex items-center bg-fixed bg-cover bg-center" style="background-image: url('<?php echo url('assets/cloudinary/-7261_itcxch.webp'); ?>');">
     <!-- Overlay -->
     <div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/50 to-transparent mix-blend-multiply"></div>
 
     <div class="container mx-auto px-6 relative z-10 pt-20">
         <div class="max-w-3xl">
-            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-6 leading-tight text-white drop-shadow-md" data-aos="fade-right">
+            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-6 leading-tight text-white drop-shadow-md hero-anim hero-right">
                 Our Blog & <br><span class="text-brand-orange">Insights</span>
             </h1>
 
-            <div class="w-24 h-1 bg-brand-orange mb-8 rounded-full" data-aos="fade-right" data-aos-delay="100"></div>
+            <div class="w-24 h-1 bg-brand-orange mb-8 rounded-full hero-anim hero-right hero-d1"></div>
 
-            <p class="text-xl text-gray-50 font-medium leading-relaxed max-w-xl" data-aos="fade-right" data-aos-delay="200">
+            <p class="text-xl text-gray-50 font-medium leading-relaxed max-w-xl hero-anim hero-right hero-d2">
                 Latest updates, mental health tips, and stories from Karma Doctors & Associates.
             </p>
         </div>
@@ -163,7 +163,7 @@ require_once __DIR__ . '/includes/header.php';
 
 <!-- Newsletter CTA -->
 <section class="py-20 bg-brand-purple text-white relative overflow-hidden">
-    <div class="absolute inset-0 opacity-10 bg-[url('https://www.transparenttextures.com/patterns/cubes.png')]"></div>
+    <div class="absolute inset-0 opacity-10 bg-texture-cubes"></div>
     <div class="container mx-auto px-4 text-center relative z-10">
         <h2 class="text-3xl md:text-4xl font-bold font-sans mb-6">Stay Updated with Karma Docs</h2>
         <p class="text-lg text-purple-100 mb-10 max-w-2xl mx-auto font-light">

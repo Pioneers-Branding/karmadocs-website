@@ -6,7 +6,7 @@
 return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to breathe deeply? If you&#8217;ve been searching for <strong>how to calm anxiety</strong>, you are not alone. Anxiety is one of the most common mental health challenges in America, affecting millions of adults and children every day. The good news is that there are real, proven strategies for <strong>anxiety relief</strong> that can help you feel better — sometimes within minutes. In this guide, we&#8217;ll walk you through what anxiety is, why it happens, and exactly what you can do about it.</p>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=800&amp;q=80" alt="Person practicing deep breathing to calm anxiety"/><figcaption class="wp-element-caption">Deep breathing is one of the fastest ways to calm anxiety and activate your body&#8217;s relaxation response.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1545205597-3d9d02c29597.webp" alt="Person practicing deep breathing to calm anxiety"/><figcaption class="wp-element-caption">Deep breathing is one of the fastest ways to calm anxiety and activate your body&#8217;s relaxation response.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">What Is Anxiety?</h2>
@@ -74,7 +74,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 </ul>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=800&amp;q=80" alt="Person meditating outdoors for anxiety relief"/><figcaption class="wp-element-caption">Mindfulness meditation is a clinically proven method for long-term anxiety relief.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1506126613408-eca07ce68773.webp" alt="Person meditating outdoors for anxiety relief"/><figcaption class="wp-element-caption">Mindfulness meditation is a clinically proven method for long-term anxiety relief.</figcaption></figure>
 </div>
 
 <h3 class="wp-block-heading">3. Progressive Muscle Relaxation</h3>
@@ -150,7 +150,7 @@ return '<p class="wp-block-paragraph">Feeling overwhelmed, on edge, or unable to
 <p class="wp-block-paragraph">You deserve to feel calm and in control of your life. Our board-certified psychiatrists at Karma Docs specialize in anxiety disorders and are ready to create a personalized treatment plan just for you. <a href="/contact">Schedule your appointment today</a> — help is closer than you think.</p>
 
 <div class="wp-block-image">
-<figure class="aligncenter size-large"><img decoding="async" src="https://images.unsplash.com/photo-1573497491208-6b1acb260507?w=800&amp;q=80" alt="Compassionate psychiatrist speaking with anxiety patient"/><figcaption class="wp-element-caption">Our compassionate psychiatrists are here to help you find the anxiety relief you deserve.</figcaption></figure>
+<figure class="aligncenter size-large"><img loading="lazy" decoding="async" src="/assets/img/ext/photo-1573497491208-6b1acb260507.webp" alt="Compassionate psychiatrist speaking with anxiety patient"/><figcaption class="wp-element-caption">Our compassionate psychiatrists are here to help you find the anxiety relief you deserve.</figcaption></figure>
 </div>
 
 <h2 class="wp-block-heading">Frequently Asked Questions About Calming Anxiety</h2>

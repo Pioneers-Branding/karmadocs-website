@@ -114,7 +114,7 @@ require_once __DIR__ . '/includes/header.php';
                                 <div
                                     class="absolute -inset-4 bg-gradient-to-r from-brand-purple to-brand-orange opacity-20 blur-xl rounded-2xl">
                                 </div>
-                                <img src="<?php echo url('assets/gallery/research/Dr_sunder_Award_05.webp'); ?>"
+                                <img loading="lazy" decoding="async" src="<?php echo url('assets/gallery/research/Dr_sunder_Award_05.webp'); ?>"
                                     alt="Dr. Keerthy Sunder accepting the Golden Axon Leadership Award on stage at the 2023 SBMT Gala"
                                     width="791" height="489" loading="lazy" decoding="async"
                                     class="relative rounded-xl shadow-lg w-full h-auto">
@@ -127,7 +127,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 1 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="100">
-                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto transition-transform group-hover:scale-105">
+                            <img loading="lazy" decoding="async" src="<?php echo url('assets/award_badge.webp'); ?>" alt="Award Badge" class="h-20 w-auto mb-4 mx-auto transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Science & Innovation</h4>
                             <p class="text-sm text-gray-500">Pioneering advancements in TMS technology and personalized
                                 psychiatric treatment protocols.</p>
@@ -135,7 +135,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 2 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="200">
-                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge"
+                            <img loading="lazy" decoding="async" src="<?php echo url('assets/award_badge.webp'); ?>" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Arts & Culture</h4>
                             <p class="text-sm text-gray-500">Supporting mental health awareness through partnerships
@@ -144,7 +144,7 @@ require_once __DIR__ . '/includes/header.php';
                         <!-- Card 3 -->
                         <div class="bg-white p-8 rounded-2xl border border-gray-100 shadow-sm hover:shadow-md hover:border-brand-purple/30 transition-all group cursor-default text-center"
                             data-aos="fade-up" data-aos-delay="300">
-                            <img src="<?php echo url('assets/award_badge.png'); ?>" alt="Award Badge"
+                            <img loading="lazy" decoding="async" src="<?php echo url('assets/award_badge.webp'); ?>" alt="Award Badge"
                                 class="h-20 w-auto mb-4 mx-auto block transition-transform group-hover:scale-105">
                             <h4 class="font-bold text-gray-900 mb-2">Policy & Advocacy</h4>
                             <p class="text-sm text-gray-500">Active leadership in global summits to shape the future of
@@ -165,7 +165,7 @@ require_once __DIR__ . '/includes/header.php';
                         target="_blank" rel="noopener"
                         class="group relative block rounded-3xl overflow-hidden border border-gray-100 shadow-sm hover:shadow-xl transition-shadow duration-300 focus:outline-none focus-visible:ring-4 focus-visible:ring-brand-purple/40"
                         aria-label="Open a full-size view of the Karma TMS Neuromodulation research publications board">
-                        <img src="<?php echo url(''); ?>/assets/gallery/research/karma-tms-research.webp"
+                        <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/gallery/research/karma-tms-research.webp"
                             alt="Karma TMS Neuromodulation Research Publications board listing eight peer-reviewed studies published in Frontiers in Psychiatry, Acta Scientific Neurology, and EC Clinical and Medical Case Reports"
                             width="2400" height="1556" loading="lazy" decoding="async"
                             class="w-full h-auto block transition-transform duration-700 ease-out group-hover:scale-[1.02]">
@@ -934,7 +934,7 @@ require_once __DIR__ . '/includes/header.php';
 
                     <!-- Main Feature: Ukraine Mission (Large Card) -->
                     <div class="md:col-span-8 relative group rounded-3xl overflow-hidden bg-gray-800">
-                        <img src="https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&q=80"
+                        <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1576091160399-112ba8d25d1d.webp'); ?>"
                             alt="Ukraine Mission"
                             class="absolute inset-0 w-full h-full object-cover transition-transform duration-700 group-hover:scale-105 opacity-60 group-hover:opacity-40">
                         <div class="absolute inset-0 bg-gradient-to-t from-gray-900 via-gray-900/40 to-transparent">
@@ -1009,7 +1009,7 @@ require_once __DIR__ . '/includes/header.php';
                         <div class="flex flex-col md:flex-row items-center justify-between gap-12 relative z-10">
                             <div class="md:w-1/2">
                                 <div class="flex items-center gap-4 mb-6">
-                                    <img src="<?php echo url('assets/lotus-logo.png'); ?>"
+                                    <img loading="lazy" decoding="async" src="<?php echo url('assets/lotus-logo.webp'); ?>"
                                         alt="Sunder Foundation Lotus Logo" class="h-14 w-auto object-contain bg-white/10 p-2 rounded-xl backdrop-blur-sm">
                                     <div>
                                         <span class="block text-2xl font-bold font-sans text-white tracking-wider uppercase leading-tight">Sunder</span>
@@ -1029,10 +1029,10 @@ require_once __DIR__ . '/includes/header.php';
                             </div>
                             <!-- Image Grid -->
                             <div class="md:w-1/2 grid grid-cols-2 gap-4">
-                                <img src="https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&q=80"
+                                <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1488521787991-ed7bbaae773c.webp'); ?>"
                                     alt="Neuroscience research"
                                     class="rounded-2xl w-full h-40 object-cover opacity-80 mix-blend-overlay hover:opacity-100 transition-opacity">
-                                <img src="https://images.unsplash.com/photo-1594708767771-a7502209ff51?auto=format&fit=crop&q=80"
+                                <img loading="lazy" decoding="async" src="<?php echo url('assets/img/ext/photo-1594708767771-a7502209ff51.webp'); ?>"
                                     alt="Brain study"
                                     class="rounded-2xl w-full h-40 object-cover opacity-80 mix-blend-overlay hover:opacity-100 transition-opacity translate-y-8">
                             </div>

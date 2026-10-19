@@ -7,17 +7,17 @@ require_once __DIR__ . '/includes/header.php';
     <section class="relative h-[50vh] min-h-[400px] flex items-center justify-center">
         <!-- Background Image -->
         <div class="absolute inset-0 z-0">
-            <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+            <img decoding="async" src="<?php echo url('assets/img/ext/photo-1554224155-8d04cb21cd6c.webp'); ?>"
                 alt="Insurance and Rates" class="w-full h-full object-cover">
             <div class="absolute inset-0 bg-brand-purple/50 mix-blend-multiply"></div>
             <div class="absolute inset-0 bg-black/40"></div>
         </div>
 
         <div class="container mx-auto px-6 relative z-10 text-center">
-            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-4 text-white drop-shadow-lg" data-aos="fade-up">
+            <h1 class="font-sans text-4xl md:text-6xl font-bold mb-4 text-white drop-shadow-lg hero-anim hero-up">
                 Insurance & Rates
             </h1>
-            <p class="text-xl text-gray-100 max-w-2xl mx-auto font-medium" data-aos="fade-up" data-aos-delay="100">
+            <p class="text-xl text-gray-100 max-w-2xl mx-auto font-medium hero-anim hero-up hero-d1">
                 Transparent information about our pricing, accepted insurance plans, and payment policies.
             </p>
         </div>
@@ -88,37 +88,37 @@ require_once __DIR__ . '/includes/header.php';
                 <p class="text-xs font-bold text-gray-400 uppercase tracking-widest mb-8">We Accept Major Plans</p>
                 <div
                     class="flex flex-wrap justify-center items-center gap-8 md:gap-12 max-w-6xl mx-auto opacity-80 grayscale hover:grayscale-0 transition-all duration-500">
-                    <img src="<?php echo url(''); ?>/assets/insurances/aetna.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/aetna.webp"
                         alt="Aetna" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/anthem.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/anthem.webp"
                         alt="Anthem" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/blue-california.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/blue-california.webp"
                         alt="Blue Shield of California" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/cigna.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/cigna.webp"
                         alt="Cigna" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/unitedhealthcare.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/unitedhealthcare.png"
                         alt="United Healthcare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/medicare.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/medicare.webp"
                         alt="Medicare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/optum.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/optum.webp"
                         alt="Optum" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/tricare.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/tricare.webp"
                         alt="Tricare" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/triwest.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/triwest.png"
                         alt="TriWest" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/iehp.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/iehp.png"
                         alt="IEHP" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/health-net.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/health-net.png"
                         alt="Health Net" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/evernorth.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/evernorth.png"
                         alt="Evernorth" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/megallan-health-logo.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/megallan-health-logo.png"
                         alt="Magellan Health" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/mhn.webp"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/mhn.webp"
                         alt="MHN" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
-                    <img src="<?php echo url(''); ?>/assets/insurances/desert-oasis-logo.jpg"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/desert-oasis-logo.jpg"
                         alt="Desert Oasis Healthcare" class="h-12 md:h-14 object-contain hover:scale-110 transition-transform mix-blend-multiply">
-                    <img src="<?php echo url(''); ?>/assets/insurances/livewell-logo.png"
+                    <img loading="lazy" decoding="async" src="<?php echo url(''); ?>/assets/insurances/livewell-logo.png"
                         alt="Live Well" class="h-10 md:h-12 object-contain hover:scale-110 transition-transform">
                 </div>
             </div>
