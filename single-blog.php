@@ -105,9 +105,12 @@ require_once __DIR__ . '/includes/header.php';
 
         <!-- Related Articles -->
         <?php if (!empty($related)): ?>
+            <?php 
+                $related_heading = !empty($post['related_heading']) ? $post['related_heading'] : $post['category'];
+            ?>
             <div class="max-w-5xl mx-auto mt-20">
                 <h2 class="font-sans text-2xl font-bold text-gray-900 mb-8 text-center">
-                    More in <span class="text-brand-purple"><?php echo htmlspecialchars($post['category']); ?></span>
+                    More in <span class="text-brand-purple"><?php echo htmlspecialchars($related_heading); ?></span>
                 </h2>
                 <div class="grid gap-6 md:grid-cols-3">
                     <?php foreach ($related as $rel): ?>

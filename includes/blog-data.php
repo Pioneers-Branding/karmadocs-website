@@ -16,6 +16,25 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id' => 2301,
+            'slug' => 'does-tms-help-with-adhd',
+            'title' => 'Does TMS Help with ADHD? Benefits Explained',
+            'meta_title' => 'Does TMS Help with ADHD? Benefits Explained',
+            'author' => 'Karma Doctors Team',
+            'date' => 'October 19, 2026',
+            'date_iso' => '2026-10-19',
+            'category' => 'TMS Therapy',
+            'related_heading' => 'TMS & ADHD',
+            'related_slugs' => [
+                'how-do-psychiatrists-diagnose-adhd-in-adults',
+                'is-tms-a-hoax',
+                'can-tms-cause-memory-loss',
+            ],
+            'image' => '/assets/blog/does-tms-help-with-adhd.webp',
+            'excerpt' => 'Does TMS help with ADHD? Explore its potential benefits, limitations, and treatment options with Karma Doctors and Associates to understand your options.',
+            'meta_desc' => 'Does TMS help with ADHD? Explore its potential benefits, limitations, and treatment options with Karma Doctors and Associates to understand your options.',
+        ],
+        [
             'id' => 2293,
             'slug' => 'is-tms-a-hoax',
             'title' => 'Is TMS a Hoax? The Truth Behind TMS Therapy & Results',
@@ -851,18 +870,39 @@ function get_blog_categories() {
 }
 
 /**
- * A few related posts from the same category, excluding the current one.
+ * A few related posts from the same category or explicitly defined related topics, excluding the current one.
  */
 function get_related_blog_posts($slug, $limit = 3) {
     $current = null;
-    foreach (get_blog_index() as $post) {
+    $all = get_blog_index();
+    foreach ($all as $post) {
         if ($post['slug'] === $slug) { $current = $post; break; }
     }
     if ($current === null) {
         return [];
     }
+
+    // 1. If explicit related_slugs are defined for the post
+    if (!empty($current['related_slugs'])) {
+        $related = [];
+        $bySlug = [];
+        foreach ($all as $post) {
+            $bySlug[$post['slug']] = $post;
+        }
+        foreach ($current['related_slugs'] as $rSlug) {
+            if (isset($bySlug[$rSlug]) && $rSlug !== $slug) {
+                $related[] = $bySlug[$rSlug];
+                if (count($related) >= $limit) break;
+            }
+        }
+        if (!empty($related)) {
+            return $related;
+        }
+    }
+
+    // 2. Default to same category
     $related = [];
-    foreach (get_blog_index() as $post) {
+    foreach ($all as $post) {
         if ($post['slug'] !== $slug && $post['category'] === $current['category']) {
             $related[] = $post;
             if (count($related) >= $limit) break;
