@@ -17,6 +17,14 @@ $is_active = function($key) use ($page_key) {
 <html lang="en">
 
 <head>
+    <?php if ($page_key === 'contact'): ?>
+    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-PT6KVRGW"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    </script>
+    <?php endif; ?>
     <!-- Google tag (gtag.js): loaded on first user interaction, or shortly
          after the load event, so its evaluation does not block the page's
          main thread while it is still becoming interactive. Calls made
