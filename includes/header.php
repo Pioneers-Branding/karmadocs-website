@@ -18,12 +18,13 @@ $is_active = function($key) use ($page_key) {
 
 <head>
     <?php if ($page_key === 'contact'): ?>
-    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-PT6KVRGW"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-    </script>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PT6KVRGW');</script>
+    <!-- End Google Tag Manager -->
     <?php endif; ?>
     <!-- Google tag (gtag.js): loaded on first user interaction, or shortly
          after the load event, so its evaluation does not block the page's
@@ -175,6 +176,12 @@ $is_active = function($key) use ($page_key) {
 </head>
 
 <body class="font-body text-gray-700 antialiased overflow-x-hidden">
+    <?php if ($page_key === 'contact'): ?>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT6KVRGW"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <?php endif; ?>
 
     <!-- Header/Nav -->
     <header class="fixed top-0 left-0 w-full z-50 transition-all duration-500 bg-gradient-to-b from-white/90 via-white/80 to-transparent py-4 shadow-sm" id="main-header">
