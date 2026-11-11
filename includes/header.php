@@ -17,7 +17,7 @@ $is_active = function($key) use ($page_key) {
 <html lang="en">
 
 <head>
-    <?php if ($page_key === 'contact'): ?>
+    <?php if (in_array($page_key, ['home', 'contact'], true)): ?>
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -176,7 +176,7 @@ $is_active = function($key) use ($page_key) {
 </head>
 
 <body class="font-body text-gray-700 antialiased overflow-x-hidden">
-    <?php if ($page_key === 'contact'): ?>
+    <?php if (in_array($page_key, ['home', 'contact'], true)): ?>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PT6KVRGW"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
