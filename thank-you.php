@@ -2,6 +2,13 @@
 $page_key = 'thank-you';
 require_once __DIR__ . '/includes/header.php';
 ?>
+<script async src="https://www.googletagmanager.com/gtm.js?id=GTM-PT6KVRGW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+</script>
+
 <!-- Event snippet for Submit lead form conversion page -->
 <script>
     gtag('event', 'conversion', { 'send_to': 'AW-11034311341/J6xHCO7ty6kcEK31yI0p' });
