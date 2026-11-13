@@ -16,6 +16,25 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id'              => 2310,
+            'slug'            => 'does-cigna-cover-tms-therapy',
+            'title'           => 'Does Cigna Cover TMS Therapy? What Patients Should Know',
+            'meta_title'      => 'Does Cigna Cover TMS Therapy? What Patients Should Know',
+            'author'          => 'Karma Doctors Team',
+            'date'            => 'November 9, 2026',
+            'date_iso'        => '2026-11-09',
+            'category'        => 'TMS Therapy',
+            'related_heading' => 'TMS & Insurance Coverage',
+            'related_slugs'   => [
+                'does-aetna-cover-tms-therapy',
+                'does-tricare-cover-tms-therapy-everything-you-need-to-know',
+                'does-medicare-cover-tms-therapy',
+            ],
+            'image'           => '/assets/blog/does-cigna-cover-tms-therapy-insurance-coverage.webp',
+            'excerpt'         => 'Does Cigna cover TMS therapy? Learn Cigna\'s coverage criteria, prior authorization rules, session limits, costs, and approval steps in this 2026 patient guide.',
+            'meta_desc'       => 'Does Cigna cover TMS therapy? Learn Cigna\'s coverage criteria, prior authorization rules, session limits, costs, and approval steps in this 2026 patient guide.',
+        ],
+        [
             'id' => 2301,
             'slug' => 'does-tms-help-with-adhd',
             'title' => 'Does TMS Help with ADHD? Benefits Explained',
