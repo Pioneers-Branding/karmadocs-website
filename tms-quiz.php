@@ -21,10 +21,10 @@ require_once __DIR__ . '/includes/header.php';
         <div class="text-center mb-8">
             <span class="inline-block text-xs font-bold uppercase tracking-widest text-brand-orange mb-3">Assessment</span>
             <h1 class="font-sans text-4xl md:text-5xl font-bold leading-tight mb-4 text-white">
-                TMS Candidacy Assessment
+                TMS Treatment &ndash; Patient Pre-Screening
             </h1>
             <p class="text-lg md:text-xl text-white/80 font-light leading-relaxed">
-                This brief assessment helps determine if TMS therapy might be right for you.
+                Please answer a few questions to help our team understand whether TMS treatment may be an option for you.
             </p>
         </div>
 
@@ -32,6 +32,10 @@ require_once __DIR__ . '/includes/header.php';
         <div class="bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl shadow-2xl p-4 md:p-6 text-white">
             <iframe src="https://api.leadconnectorhq.com/widget/survey/kvUSP2yeaUszFuJICuHs" style="border:none;width:100%;min-height:600px;" scrolling="no" id="kvUSP2yeaUszFuJICuHs" title="survey"></iframe>
         </div>
+
+        <p class="mt-6 px-4 py-3 text-sm leading-relaxed text-white/80 bg-white/5 border border-white/15 rounded-xl text-left">
+            <strong class="text-white">Disclaimer:</strong> This questionnaire is for preliminary screening only. It does not provide a diagnosis or confirm eligibility for TMS treatment. A qualified healthcare professional will review your medical history and determine whether TMS is appropriate for you.
+        </p>
 
         <p class="text-center text-white/40 text-xs mt-6 tracking-wide">
             <i class="fas fa-lock mr-1"></i> Your information is private and protected under HIPAA guidelines.
