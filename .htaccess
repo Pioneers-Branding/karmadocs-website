@@ -134,6 +134,7 @@
     RewriteRule ^how-tms-helps-military-members-dependents/$ /how-tms-helps-military-members-dependents [R=301,L]
     RewriteRule ^how-tms-is-helping-veterans-address-mental-health-challenges/$ /how-tms-is-helping-veterans-address-mental-health-challenges [R=301,L]
     RewriteRule ^how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns/$ /how-to-better-your-nutrition-for-mental-wellness-and-welcoming-dr-todd-born-nd-cns [R=301,L]
+    RewriteRule ^how-to-deal-with-anxiety-when-it-affects-daily-life/$ /how-to-deal-with-anxiety-when-it-affects-daily-life [R=301,L]
     RewriteRule ^how-to-calm-anxiety-proven-tips-that-actually-work/$ /how-to-calm-anxiety-proven-tips-that-actually-work [R=301,L]
     RewriteRule ^is-adhd-a-disability-what-you-need-to-know/$ /is-adhd-a-disability-what-you-need-to-know [R=301,L]
     RewriteRule ^is-anxiety-a-disability-the-legal-and-medical-truth/$ /is-anxiety-a-disability-the-legal-and-medical-truth [R=301,L]

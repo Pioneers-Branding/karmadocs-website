@@ -80,7 +80,7 @@ require_once __DIR__ . '/includes/header.php';
                     <!-- Image -->
                     <div class="relative h-64 overflow-hidden">
                         <a href="<?php echo url($post['slug']); ?>" class="block h-full w-full">
-                            <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars($post['title']); ?>" width="1600" height="900" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
+                            <img src="<?php echo url($post['image']); ?>" alt="<?php echo htmlspecialchars(!empty($post['image_alt']) ? $post['image_alt'] : $post['title']); ?>" width="1600" height="900" loading="lazy" decoding="async" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110">
                             <div class="absolute inset-0 bg-brand-purple/20 group-hover:bg-transparent transition-colors duration-300"></div>
                         </a>
                         <!-- Badge -->

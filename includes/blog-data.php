@@ -16,6 +16,26 @@ function get_blog_index() {
     }
     $index = [
         [
+            'id'              => 2318,
+            'slug'            => 'how-to-deal-with-anxiety-when-it-affects-daily-life',
+            'title'           => 'How to Deal With Anxiety When It Affects Daily Life',
+            'meta_title'      => 'How to Deal With Anxiety When It Affects Daily Life',
+            'author'          => 'Karma Doctors Team',
+            'date'            => 'November 17, 2026',
+            'date_iso'        => '2026-11-17',
+            'category'        => 'Anxiety',
+            'related_heading' => 'Anxiety Care & Coping',
+            'related_slugs'   => [
+                'how-to-calm-anxiety-proven-tips-that-actually-work',
+                'what-are-the-best-treatments-for-anxiety',
+                'physical-symptoms-of-anxiety-most-people-dont-recognize',
+            ],
+            'image'           => '/assets/blog/how-to-deal-with-anxiety-affecting-daily-life.webp',
+            'image_alt'       => 'Woman at her home desk feeling overwhelmed by anxiety that affects her daily life',
+            'excerpt'         => 'Is anxiety getting in the way of work, sleep, or relationships? Learn the warning signs, 9 proven coping strategies, and when to see a psychiatrist.',
+            'meta_desc'       => 'How to deal with anxiety when it affects daily life: warning signs, 9 proven coping tips, when to see a psychiatrist, and anxiety care in Palm Springs, CA.',
+        ],
+        [
             'id'              => 2310,
             'slug'            => 'does-cigna-cover-tms-therapy',
             'title'           => 'Does Cigna Cover TMS Therapy? What Patients Should Know',
