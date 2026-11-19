@@ -221,6 +221,7 @@ require_once __DIR__ . '/config.php';
                 </p>
                 <div class="flex items-center gap-6 text-xs">
                     <a href="<?php echo url('privacy-policy'); ?>" class="text-gray-500 hover:text-white transition-colors">Privacy Policy</a>
+                    <a href="<?php echo url('privacy-policy#your-privacy-choices'); ?>" class="text-gray-500 hover:text-white transition-colors kt-consent-open">Do Not Sell or Share My Personal Information</a>
                     <a href="<?php echo url('terms-conditions'); ?>" class="text-gray-500 hover:text-white transition-colors">Terms & Conditions</a>
                     <a href="<?php echo url('privacy-policy#hipaa-notice'); ?>" class="text-gray-500 hover:text-white transition-colors">HIPAA Compliance</a>
                 </div>

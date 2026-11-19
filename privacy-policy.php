@@ -171,15 +171,44 @@ require_once __DIR__ . '/includes/header.php';
                     </div>
 
                     <!-- Section 6: Cookies -->
-                    <div class="group relative pl-0 md:pl-8 border-l-0 md:border-l-2 md:border-brand-purple/20 hover:border-brand-purple transition-colors duration-300">
+                    <div id="cookies" style="scroll-margin-top:120px;" class="group relative pl-0 md:pl-8 border-l-0 md:border-l-2 md:border-brand-purple/20 hover:border-brand-purple transition-colors duration-300">
                         <div class="flex items-center mb-4">
                             <div class="w-10 h-10 bg-brand-purple/10 text-brand-purple rounded-xl flex items-center justify-center mr-4 shadow-sm group-hover:scale-110 transition-transform">
                                 <i class="fas fa-cookie-bite text-sm"></i>
                             </div>
                             <h2 class="text-xl font-bold text-gray-800 font-sans tracking-tight">Cookies</h2>
                         </div>
+                        <p class="text-gray-600 leading-relaxed mb-4">
+                            Our website uses cookies (small text files saved on your device) and similar technologies. Some are needed for the site to work. Others help us understand how the site is used and measure our advertising, and these only run if you choose "Accept" in our cookie banner:
+                        </p>
+                        <ul class="text-gray-600 leading-relaxed mb-4 list-disc pl-6 space-y-1">
+                            <li><strong>Google Analytics, Google Ads and Google Tag Manager</strong>: measure visits and ad conversions, such as form submissions.</li>
+                            <li><strong>Meta Pixel</strong> (Facebook/Instagram): measure and improve our ads on Meta platforms.</li>
+                        </ul>
                         <p class="text-gray-600 leading-relaxed">
-                            Our website may use browser cookies to improve your digital user experience, retain your clinic choices, and optimize website functionality.
+                            Some forms on our site are provided by third-party services that may set their own cookies to make the forms work. You can also block or delete cookies in your browser settings, though some parts of our site may not work as well.
+                        </p>
+                    </div>
+
+                    <!-- Section 6b: Your Privacy Choices -->
+                    <div id="your-privacy-choices" style="scroll-margin-top:120px;" class="group relative pl-0 md:pl-8 border-l-0 md:border-l-2 md:border-brand-purple/20 hover:border-brand-purple transition-colors duration-300">
+                        <div class="flex items-center mb-4">
+                            <div class="w-10 h-10 bg-brand-purple/10 text-brand-purple rounded-xl flex items-center justify-center mr-4 shadow-sm group-hover:scale-110 transition-transform">
+                                <i class="fas fa-sliders-h text-sm"></i>
+                            </div>
+                            <h2 class="text-xl font-bold text-gray-800 font-sans tracking-tight">Your Privacy Choices</h2>
+                        </div>
+                        <p class="text-gray-600 leading-relaxed mb-4">
+                            You can accept or reject analytics and advertising cookies at any time. Choosing "Reject" also opts you out of the sale or sharing of your personal information for cross-context behavioral advertising.
+                        </p>
+                        <p class="text-gray-600 leading-relaxed mb-4">
+                            We honor the Global Privacy Control (GPC) signal. If your browser sends it, we treat it as a request to opt out, unless you choose "Accept".
+                        </p>
+                        <p>
+                            <a href="#your-privacy-choices" class="kt-consent-open inline-flex items-center gap-2 px-5 py-3 rounded-xl font-semibold text-white bg-brand-purple hover:opacity-90 transition-opacity">
+                                <i class="fas fa-sliders-h text-sm"></i>
+                                Change my cookie and privacy choices
+                            </a>
                         </p>
                     </div>
 
