@@ -25,15 +25,17 @@
   var TOOLS = (me && me.getAttribute('data-tools')) || 'Google, Meta and Microsoft Clarity';
   var queue = [];
 
+  // The choice is kept in a session cookie (no expiry date), so it lasts
+  // until the browser is closed and visitors are asked again on their next visit.
   function readChoice() {
-    try {
-      var v = JSON.parse(localStorage.getItem(KEY) || 'null');
-      return v && (v.s === 'granted' || v.s === 'denied') ? v.s : null;
-    } catch (e) { return null; }
+    var m = document.cookie.match(new RegExp('(?:^|; )' + KEY + '=(granted|denied)'));
+    return m ? m[1] : null;
   }
   function saveChoice(s) {
-    try { localStorage.setItem(KEY, JSON.stringify({ s: s, t: Date.now() })); } catch (e) {}
+    document.cookie = KEY + '=' + s + '; path=/; SameSite=Lax' + (location.protocol === 'https:' ? '; Secure' : '');
   }
+  // Earlier versions remembered the choice permanently; forget it.
+  try { localStorage.removeItem(KEY); } catch (e) {}
 
   var gpc = navigator.globalPrivacyControl === true;
   var choice = readChoice();
