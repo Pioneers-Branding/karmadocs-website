@@ -904,7 +904,7 @@ require_once __DIR__ . '/includes/header.php';
             <div class="w-full lg:w-1/2">
                 <div
                     class="relative bg-black rounded-2xl shadow-2xl overflow-hidden aspect-video border-4 border-gray-800">
-                    <iframe src="https://www.youtube.com/embed/5gzxAF5TZoE?rel=0" class="inset-0 w-full h-full" loading="lazy" title="Karma Doctors TMS Therapy"
+                    <iframe src="https://www.youtube-nocookie.com/embed/5gzxAF5TZoE?rel=0" class="inset-0 w-full h-full" loading="lazy" title="Karma Doctors TMS Therapy"
                         frameborder="0"
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowfullscreen style="height:400px"></iframe>
